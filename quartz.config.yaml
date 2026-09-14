@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: High School 2028: Valley of Grace
+  pageTitle: "High School 2028: Valley of Grace"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
