@@ -1,7 +1,10 @@
 ---
 title: References
 date: 2026-09-14
-tags: [references, decision-tool, high-school]
+tags:
+  - references
+  - decision-tool
+  - high-school
 ---
 
 # References
