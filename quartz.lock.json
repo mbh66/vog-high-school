@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "vog-high-school": {
+      "source": "https://github.com/mbh66/vog-high-school",
+      "resolved": "https://github.com/mbh66/vog-high-school",
+      "commit": "09041c8f92b14998985d84e12066afd0026645ca",
+      "installedAt": "2026-09-14T18:00:11.150Z"
+    }
+  }
+}
