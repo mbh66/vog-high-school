@@ -21,7 +21,7 @@ The reverse is equally true. Afrikaans-speaking families in Genadendal who send 
 
 **Afrikaans medium.** All subjects taught in Afrikaans. Emil Weder Secondary in Genadendal operates on this basis. Hoërskool Overberg in Caledon is also Afrikaans-medium.
 
-**Dual medium.** Some schools run parallel English and Afrikaans classes within the same institution. Overberg High School in Caledon (a separate school from Hoërskool Overberg) is an English-medium public school in the same town. 
+**Dual medium.** Some schools run parallel English and Afrikaans classes within the same institution. Overberg High School in Caledon (a separate school from Hoërskool Overberg) is an English-medium public school in the same town. The distinction between these two Caledon schools matters: parents asking about "the school in Caledon" need to specify which one.
 
 **Online providers.** Most accredited online schools offer English-medium instruction. Some (Impaq, Syllabis) also offer Afrikaans. The language question is simpler here because the child works from home and the platform delivers in the chosen language.
 
@@ -31,7 +31,7 @@ The reverse is equally true. Afrikaans-speaking families in Genadendal who send 
 
 **The 40-learner threshold.** The national Language in Education Policy states that if 40 learners at a high school request instruction in a particular language, the school must make reasonable effort to accommodate them. In practice, reaching 40 English-medium requests at Emil Weder would require a coordinated effort by parents, and the SGB would still hold significant discretion over implementation.
 
-**Silverwood School.** The proposed Silverwood School is designed as an English-medium, CAPS-compliant high school with Waldorf-inspired pedagogy. As of September 2026, its constitution has not been confirmed. Parents considering Silverwood should verify its registration status, fee structure, and minimum enrolment threshold before relying on it as an option.
+**Silverwood School.** The proposed Silverwood School is designed as an English-medium, CAPS-compliant high school with Waldorf-inspired pedagogy. It is referenced in the Ward 2 Schools Program proposal and the Overberg BioHub Founding Brief as part of the BioHub's Learning Hub. As of September 2026, its constitution has not been confirmed. Parents considering Silverwood should verify its registration status, fee structure, and minimum enrolment threshold before relying on it as an option.
 
 **Language and matric.** The National Senior Certificate examination can be written in either English or Afrikaans (plus other official languages in some subjects). The language of instruction does not limit a learner's examination options in theory, but in practice a learner taught in Afrikaans for five years will struggle to write a matric paper in English, and vice versa. The language choice at Grade 8 is effectively a five-year commitment.
 
