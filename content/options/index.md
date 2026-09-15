@@ -44,4 +44,4 @@ Long-term and partial options will carry more TBV and MS tags than immediate opt
 
 ---
 
-*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[index|Valley of Grace High School Decision Tool]].*

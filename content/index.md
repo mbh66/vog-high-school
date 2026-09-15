@@ -26,7 +26,7 @@ The site is organised around [[variables/index|ten decision variables]]. Each va
 
 If you are a parent with a child entering Grade 8 in 2028 or later, start with [[01-language-of-instruction|Variable 1: Language of Instruction]] and work through the variables in order. Skip any that don't apply to your family. When you reach the end, you should have a shortlist of one to three options that fit your circumstances, and a clear list of questions still to answer.
 
-If you already know your constraints (language, budget, or logistics have already eliminated most options) and you're comfortable with AI, go direct to [[content/tools/index|Tools]] and fire up the AI Assistant. Otherwise, go directly to the variable that matters most (below) and work from there.
+If you already know your constraints (language, budget, or logistics have already eliminated most options) and you're comfortable with AI, go direct to [[tools/index|Tools]] and fire up the AI Assistant. Otherwise, go directly to the variable that matters most (below) and work from there.
 
 If you want to see the collective picture (how many families are making this decision, and what happens if they coordinate), start with [[09-social-and-community|Variable 9: Social and Community Considerations]].
 
