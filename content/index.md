@@ -21,28 +21,28 @@ The site is organised around ten decision variables. Each variable page explains
 
 ## The ten variables
 
-1. **[[Variable 1: Language of Instruction]]** — English, Afrikaans, or dual-medium? The first filter for most families.
-2. **[[Variable 2: Daily Logistics]]** — How does your child get to school? Walking distance, daily transport, boarding, or staying home for online learning.
-3. **[[Variable 3: School Type and Registration Status]]** — Public school, registered independent, online provider, or microschool. Each carries different legal standing, fees, and accountability.
-4. **[[Variable 4: Curriculum and Examination Body]]** — CAPS, Cambridge, or Waldorf with CAPS compliance. DBE, IEB, or SACAI examination. What the qualification is and who assesses it.
-5. **[[Variable 5: Cost]]** — The full annual cost (fees, transport, devices, lost time), not the advertised fee. Five-year sustainability.
-6. **[[Variable 6: Pedagogy and Values]]** — Standard academic, Waldorf, project-based, online self-directed. What the classroom feels like and what the school believes education is for.
-7. **[[Variable 7: Subject Availability]]** — Which FET electives are on offer. Small schools have small menus. Subject choice at Grade 10 opens or closes post-school doors.
-8. **[[Variable 8: Post-School Pathway]]** — University, TVET college, local economy entry, or international. What is the high school preparing your child for?
-9. **[[Variable 9: Social and Community Considerations]]** — Peer groups, diversity, connection to the valley. The social consequences of each option.
-10. **[[Variable 10: Silverwood-Specific Questions]]** — A checklist of 18 questions for parents evaluating the proposed Silverwood School.
+1. **[[01-language-of-instruction|Language of Instruction]]:** — English, Afrikaans, or dual-medium? The first filter for most families.
+2. **[[02-daily-logistics|Daily Logistics]]** — How does your child get to school? Walking distance, daily transport, boarding, or staying home for online learning.
+3. **[[03-school-type-and-registration|School Type and Registration Status]]:** — Public school, registered independent, online provider, or microschool. Each carries different legal standing, fees, and accountability.
+4. **[[04-curriculum-and-examination-body|Curriculum and Examination Body]]:** — CAPS, Cambridge, or Waldorf with CAPS compliance. DBE, IEB, or SACAI examination. What the qualification is and who assesses it.
+5. **[[05-cost|Cost]]:** — The full annual cost (fees, transport, devices, lost time), not the advertised fee. Five-year sustainability.
+6. **[[06-pedagogy-and-values|Pedagogy and Values]]:** — Standard academic, Waldorf, project-based, online self-directed. What the classroom feels like and what the school believes education is for.
+7. **[[07-subject-availability|Subject Availability]]:** — Which FET electives are on offer. Small schools have small menus. Subject choice at Grade 10 opens or closes post-school doors.
+8. **[[08-post-school-pathway|Post-School Pathway]]:** — University, TVET college, local economy entry, or international. What is the high school preparing your child for?
+9. **[[09-social-and-community|Social and Community Considerations]]:** — Peer groups, diversity, connection to the valley. The social consequences of each option.
+10. **[[10-silverwood-specific|Silverwood-Specific Questions]]:** — A checklist of 18 questions for parents evaluating the proposed Silverwood School.
 
 ## The school and model options
 
-Each concrete option available to valley families will have its own profile page, assessed against all ten variables. These pages are in development. The options include:
+Each concrete option available to valley families has its own profile page, assessed against all ten variables. The options include:
 
-- Emil Weder Secondary (Genadendal)
-- Overberg High School (Caledon)
-- Hoërskool Overberg (Caledon)
-- Online/distance schooling (multiple providers)
-- Silverwood School (proposed, if constituted)
-- Microschool or learning pod (parent-organised)
-- Boarding schools (further afield)
+- [[emil-weder|Emil Weder Secondary (Genadendal)]] 
+- [[overberg-high|Overberg High School (Caledon)]]
+- [[hoerskool-overberg|Hoërskool Overberg (Caledon)]]
+- [[online-schooling|Online/distance schooling]] (multiple providers)
+- [[option-silverwood|Silverwood School]] (proposed, if constituted)
+- [[microschool|Microschool or learning pod]] (parent-organised)
+- [[boarding-schools|Boarding schools]] (further afield)
 
 ## How to read the evidence
 
@@ -70,8 +70,8 @@ The variable pages were drafted with AI assistance (Claude, Anthropic) using pro
 
 ## Where to start
 
-If you are a parent with a child entering Grade 8 in 2028 or later, start with [[Variable 1: Language of Instruction]] and work through the variables in order. Skip any that do not apply to your family. When you reach the end, you should have a shortlist of one to three options that fit your circumstances, and a clear list of questions still to answer.
+If you are a parent with a child entering Grade 8 in 2028 or later, start with [[01-language-of-instruction|Variable 1: Language of Instruction]] and work through the variables in order. Skip any that do not apply to your family. When you reach the end, you should have a shortlist of one to three options that fit your circumstances, and a clear list of questions still to answer.
 
-If you already know your constraints (language, budget, or logistics have already eliminated most options), go directly to the variable that matters most and work from there.
+If you already know your constraints (language, budget, or logistics have already eliminated most options) and are comfortable with AI, go to [[How to Use This Site with an AI Assistant]]. Otherwise, go directly to the variable that matters most and work from there.
 
-If you want to see the collective picture (how many families are making this decision, and what happens if they coordinate), start with [[Variable 9: Social and Community Considerations]].
+If you want to see the collective picture (how many families are making this decision, and what happens if they coordinate), start with [[09-social-and-community|Variable 9: Social and Community Considerations]].
