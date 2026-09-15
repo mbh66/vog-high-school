@@ -1,12 +1,17 @@
 ---
-title: Option Profiles
+title: Options - Immediate
 date: 2026-09-15
-tags: [index, decision-tool, high-school, options]
+tags:
+  - index
+  - decision-tool
+  - high-school
+  - options
+  - short-term
 ---
 
 # Option Profiles
 
-Each page below profiles a concrete school or schooling model available to valley families, assessed against all ten [[decision variables|Greyton High School Decision Tool]]. The summary table at the top of each page gives a quick read. The variable-by-variable assessment underneath gives the detail. The "Best fit" section at the bottom states plainly who the option suits and who it does not.
+Each page below profiles a concrete school or schooling model available to valley families, assessed against all ten [[content/variables/index|Greyton High School Decision Tool]]. The summary table at the top of each page gives a quick read. The variable-by-variable assessment underneath gives the detail. The "Best fit" section at the bottom states plainly who the option suits and who it does not.
 
 Where information is missing, the page says so and names the verification step. No option is presented as better or worse than any other. Each carries a different set of trade-offs, and the right choice depends on the family.
 

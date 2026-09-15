@@ -1,7 +1,11 @@
 ---
 title: Decision Variables
 date: 2026-09-15
-tags: [index, decision-tool, high-school, variables]
+tags:
+  - index
+  - decision-tool
+  - high-school
+  - variables
 ---
 
 

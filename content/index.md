@@ -1,5 +1,5 @@
 ---
-title: Greyton High School Decision Tool
+title: Valley of Grace High School Decision Tool
 date: 2026-09-14
 tags:
   - index
