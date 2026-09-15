@@ -82,4 +82,4 @@ The tool should help families see that their individual decision has a collectiv
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. See also: [[Variable 8: Post-School Pathway]], [[Variable 10: Silverwood-Specific Questions]].*
+*This page is part of the [[content/index]]. See also: [[Variable 8: Post-School Pathway]], [[Variable 10: Silverwood-Specific Questions]].*

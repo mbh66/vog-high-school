@@ -97,4 +97,4 @@ Parents whose children have specific post-school ambitions (see [[Variable 8: Po
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. See also: [[Variable 6: Pedagogy and Values]], [[Variable 8: Post-School Pathway]].*
+*This page is part of the [[content/index]]. See also: [[Variable 6: Pedagogy and Values]], [[Variable 8: Post-School Pathway]].*

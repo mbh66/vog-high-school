@@ -64,4 +64,4 @@ The reverse is equally true. Afrikaans-speaking families in Genadendal who send 
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. See also: [[Variable 2: Daily Logistics]], [[Variable 3: School Type and Registration Status]].*
+*This page is part of the [[content/index]]. See also: [[Variable 2: Daily Logistics]], [[Variable 3: School Type and Registration Status]].*

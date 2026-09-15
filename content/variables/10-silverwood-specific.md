@@ -87,4 +87,4 @@ The planning session is the place to test that commitment. The tool's role is to
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. See also: [[Variable 1: Language of Instruction]], [[Variable 3: School Type and Registration Status]], [[Variable 5: Cost]], [[Variable 9: Social and Community Considerations]].*
+*This page is part of the [[content/index]]. See also: [[Variable 1: Language of Instruction]], [[Variable 3: School Type and Registration Status]], [[Variable 5: Cost]], [[Variable 9: Social and Community Considerations]].*

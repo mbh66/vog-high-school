@@ -53,8 +53,8 @@ Each profile follows the same structure:
 3. **Best fit** — who this option suits and who it does not.
 4. **Key unknowns** — the TBV items that matter most for this option.
 
-If you have already worked through the [[Greyton High School Decision Tool|variable pages]] or used the [[How to Use This Site with an AI Assistant|AI prompt]], you know your priorities. Use the comparison table above to eliminate options that clearly do not fit, then read the remaining profiles in full.
+If you have already worked through the [[content/index|variable pages]] or used the [[content/tools/index|AI prompt]], you know your priorities. Use the comparison table above to eliminate options that clearly do not fit, then read the remaining profiles in full.
 
 ---
 
-*Return to [[Greyton High School Decision Tool|Index]].*
+*Return to [[content/index|Index]].*

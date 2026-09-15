@@ -1,10 +1,14 @@
 ---
-title: "How to Use This Site with an AI Assistant"
+title: Tools
 status: draft-v0.1
 date: 2026-09-15
-tags: [guide, decision-tool, high-school, prompt]
+tags:
+  - guide
+  - decision-tool
+  - high-school
+  - prompt
 ---
-
+# How to Use This Site with an AI Assistant
 
 You can use any AI chatbot (Claude, ChatGPT, Gemini, Copilot, or others) to help you work through the decision tool. Copy the prompt below, fill in as many or as few of the variables as you like, and paste it into your chatbot of choice.
 

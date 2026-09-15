@@ -101,4 +101,4 @@ It may also suit English-speaking families who: have a child with strong Afrikaa
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*
+*This page is part of the [[content/index]]. Return to [[docs/index]].*

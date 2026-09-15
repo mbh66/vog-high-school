@@ -135,4 +135,4 @@ All 18 questions listed in [[Variable 10: Silverwood-Specific Questions]] remain
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*
+*This page is part of the [[content/index]]. Return to [[docs/index]].*

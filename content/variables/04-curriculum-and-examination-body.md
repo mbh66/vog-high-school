@@ -95,4 +95,4 @@ Umalusi has stated directly that a university cannot differentiate which of the 
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. See also: [[Variable 3: School Type and Registration Status]], [[Variable 5: Cost]].*
+*This page is part of the [[content/index]]. See also: [[Variable 3: School Type and Registration Status]], [[Variable 5: Cost]].*

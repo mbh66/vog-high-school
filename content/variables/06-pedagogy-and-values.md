@@ -114,4 +114,4 @@ Pedagogy is a method. Values are broader. Some questions that sit in this space:
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. See also: [[Variable 5: Cost]], [[Variable 7: Subject Availability]].*
+*This page is part of the [[content/index]]. See also: [[Variable 5: Cost]], [[Variable 7: Subject Availability]].*

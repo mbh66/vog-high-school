@@ -9,7 +9,7 @@ tags:
 ---
 
 
-The catchment constraint is the defining feature of the valley's high school problem. There are too few high school pupils in the Greyton/Genadendal corridor to sustain a conventional new school, and every option outside the immediate valley introduces a transport burden.
+The catchment constraint is the defining feature of the valley's high school problem. There are too few high school pupils in the Greyton/Genadendal corridor to sustain a conventional new English medium school, and every option outside the immediate valley introduces a transport burden.
 
 This variable asks: how does your child physically get to school each day, and what does that cost in money, time, and family capacity?
 
@@ -103,4 +103,4 @@ Most parents will combine this variable with cost ([[Variable 5: Cost]]) and lan
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. See also: [[Variable 1: Language of Instruction]], [[Variable 3: School Type and Registration Status]].*
+*This page is part of the [[content/index]]. See also: [[Variable 1: Language of Instruction]], [[Variable 3: School Type and Registration Status]].*

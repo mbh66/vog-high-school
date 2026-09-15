@@ -136,4 +136,4 @@ The WCED may take several months to process registration. A school that begins o
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. See also: [[Variable 1: Language of Instruction]], [[Variable 2: Daily Logistics]].*
+*This page is part of the [[content/index]]. See also: [[Variable 1: Language of Instruction]], [[Variable 2: Daily Logistics]].*

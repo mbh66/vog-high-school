@@ -126,4 +126,4 @@ It is a poor fit where: the family cannot sustain daily transport costs or time;
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*
+*This page is part of the [[content/index]]. Return to [[docs/index]].*

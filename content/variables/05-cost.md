@@ -158,4 +158,4 @@ These are rough ranges. Every family's actual number will differ. The point is t
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. See also: [[Variable 4: Curriculum and Examination Body]], [[Variable 6: Pedagogy and Values]].*
+*This page is part of the [[content/index]]. See also: [[Variable 4: Curriculum and Examination Body]], [[Variable 6: Pedagogy and Values]].*

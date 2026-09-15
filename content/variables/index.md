@@ -49,10 +49,10 @@ These variables ask what the high school is preparing the child for and what soc
 
 **If you are starting from scratch:** Read Variables 1 through 3 in order. They will eliminate several options. Then read the [[Option Profiles|option profiles]] for whatever remains.
 
-**If you want AI-assisted filtering:** Use the [[How to Use This Site with an AI Assistant|AI prompt page]]. Fill in your inputs across all ten variables and let the chatbot match you against the option profiles.
+**If you want AI-assisted filtering:** Use the [[content/tools/index|AI prompt page]]. Fill in your inputs across all ten variables and let the chatbot match you against the option profiles.
 
 **If you want the collective picture:** Read [[Variable 9: Social and Community Considerations]]. The number of families making this decision together determines which collective solutions (lift club, microschool, new school) become viable.
 
 ---
 
-*Return to [[Greyton High School Decision Tool|Index]].*
+*Return to [[content/index|Index]].*

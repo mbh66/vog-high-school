@@ -129,4 +129,4 @@ The following sources are referenced in the variable pages but their URLs were n
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Last updated: 14 September 2026.*
+*This page is part of the [[content/index]]. Last updated: 14 September 2026.*
