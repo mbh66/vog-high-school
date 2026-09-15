@@ -1,11 +1,13 @@
 ---
-title: "Variable 3: School Type and Registration Status"
+title: "Variable 03: School Type and Registration Status"
 status: draft-v0.1
 date: 2026-09-14
-tags: [variable, decision-tool, high-school]
+tags:
+  - variable
+  - decision-tool
+  - high-school
 ---
 
-# School Type and Registration Status
 
 Not all schools are the same kind of institution, and the differences carry real consequences for the qualification your child receives, the fees you pay, and the protections you have if something goes wrong.
 

@@ -1,11 +1,13 @@
 ---
-title: "Option Profile: Hoërskool Overberg"
+title: Hoërskool Overberg, Caledon
 status: draft-v0.1
 date: 2026-09-14
-tags: [option, decision-tool, high-school]
+tags:
+  - option
+  - decision-tool
+  - high-school
 ---
 
-# Hoërskool Overberg, Caledon
 
 Afrikaans-medium public high school with boarding facilities. Larger than Emil Weder. Approximately 35 km from Greyton.
 
@@ -99,4 +101,4 @@ It may also suit English-speaking families who: have a child with strong Afrikaa
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[Index]].*
+*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*

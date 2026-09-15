@@ -1,11 +1,13 @@
 ---
-title: "Option Profile: Boarding Schools (Further Afield)"
+title: Boarding Schools (Further Afield)
 status: draft-v0.1
 date: 2026-09-14
-tags: [option, decision-tool, high-school]
+tags:
+  - option
+  - decision-tool
+  - high-school
 ---
 
-# Boarding Schools (Further Afield)
 
 A composite profile covering independent boarding schools outside the immediate valley and Caledon area. This includes schools in Franschhoek, Stellenbosch, Somerset West, Paarl, and Cape Town.
 
@@ -125,4 +127,4 @@ It is a poor fit where: the family cannot afford the fees and no bursary is avai
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[Index]].*
+*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*

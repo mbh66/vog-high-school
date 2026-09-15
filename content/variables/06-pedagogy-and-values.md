@@ -1,11 +1,13 @@
 ---
-title: "Variable 6: Pedagogy and Values"
+title: "Variable 06: Pedagogy and Values"
 status: draft-v0.1
 date: 2026-09-14
-tags: [variable, decision-tool, high-school]
+tags:
+  - variable
+  - decision-tool
+  - high-school
 ---
 
-# Pedagogy and Values
 
 Some parents will never reach this variable. Cost, language, and logistics will have already made their decision for them. For families who do have a choice, this is where the question shifts from "which school can we access?" to "which school do we want?"
 

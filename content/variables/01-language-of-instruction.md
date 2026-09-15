@@ -1,11 +1,13 @@
 ---
-title: "Variable 1: Language of Instruction"
+title: "Variable 01: Language of Instruction"
 status: draft-v0.1
 date: 2026-09-14
-tags: [variable, decision-tool, high-school]
+tags:
+  - variable
+  - decision-tool
+  - high-school
 ---
 
-# Language of Instruction
 
 This is the first filter most Greyton families encounter. It eliminates options before any other consideration comes into play.
 

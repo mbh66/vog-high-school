@@ -5,7 +5,6 @@ date: 2026-09-14
 tags: [variable, decision-tool, high-school]
 ---
 
-# Silverwood-Specific Questions
 
 Silverwood School appears across the other nine variables. This page consolidates everything a parent needs to ask and verify before treating Silverwood as a real option for 2028.
 

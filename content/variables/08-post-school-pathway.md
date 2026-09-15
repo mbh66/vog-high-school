@@ -1,11 +1,13 @@
 ---
-title: "Variable 8: Post-School Pathway"
+title: "Variable 08: Post-School Pathway"
 status: draft-v0.1
 date: 2026-09-14
-tags: [variable, decision-tool, high-school]
+tags:
+  - variable
+  - decision-tool
+  - high-school
 ---
 
-# Post-School Pathway
 
 Most parents think about this variable first and confront it last. The question is: what is the high school supposed to prepare your child for?
 

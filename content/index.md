@@ -4,7 +4,6 @@ date: 2026-09-14
 tags: [index, decision-tool, high-school]
 ---
 
-# Greyton High School Decision Tool
 
 A planning resource for families in the Valley of Grace (Greyton, Genadendal, and surrounding settlements) who are thinking about high school options from 2028 onwards.
 

@@ -1,11 +1,13 @@
 ---
-title: "Option Profile: Overberg High School"
+title: Overberg High School, Caledon
 status: draft-v0.1
 date: 2026-09-14
-tags: [option, decision-tool, high-school]
+tags:
+  - option
+  - decision-tool
+  - high-school
 ---
 
-# Overberg High School, Caledon
 
 English-medium public high school. Quintile 5 (fee-paying). Approximately 492 learners (2023).
 
@@ -124,4 +126,4 @@ It is a poor fit where: the family cannot sustain daily transport costs or time;
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[Index]].*
+*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*

@@ -1,11 +1,13 @@
 ---
-title: "Variable 2: Daily Logistics"
+title: "Variable 02: Daily Logistics"
 status: draft-v0.1
 date: 2026-09-14
-tags: [variable, decision-tool, high-school]
+tags:
+  - variable
+  - decision-tool
+  - high-school
 ---
 
-# Daily Logistics
 
 The catchment constraint is the defining feature of the valley's high school problem. There are too few high school pupils in the Greyton/Genadendal corridor to sustain a conventional new school, and every option outside the immediate valley introduces a transport burden.
 

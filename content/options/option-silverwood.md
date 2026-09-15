@@ -1,11 +1,13 @@
 ---
-title: "Option Profile: Silverwood School"
+title: "Option Profile: Silverwood School (Proposed)"
 status: draft-v0.1
 date: 2026-09-14
-tags: [option, decision-tool, high-school]
+tags:
+  - option
+  - decision-tool
+  - high-school
 ---
 
-# Silverwood School (Proposed)
 
 Proposed CAPS-compliant, Waldorf-inspired, English-medium independent high school, integrated with the Overberg BioHub. Not yet constituted as of September 2026.
 
@@ -133,4 +135,4 @@ All 18 questions listed in [[Variable 10: Silverwood-Specific Questions]] remain
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[Index]].*
+*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*

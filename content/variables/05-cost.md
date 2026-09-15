@@ -1,11 +1,13 @@
 ---
-title: "Variable 5: Cost"
+title: "Variable 05: Cost"
 status: draft-v0.1
 date: 2026-09-14
-tags: [variable, decision-tool, high-school]
+tags:
+  - variable
+  - decision-tool
+  - high-school
 ---
 
-# Cost
 
 This variable is where aspiration meets arithmetic. Many parents will have already filtered by language and logistics before reaching it. For those who have not, cost may be the first filter. Either way, the honest version of this calculation includes items that school fee schedules do not advertise.
 

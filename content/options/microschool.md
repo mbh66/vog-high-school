@@ -1,11 +1,13 @@
 ---
-title: "Option Profile: Microschool / Learning Pod"
+title: Microschool / Learning Pod
 status: draft-v0.1
 date: 2026-09-14
-tags: [option, decision-tool, high-school]
+tags:
+  - option
+  - decision-tool
+  - high-school
 ---
 
-# Microschool / Learning Pod
 
 A group of families pooling resources to educate their children together in the valley, using an accredited online curriculum supplemented by a local facilitator and shared physical space. This is not a registered school. It is a structured form of collective home education.
 
@@ -131,4 +133,4 @@ It is a poor fit where: the family wants the institutional security of a registe
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[Index]].*
+*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*

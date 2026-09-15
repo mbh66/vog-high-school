@@ -1,11 +1,13 @@
 ---
-title: "Option Profile: Online / Distance Schooling"
+title: Online / Distance Schooling
 status: draft-v0.1
 date: 2026-09-14
-tags: [option, decision-tool, high-school]
+tags:
+  - option
+  - decision-tool
+  - high-school
 ---
 
-# Online / Distance Schooling
 
 A composite profile covering accredited online high school providers. The child studies from home using a digital platform. This is not a single school; it is a category of provision with significant variation between providers.
 
@@ -155,4 +157,4 @@ It is a poor fit where: the child needs the social structure of a physical schoo
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[Index]].*
+*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*

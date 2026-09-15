@@ -1,11 +1,13 @@
 ---
-title: "Variable 4: Curriculum and Examination Body"
+title: "Variable 04: Curriculum and Examination Body"
 status: draft-v0.1
 date: 2026-09-14
-tags: [variable, decision-tool, high-school]
+tags:
+  - variable
+  - decision-tool
+  - high-school
 ---
 
-# Curriculum and Examination Body
 
 The curriculum determines what your child learns. The examination body determines how they are assessed at matric and which qualification they receive. These are separate choices, and both matter.
 

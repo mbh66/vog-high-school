@@ -1,11 +1,13 @@
 ---
-title: "Variable 9: Social and Community Considerations"
+title: "Variable 09: Social and Community Considerations"
 status: draft-v0.1
 date: 2026-09-14
-tags: [variable, decision-tool, high-school]
+tags:
+  - variable
+  - decision-tool
+  - high-school
 ---
 
-# Social and Community Considerations
 
 The previous variables deal in facts that can be looked up: fees, subject lists, examination bodies, distances. This one deals in things harder to measure but no less real: who your child spends their days with, what social world they enter, and what relationship they maintain with the valley they live in.
 

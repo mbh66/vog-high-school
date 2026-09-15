@@ -1,11 +1,13 @@
 ---
-title: "Variable 7: Subject Availability"
+title: "Variable 07: Subject Availability"
 status: draft-v0.1
 date: 2026-09-14
-tags: [variable, decision-tool, high-school]
+tags:
+  - variable
+  - decision-tool
+  - high-school
 ---
 
-# Subject Availability
 
 A high school's size determines its subject menu. This is where the catchment constraint bites hardest.
 

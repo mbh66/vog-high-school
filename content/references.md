@@ -7,7 +7,6 @@ tags:
   - high-school
 ---
 
-# References
 
 URLs discovered during the research session that produced this decision tool (14 September 2026). Grouped by topic. Each entry notes what the source contains and its relevance to the variable pages.
 

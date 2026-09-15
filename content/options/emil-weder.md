@@ -1,11 +1,13 @@
 ---
-title: "Option Profile: Emil Weder Secondary"
+title: Emil Weder Secondary, Genadendal
 status: draft-v0.1
 date: 2026-09-14
-tags: [option, decision-tool, high-school]
+tags:
+  - option
+  - decision-tool
+  - high-school
 ---
 
-# Emil Weder Secondary, Genadendal
 
 Government high school. Afrikaans-medium. The only operational high school in the Valley of Grace.
 
@@ -113,4 +115,4 @@ Emil Weder is a poor fit where: the child has no Afrikaans and the family is not
 
 ---
 
-*This page is part of the [[Greyton High School Decision Tool]]. Return to [[Index]].*
+*This page is part of the [[Greyton High School Decision Tool]]. Return to [[docs/index]].*
