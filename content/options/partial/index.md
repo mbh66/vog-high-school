@@ -1,5 +1,5 @@
 ---
-title: Partial Options
+title: Options - Partial
 date: 2026-09-15
 tags:
   - index

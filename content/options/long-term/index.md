@@ -1,5 +1,5 @@
 ---
-title: Long-term Options
+title: Options - Long-term
 date: 2026-09-15
 tags:
   - index
