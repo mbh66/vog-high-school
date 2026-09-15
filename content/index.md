@@ -5,7 +5,7 @@ tags: [index, decision-tool, high-school]
 ---
 
 
-A planning resource for families in the Valley of Grace (Greyton, Genadendal, and surrounding settlements) who are thinking about high school options from 2028 onwards.
+A planning resource for families in, or considering a move to, the Valley of Grace (Greyton and Genadendal), Western Cape who are thinking about high school options from 2028 onwards.
 
 ## The problem
 
@@ -15,13 +15,13 @@ The deeper problem is structural. There are too few high-school-age children in 
 
 ## What this site does
 
-This site maps the decisions parents face. It does not tell you which school to choose. It helps you work through the variables in a structured way, understand what each option actually involves, and identify where you need more information before deciding.
+This site maps the decisions parents face. It doesn't tell you which school to choose. It helps you work through the variables in a structured way, understand what each option actually involves, and identify where you need more information before deciding.
 
-The site is organised around ten decision variables. Each variable page explains what the variable is, what the options within it are, what evidence exists, and what gaps remain. The variables are presented in roughly the order most families will encounter them, though your own sequence may differ.
+The site is organised around ten decision variables. Each variable page explains what the variable is, what the options within it are, what evidence exists, and what gaps remain. The variables are presented in roughly the order most families will encounter them, though your own priorities may differ.
 
 ## The ten variables
 
-1. **[[01-language-of-instruction|Language of Instruction]]:** — English, Afrikaans, or dual-medium? The first filter for most families.
+1. **[[01-language-of-instruction|Language of Instruction]]:** — English, Afrikaans, or dual-medium? This is the first filter for most families.
 2. **[[02-daily-logistics|Daily Logistics]]** — How does your child get to school? Walking distance, daily transport, boarding, or staying home for online learning.
 3. **[[03-school-type-and-registration|School Type and Registration Status]]:** — Public school, registered independent, online provider, or microschool. Each carries different legal standing, fees, and accountability.
 4. **[[04-curriculum-and-examination-body|Curriculum and Examination Body]]:** — CAPS, Cambridge, or Waldorf with CAPS compliance. DBE, IEB, or SACAI examination. What the qualification is and who assesses it.
@@ -34,7 +34,7 @@ The site is organised around ten decision variables. Each variable page explains
 
 ## The school and model options
 
-Each concrete option available to valley families has its own profile page, assessed against all ten variables. The options include:
+Each concrete option available to valley families has its own profile page, assessed against all ten variables. The current options include:
 
 - [[emil-weder|Emil Weder Secondary (Genadendal)]] 
 - [[overberg-high|Overberg High School (Caledon)]]
@@ -43,6 +43,8 @@ Each concrete option available to valley families has its own profile page, asse
 - [[option-silverwood|Silverwood School]] (proposed, if constituted)
 - [[microschool|Microschool or learning pod]] (parent-organised)
 - [[boarding-schools|Boarding schools]] (further afield)
+
+Under development is a wider adult education initiative that parallels the Silverwood option.
 
 ## How to read the evidence
 
@@ -58,13 +60,17 @@ Each variable page ends with an evidence table and a gaps section. The gaps are 
 
 This site is a shared resource. It improves when parents add what they know.
 
-You can contribute by: verifying a TBV claim (you called the school and got the answer), adding a first-hand experience report (your child attends one of these schools or uses one of these providers), correcting an error, or flagging something the site has missed.
+You can contribute by: 
+- verifying a TBV claim (you called the school and got the answer), 
+- adding a first-hand experience report (your child attends one of these schools or uses one of these providers), 
+- correcting an error, or 
+- flagging something the site has missed.
 
-Contributions should state the source (who you spoke to, when, what they said) so that other parents can assess the reliability. A parent who called Overberg High School and confirmed the 2027 fee schedule is contributing IC-grade evidence. A parent who heard from a friend that boarding fees are "around R30,000" is contributing TBV-grade evidence. Both are useful. The distinction matters.
+Contributions should state the source (who you spoke to, when, what they said) so that other parents can assess the reliability. A parent who called Overberg High School and confirmed the 2027 fee schedule is contributing IC-grade evidence. A parent who heard from a friend that boarding fees are "around R30,000" is contributing TBV-grade evidence. Both are useful. 
 
 ## Who maintains this site
 
-This planning resource was initiated by Michael Haupt, independent community coordinator for Ward 2 (Theewaterskloof Municipality), as preparation for a parent planning session on high school options from 2028. It is not affiliated with any school, provider, or government department. It does not promote any particular option.
+This planning resource was initiated by Michael Haupt, independent community coordinator for Ward 2 (Theewaterskloof Municipality) Business Forum, as preparation for a parent planning session on high school options from 2028. It is not affiliated with any school, provider, or government department. It does not promote any particular option.
 
 The variable pages were drafted with AI assistance (Claude, Anthropic) using project documents, web research, and publicly available school and regulatory information. All AI-assisted content is tagged with evidence status and subject to the same verification standards as any other source.
 
