@@ -13,5 +13,5 @@ tags:
 Here are additional tools to help you use the decision maker.
 
 - **[[ai-assistant|AI Assistant]]:** You can use any AI chatbot (Claude, ChatGPT, Gemini, Copilot, or others) to help you work through the decision tool. 
-- **[[template|New Option Template]]:** Use this format if you'd like to propose a new option. 
+- **[[template|New Option Template]]:** Use this format if you'd like to propose a new option to be included in the [[content/index|Valley of Grace High School Decision Tool]]. 
 

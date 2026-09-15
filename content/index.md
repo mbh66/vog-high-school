@@ -8,7 +8,7 @@ tags:
 ---
 
 
-A planning resource for families in, or considering a move to, the Valley of Grace (Greyton and Genadendal), Western Cape who are thinking about high school options from 2028 onwards.
+A planning resource for families living in, or considering a move to, the Valley of Grace (Greyton and Genadendal), Western Cape, and who are thinking about high school options from 2028 onwards.
 
 ## The problem
 
@@ -18,9 +18,17 @@ The deeper problem is structural. There are too few high-school-age children in 
 
 ## What this site does
 
-This site maps the decisions parents face. It doesn't tell you which school to choose. It helps you work through the variables in a structured way, understand what each option actually involves, and identify where you need more information before deciding.
+This site maps the decisions parents typically face. It can't tell you which school to choose, but it can help you work through the variables in a structured way, understand what each option actually involves, and identify where you need more information before deciding.
 
-The site is organised around ten decision variables. Each variable page explains what the variable is, what the options within it are, what evidence exists, and what gaps remain. The variables are presented in roughly the order most families will encounter them, though your own priorities may differ.
+The site is organised around [[variables/index|ten decision variables]]. Each variable page explains what the variable is, what the options within it are, what evidence exists, and what gaps remain. The variables are presented in roughly the order most families will encounter them, though your own priorities may differ.
+
+## Where to start
+
+If you are a parent with a child entering Grade 8 in 2028 or later, start with [[01-language-of-instruction|Variable 1: Language of Instruction]] and work through the variables in order. Skip any that don't apply to your family. When you reach the end, you should have a shortlist of one to three options that fit your circumstances, and a clear list of questions still to answer.
+
+If you already know your constraints (language, budget, or logistics have already eliminated most options) and you're comfortable with AI, go direct to [[content/tools/index|Tools]] and fire up the AI Assistant. Otherwise, go directly to the variable that matters most (below) and work from there.
+
+If you want to see the collective picture (how many families are making this decision, and what happens if they coordinate), start with [[09-social-and-community|Variable 9: Social and Community Considerations]].
 
 ## The ten variables
 
@@ -37,13 +45,17 @@ The site is organised around ten decision variables. Each variable page explains
 
 ## The school and model options
 
-Each concrete option available to valley families has its own profile page, assessed against all ten variables. The current options include:
+Each concrete option available to valley families has its own profile page, assessed against all ten variables. Options are split into:
+- [[options/immediate/index|Immediate]] - workable from 2028
+- [[options/long-term|Long-term]] - 
+
+The current options include:
 
 - [[emil-weder|Emil Weder Secondary (Genadendal)]] 
 - [[overberg-high|Overberg High School (Caledon)]]
 - [[hoerskool-overberg|Hoërskool Overberg (Caledon)]]
 - [[online-schooling|Online/distance schooling]] (multiple providers)
-- [[option-silverwood|Silverwood School]] (proposed, if constituted)
+- [[silverwood-high|Silverwood School]] (proposed, if constituted)
 - [[microschool|Microschool or learning pod]] (parent-organised)
 - [[boarding-schools|Boarding schools]] (further afield)
 
@@ -57,7 +69,7 @@ Every factual claim on this site carries a status tag:
 - **MS** (Mission-Sourced): comes from project documents authored by Michael Haupt or prepared under his coordination. These describe plans, proposals, and local strategy. They are accurate descriptions of intention, not independent verification of outcomes.
 - **TBV** (To Be Verified): the claim is plausible but has not been confirmed. The source is identified, and the verification step is named. Parents are encouraged to fill TBV gaps by checking directly with schools, providers, or authorities.
 
-Each variable page ends with an evidence table and a gaps section. The gaps are invitations, not admissions of failure. If you know the answer to a gap, contribute it.
+Each variable page ends with an evidence table and a gaps section. The gaps are invitations, rather than admissions of failure. If you know the answer to a gap, contribute it.
 
 ## How to contribute
 
@@ -71,16 +83,12 @@ You can contribute by:
 
 Contributions should state the source (who you spoke to, when, what they said) so that other parents can assess the reliability. A parent who called Overberg High School and confirmed the 2027 fee schedule is contributing IC-grade evidence. A parent who heard from a friend that boarding fees are "around R30,000" is contributing TBV-grade evidence. Both are useful. 
 
-## Who maintains this site
+If you have contributions, reach out via the [[contacts|Contacts]] page.
+
+## Who maintains this site?
 
 This planning resource was initiated by Michael Haupt, independent community coordinator for Ward 2 (Theewaterskloof Municipality) Business Forum, as preparation for a parent planning session on high school options from 2028. It is not affiliated with any school, provider, or government department. It does not promote any particular option.
 
 The variable pages were drafted with AI assistance (Claude, Anthropic) using project documents, web research, and publicly available school and regulatory information. All AI-assisted content is tagged with evidence status and subject to the same verification standards as any other source.
 
-## Where to start
 
-If you are a parent with a child entering Grade 8 in 2028 or later, start with [[01-language-of-instruction|Variable 1: Language of Instruction]] and work through the variables in order. Skip any that do not apply to your family. When you reach the end, you should have a shortlist of one to three options that fit your circumstances, and a clear list of questions still to answer.
-
-If you already know your constraints (language, budget, or logistics have already eliminated most options) and are comfortable with AI, go to [[content/tools/index]]. Otherwise, go directly to the variable that matters most and work from there.
-
-If you want to see the collective picture (how many families are making this decision, and what happens if they coordinate), start with [[09-social-and-community|Variable 9: Social and Community Considerations]].

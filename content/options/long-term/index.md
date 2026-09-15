@@ -1,5 +1,5 @@
 ---
-title: Option Profiles
+title: Long-term Options
 date: 2026-09-15
 tags:
   - index

@@ -1,5 +1,5 @@
 ---
-title: Microschool / Learning Pod
+title: Microschool / Learning Pod, Greyton
 status: draft-v0.1
 date: 2026-09-14
 tags:

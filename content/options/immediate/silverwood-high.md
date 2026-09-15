@@ -1,5 +1,5 @@
 ---
-title: "Option Profile: Silverwood School (Proposed)"
+title: Silverwood High (Proposed), Greyton
 status: draft-v0.1
 date: 2026-09-14
 tags:
@@ -15,18 +15,18 @@ Proposed CAPS-compliant, Waldorf-inspired, English-medium independent high schoo
 
 ## Summary assessment
 
-| Variable | Assessment |
-|---|---|
-| 1. Language | English-medium (proposed). |
-| 2. Logistics | In-valley (proposed location at Genadendal or Greyton). Minimal transport. |
-| 3. School type | Independent school (proposed). WCED registration not confirmed. |
-| 4. Curriculum | CAPS-compliant, Waldorf-inspired. Examination body not confirmed. |
-| 5. Cost | Unknown. Comparable Waldorf schools charge R50,000 to R100,000/year. |
-| 6. Pedagogy | Waldorf-inspired, project-based learning integrated with GoE/BioHub. |
-| 7. Subjects | Unknown. Small school will have a limited menu. |
-| 8. Post-school | NSC (if examination body registration is confirmed). |
-| 9. Social | Local peer group. The strongest valley-connection option if it opens. |
-| 10. Silverwood | See [[Variable 10: Silverwood-Specific Questions]] for the full checklist. |
+| Variable       | Assessment                                                                                      |
+| -------------- | ----------------------------------------------------------------------------------------------- |
+| 1. Language    | English-medium (proposed).                                                                      |
+| 2. Logistics   | In-valley (proposed location at Greyton). Minimal transport.                                    |
+| 3. School type | Independent school (proposed). WCED registration not confirmed.                                 |
+| 4. Curriculum  | CAPS-compliant, Waldorf-inspired. Examination body not confirmed.                               |
+| 5. Cost        | Unknown. Comparable Waldorf schools charge R50,000 to R100,000/year.                            |
+| 6. Pedagogy    | Waldorf-inspired, project-based learning integrated with GoE/BioHub.                            |
+| 7. Subjects    | Unknown. Small school will have a limited menu.                                                 |
+| 8. Post-school | NSC (if examination body registration is confirmed).                                            |
+| 9. Social      | Local peer group. The strongest valley-connection option if it opens.                           |
+| 10. Silverwood | See [[variables/10-silverwood-specific\|Silverwood-Specific Questions]] for the full checklist. |
 
 ## Variable-by-variable assessment
 
@@ -50,11 +50,9 @@ Silverwood would be a registered independent school under SASA Section 46. Regis
 
 **As of September 2026, none of these have been confirmed publicly.** The Ward 2 Schools Program proposal (July 2026) refers to Silverwood's participation "once its constitution is confirmed," indicating that the constitution was not finalised at the time of writing.
 
-A school that is not registered with the WCED cannot legally operate. A child enrolled in an unregistered school risks their year being unrecognised. Parents should not enrol until registration is confirmed.
-
 ### 4. Curriculum and examination body
 
-"CAPS-compliant, Waldorf-inspired" is the description in the project documents. This formulation is ambiguous (see [[Variable 6: Pedagogy and Values]]):
+"CAPS-compliant, Waldorf-inspired" is the description in the project documents. This formulation is ambiguous (see [[06-pedagogy-and-values|Variable 6: Pedagogy and Values]]):
 
 **Interpretation A:** Full Waldorf curriculum through Class 12, with a Class 13 matric year following CAPS. This is what established Waldorf schools in South Africa do (Michael Oak, Constantia Waldorf, Roseway Waldorf). It means a 13-year programme.
 
@@ -117,7 +115,7 @@ The social composition depends on the fee structure. A high-fee school draws a n
 
 ### 10. Silverwood-specific questions
 
-The full checklist of 18 questions is in [[Variable 10: Silverwood-Specific Questions]]. The three highest-priority questions for the planning session:
+The full checklist of 18 questions is in [[10-silverwood-specific|Variable 10: Silverwood-Specific Questions]]. The three highest-priority questions for the planning session:
 
 1. **Is the school registered with the WCED, or when will it be?** Without registration, nothing else matters.
 2. **What is the fee, and is there a sliding-scale or bursary provision?** This determines who can attend.
@@ -125,14 +123,14 @@ The full checklist of 18 questions is in [[Variable 10: Silverwood-Specific Ques
 
 ## Best fit
 
-Silverwood suits families where: English-medium, in-valley schooling is the priority; the family is drawn to Waldorf pedagogy and/or project-based learning; the family values education grounded in the valley's ecology and heritage; the family can afford independent school fees (or bursaries are available); the family is comfortable enrolling in a school that does not yet have a track record.
+Silverwood suits families where: English-medium, in-valley schooling is the priority; the family is drawn to Waldorf pedagogy and/or project-based learning; the family values education grounded in the valley's ecology and heritage; the family can afford independent school fees (or bursaries are available); the family is comfortable enrolling in a school that does not yet have a high school track record, but does have a five year primary school heritage.
 
 It is a poor fit where: the family needs certainty about school quality, staffing, and matric outcomes before enrolling; the child needs subjects Silverwood may not offer; the family cannot afford independent school fees and no financial aid is available; the family is unwilling to accept the risk inherent in a start-up school.
 
 ## Key unknowns
 
-All 18 questions listed in [[Variable 10: Silverwood-Specific Questions]] remain TBV. The most consequential are WCED registration status, examination body, fee structure, minimum viable enrolment, and the number of committed families.
+All 18 questions listed in [[10-silverwood-specific|Variable 10: Silverwood-Specific Questions]] remain TBV. The most consequential are WCED registration status, examination body, fee structure, minimum viable enrolment, and the number of committed families.
 
 ---
 
-*This page is part of the [[content/index]]. Return to [[docs/index]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*

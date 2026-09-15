@@ -1,5 +1,5 @@
 ---
-title: Overberg High School, Caledon
+title: Overberg High, Caledon
 status: draft-v0.1
 date: 2026-09-14
 tags:
