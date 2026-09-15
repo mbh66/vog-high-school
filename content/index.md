@@ -47,9 +47,10 @@ If you want to see the collective picture (how many families are making this dec
 
 Each concrete option available to valley families has its own profile page, assessed against all ten variables. Options are split into:
 - [[options/immediate/index|Immediate]] - workable from 2028
-- [[options/long-term|Long-term]] - 
+- [[options/long-term/index|Long-term]] - what we're working towards
+- [[options/partial/index|Partial]] - supplementary programmes and extra-curricular offerings
 
-The current options include:
+The current **immediate** options include:
 
 - [[emil-weder|Emil Weder Secondary (Genadendal)]] 
 - [[overberg-high|Overberg High School (Caledon)]]
