@@ -157,4 +157,4 @@ It is a poor fit where: the child needs the social structure of a physical schoo
 
 ---
 
-*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[index|Valley of Grace High School Decision Tool]].*

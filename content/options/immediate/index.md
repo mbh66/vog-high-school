@@ -64,4 +64,4 @@ If you have already worked through the [[content/variables/index|variable pages]
 
 ---
 
-*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[index|Valley of Grace High School Decision Tool]].*
