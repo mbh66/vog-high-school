@@ -75,16 +75,16 @@ Umalusi has stated directly that a university cannot differentiate which of the 
 
 ## Evidence status
 
-| Claim | Status |
-|---|---|
-| DBE, IEB, and SACAI NSC certificates carry equal legal standing | IC (Umalusi January 2025 advisory, SACAI website, CambriLearn accreditation guide) |
-| APS calculated identically across all three bodies | IC (SACAI, multiple provider sources) |
-| Cambridge requires separate USAf Matriculation Exemption | IC (homeschool examination guides, CambriLearn) |
-| Constantia Waldorf: 100% pass, 100% bachelor, 74.9% average (2024) | MS (doris.school profile citing school data) |
-| Michael Oak: 100% pass, 99% bachelor endorsements | MS (school prospectus) |
-| Switching during FET phase is complicated | IC (CambriLearn CAPS guide, January 2026) |
-| SBAs count ~25% of final mark for most subjects | IC (DBE policy, examination body documentation) |
-| Final NSC exams are written in person at invigilated centres | IC (SACAI FAQ, multiple sources) |
+| Claim                                                              | Status                                                                             |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| DBE, IEB, and SACAI NSC certificates carry equal legal standing    | IC (Umalusi January 2025 advisory, SACAI website, CambriLearn accreditation guide) |
+| APS calculated identically across all three bodies                 | IC (SACAI, multiple provider sources)                                              |
+| Cambridge requires separate USAf Matriculation Exemption           | IC (homeschool examination guides, CambriLearn)                                    |
+| Constantia Waldorf: 100% pass, 100% bachelor, 74.9% average (2024) | MS (doris.school profile citing school data)                                       |
+| Michael Oak: 100% pass, 99% bachelor endorsements                  | MS (school prospectus)                                                             |
+| Switching during FET phase is complicated                          | IC (CambriLearn CAPS guide, January 2026)                                          |
+| SBAs count ~25% of final mark for most subjects                    | IC (DBE policy, examination body documentation)                                    |
+| Final NSC exams are written in person at invigilated centres       | IC (SACAI FAQ, multiple sources)                                                   |
 
 ## Gaps
 
@@ -95,4 +95,4 @@ Umalusi has stated directly that a university cannot differentiate which of the 
 
 ---
 
-*This page is part of the [[content/index]]. See also: [[Variable 3: School Type and Registration Status]], [[Variable 5: Cost]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. See also: [[03-school-type-and-registration|Variable 3: School Type and Registration Status]], [[05-cost|Variable 5: Cost]].*

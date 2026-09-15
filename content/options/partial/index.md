@@ -1,5 +1,5 @@
 ---
-title: Long-term Options
+title: Partial Options
 date: 2026-09-15
 tags:
   - index
@@ -9,9 +9,9 @@ tags:
 ---
 
 
-These are plans that will take two years or more to put in place. They are not available for 2028 enrolment, but they show that there is a development trajectory for high school provision in the valley. Families making a decision now should know these exist, because a child entering Grade 8 in 2028 will still be in the system in 2032, and the landscape may look different by then.
+These are supplementary programmes, extra-curricular offerings, and enrichment activities that do not replace a school but can strengthen one. They are relevant to families who choose a local school (Emil Weder, a microschool, or online provision) and want to fill gaps in the curriculum, broaden their child's subject exposure, or build social connections that the selected schooling arrangement doesn't provide on its own.
 
-Long-term options might include a new registered independent school, a dual-medium programme at an existing school, a satellite campus arrangement with a Caledon school, or a purpose-built learning hub. Each profile in this section states what the option is, what it would take to establish, what the realistic timeline is, and what conditions must be met before it becomes viable.
+A partial option might be an after-school science programme, a weekend arts or coding workshop, a sports league, a mentorship scheme, a holiday intensive, or a structured community service placement. Each profile states what the offering covers, who runs it, what it costs, and which gaps in the ten decision variables it addresses.
 
 ## How to read these profiles
 

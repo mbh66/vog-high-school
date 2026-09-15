@@ -71,15 +71,15 @@ The best position is a school that keeps multiple doors open through Grade 10 an
 
 ## Evidence status
 
-| Claim | Status |
-|---|---|
-| NSC Bachelor pass requirements | IC (DBE policy) |
-| DBE, IEB, SACAI carry equal weight for university admission | IC (Umalusi, SACAI, multiple sources; see [[Variable 4]]) |
-| Boland TVET has a Caledon campus | IC (college website, Varsitywise, Fundiconnect) |
-| Caledon campus programmes (Office Admin, Management, Tourism, ECD) | IC (Boland TVET Semester 2 2026 listing) |
-| NSFAS funds TVET students | IC (NSFAS, government sources) |
-| Youth unemployment above 44% for 15-to-34 age group | IC (QLFS Q1 2026, cited in Ward 2 Schools Program proposal) |
-| Ward 2 Schools Program designed to connect curriculum to local economy | MS (proposal, July 2026) |
+| Claim                                                                  | Status                                                                                        |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| NSC Bachelor pass requirements                                         | IC (DBE policy)                                                                               |
+| DBE, IEB, SACAI carry equal weight for university admission            | IC (Umalusi, SACAI, multiple sources; see [[04-curriculum-and-examination-body\|Variable 4]]) |
+| Boland TVET has a Caledon campus                                       | IC (college website, Varsitywise, Fundiconnect)                                               |
+| Caledon campus programmes (Office Admin, Management, Tourism, ECD)     | IC (Boland TVET Semester 2 2026 listing)                                                      |
+| NSFAS funds TVET students                                              | IC (NSFAS, government sources)                                                                |
+| Youth unemployment above 44% for 15-to-34 age group                    | IC (QLFS Q1 2026, cited in Ward 2 Schools Program proposal)                                   |
+| Ward 2 Schools Program designed to connect curriculum to local economy | MS (proposal, July 2026)                                                                      |
 
 ## Gaps
 
@@ -90,4 +90,4 @@ The best position is a school that keeps multiple doors open through Grade 10 an
 
 ---
 
-*This page is part of the [[content/index]]. See also: [[Variable 7: Subject Availability]], [[Variable 9: Social and Community Considerations]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. See also: [[07-subject-availability|Variable 7: Subject Availability]], [[09-social-and-community|Variable 9: Social and Community Considerations]].*

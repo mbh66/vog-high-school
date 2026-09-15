@@ -127,4 +127,4 @@ It is a poor fit where: the family cannot afford the fees and no bursary is avai
 
 ---
 
-*This page is part of the [[content/index]]. Return to [[docs/index]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*

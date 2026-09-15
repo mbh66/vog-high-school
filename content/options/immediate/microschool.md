@@ -133,4 +133,4 @@ It is a poor fit where: the family wants the institutional security of a registe
 
 ---
 
-*This page is part of the [[content/index]]. Return to [[docs/index]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*

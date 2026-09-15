@@ -68,7 +68,7 @@ Subject choices made in Grade 10 determine which university programmes a learner
 
 A school that does not offer Physical Sciences closes the door to medicine, engineering, and many BSc programmes. A school that offers only Mathematical Literacy (not Mathematics) closes the door to any programme requiring Mathematics.
 
-Parents whose children have specific post-school ambitions (see [[Variable 8: Post-School Pathway]]) must check that the school offers the prerequisite subjects at the required level.
+Parents whose children have specific post-school ambitions (see [[08-post-school-pathway|Variable 8: Post-School Pathway]]) must check that the school offers the prerequisite subjects at the required level.
 
 ## Questions to settle before moving on
 
@@ -97,4 +97,4 @@ Parents whose children have specific post-school ambitions (see [[Variable 8: Po
 
 ---
 
-*This page is part of the [[content/index]]. See also: [[Variable 6: Pedagogy and Values]], [[Variable 8: Post-School Pathway]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. See also: [[06-pedagogy-and-values|Variable 6: Pedagogy and Values]], [[08-post-school-pathway|Variable 8: Post-School Pathway]].*

@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "High School 2028: Valley of Grace"
+  pageTitle: "Valley of Grace High School Decision Tool 2028"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -227,11 +227,14 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
+    enabled: false
+  - source: "./plugins/custom-footer"
     enabled: true
     options:
+      copyrightHolder: "Ward 2 Business Forum on behalf of Valley of Grace"
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Valley of Grace: https://valleyofgrace.co.za
+        Business Forum: https://bf.valleyofgrace.co.za
     layout:
       position: footer
       priority: 50

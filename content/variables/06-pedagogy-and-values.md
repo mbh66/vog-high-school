@@ -41,7 +41,7 @@ In the high school years, Waldorf education is characterised by:
 - **Delayed digital technology.** Waldorf schools typically restrict screen-based learning until high school, emphasising direct experience and handwork in earlier years.
 - **A matric year (Class 13).** The Waldorf curriculum runs through Class 12. A dedicated Class 13 prepares learners for the NSC examination. This means the child is in school for 13 years, not 12. Some Waldorf schools integrate CAPS content earlier to avoid a full extra year.
 
-**Strengths:** Develops the whole person. Strong arts and practical integration. Learners often report high engagement and a sense of meaning. Matric results at established Waldorf schools are strong (see [[Variable 4: Curriculum and Examination Body]]).
+**Strengths:** Develops the whole person. Strong arts and practical integration. Learners often report high engagement and a sense of meaning. Matric results at established Waldorf schools are strong (see [[04-curriculum-and-examination-body|Variable 4: Curriculum and Examination Body]]).
 
 **Limitations:** Unfamiliar to most parents. Less transferable mid-stream (a child leaving a Waldorf school at Grade 10 for a conventional CAPS school may face content gaps). Requires trust in a pedagogical philosophy rooted in anthroposophy (Rudolf Steiner's spiritual-philosophical framework). The relationship between Waldorf pedagogy and anthroposophy is a live debate: some schools foreground it, others treat it as historical background. Parents should ask where a given school sits on that spectrum.
 
@@ -69,7 +69,7 @@ Online schooling is a pedagogy as well as a delivery mechanism. At the self-dire
 
 **Limitations:** Social isolation is the most commonly cited risk. The child is at home, alone or with a sibling, for most of the day. Parental involvement is required at a level that varies by provider but is never zero. Practical subjects are harder to deliver online. The experience depends heavily on the home environment: a child with a quiet room, fast internet, and a supportive parent has a different experience from a child sharing a space with younger siblings and intermittent connectivity.
 
-**Available at:** All accredited online providers listed in [[Variable 3: School Type and Registration Status]].
+**Available at:** All accredited online providers listed in [[03-school-type-and-registration|Variable 3: School Type and Registration Status]].
 
 ### Faith-based education
 
@@ -114,4 +114,4 @@ Pedagogy is a method. Values are broader. Some questions that sit in this space:
 
 ---
 
-*This page is part of the [[content/index]]. See also: [[Variable 5: Cost]], [[Variable 7: Subject Availability]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. See also: [[05-cost|Variable 5: Cost]], [[07-subject-availability|Variable 7: Subject Availability]].*

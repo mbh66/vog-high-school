@@ -1,5 +1,5 @@
 ---
-title: "[School or Model Name]"
+title: Template
 status: draft-v0.1
 date: YYYY-MM-DD
 tags:
@@ -7,7 +7,7 @@ tags:
   - decision-tool
   - high-school
 ---
-
+## [School or Model Name]
 
 [One or two sentences identifying the option. Name, location, school type, language, and the single most important fact a reader needs before scrolling further.]
 
@@ -95,4 +95,4 @@ tags:
 
 ---
 
-*This page is part of the [[content/index]]. Return to [[docs/index]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*

@@ -94,3 +94,7 @@ Use the evidence status tags from the site (IC, MS, TBV) when citing facts. Do n
 **Check the TBV items yourself.** The chatbot is working from the information on the site. Where the site flags something as TBV (To Be Verified), the chatbot does not have the answer either. The verification step is yours: call the school, email the provider, ask at the planning session.
 
 **Share what you learn.** If you verify a TBV claim (you called Overberg High and confirmed the fees, you spoke to a SACAI examiner about the nearest test centre), bring that information to the planning session or contribute it to the wiki. Every verified fact improves the tool for the next family.
+
+---
+
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*

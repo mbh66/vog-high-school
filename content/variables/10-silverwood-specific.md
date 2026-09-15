@@ -17,7 +17,6 @@ The following comes from the Ward 2 Schools Program proposal (July 2026), the Ov
 - The BioHub Founding Brief places it at Genadendal, within the Learning Hub.
 - The Ward 2 Schools Program proposal names it alongside Emil Weder Secondary as an initial invitee for the curriculum modules, noting "once its constitution is confirmed."
 - The VoG TGF Project Outline lists it as a project partner for citizen science and heritage research.
-- The Rotary Club of Greyton has committed R245,000 to the broader TGF project, of which the schools programme is a component.
 
 **Evidence status:** All of the above is MS (Mission-Sourced). None has been independently corroborated by a third party, a WCED filing, or the school's own public communications.
 
@@ -29,7 +28,7 @@ The following questions are unanswered in any document available to the decision
 
 1. **Is Silverwood registered with the WCED as an independent school?** If not, when is registration expected? A school that is not registered cannot legally operate (SASA Section 46). A child enrolled in an unregistered school risks having their year not recognised for progression or certification.
 
-2. **Which examination body will Silverwood register with?** IEB, SACAI, or the DBE? This determines which NSC the child writes, how SBAs are moderated, and where the matric exam is written. (See [[Variable 4: Curriculum and Examination Body]].)
+2. **Which examination body will Silverwood register with?** IEB, SACAI, or the DBE? This determines which NSC the child writes, how SBAs are moderated, and where the matric exam is written. (See [[04-curriculum-and-examination-body|Variable 4: Curriculum and Examination Body]].)
 
 3. **What is the school's legal entity?** An NPC, a trust, a Section 21 company? Who are the directors or trustees? What governance rights do parents have?
 
@@ -41,7 +40,7 @@ The following questions are unanswered in any document available to the decision
 
 6. **What does "project-based learning as the governing pedagogy" mean for assessment?** Are SBAs conducted through projects, or do conventional tests and exams sit alongside the project work? How are CAPS content requirements met within project structures? How does the school demonstrate to the examination body that content coverage is complete?
 
-7. **Which FET elective subjects will Silverwood offer?** A start-up school with a small initial cohort will not offer a full subject menu. Parents need to know whether their child's required subjects will be available. (See [[Variable 7: Subject Availability]].)
+7. **Which FET elective subjects will Silverwood offer?** A start-up school with a small initial cohort will not offer a full subject menu. Parents need to know whether their child's required subjects will be available. (See [[07-subject-availability|Variable 7: Subject Availability]].)
 
 8. **How does the GoE integration work in the classroom?** Is citizen science fieldwork timetabled, or is it extracurricular? Do GoE contributions count toward SBAs, or are they additional? What happens if the GoE platform changes its terms or structure?
 
@@ -53,7 +52,7 @@ The following questions are unanswered in any document available to the decision
 
 ### Financial viability
 
-11. **What is the fee structure?** Annual tuition, registration fee, any levies, payment terms. Is there a bursary or sliding-scale provision? (See [[Variable 5: Cost]].)
+11. **What is the fee structure?** Annual tuition, registration fee, any levies, payment terms. Is there a bursary or sliding-scale provision? (See [[05-cost|Variable 5: Cost]].)
 
 12. **What is the minimum enrolment needed for the school to be financially viable?** If Silverwood needs 40 learners to break even and only 20 enrol, what happens? Do fees increase? Does the school close? Parents need to understand the viability threshold before committing.
 
@@ -87,4 +86,4 @@ The planning session is the place to test that commitment. The tool's role is to
 
 ---
 
-*This page is part of the [[content/index]]. See also: [[Variable 1: Language of Instruction]], [[Variable 3: School Type and Registration Status]], [[Variable 5: Cost]], [[Variable 9: Social and Community Considerations]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. See also: [[01-language-of-instruction|Variable 1: Language of Instruction]], [[03-school-type-and-registration|Variable 3: School Type and Registration Status]], [[05-cost|Variable 5: Cost]], [[09-social-and-community|Variable 9: Social and Community Considerations]].*

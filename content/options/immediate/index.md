@@ -21,21 +21,21 @@ Where information is missing, the page says so and names the verification step. 
 
 **[[emil-weder|Emil Weder Secondary]]** — Genadendal. Government school. Afrikaans-medium. The only operational high school in the valley. Lowest cost. Strongest diversity. Language barrier for English-speaking families.
 
-**[[Option Profile: Silverwood School|Silverwood School]]** (proposed) — English-medium, Waldorf-inspired, CAPS-compliant independent school. Not yet constituted. All claims are MS (Mission-Sourced) and TBV with the founders.
+**[[silverwood-high|Silverwood High]]** (proposed) — English-medium, Waldorf-inspired, CAPS-compliant independent school. Not yet constituted. All claims are MS (Mission-Sourced) and TBV with the founders.
 
-**[[Option Profile: Microschool|Microschool / Learning Pod]]** — Parent-organised collective home education using an accredited online provider, a shared facilitator, and a local venue. Not a registered school. The lowest-barrier collective solution that keeps children physically together in the valley.
+**[[microschool|Microschool / Learning Pod]]** — Parent-organised collective home education using an accredited online provider, a shared facilitator, and a local venue. Not a registered school. The lowest-barrier collective solution that keeps children physically together in the valley.
 
 ## Caledon options
 
-**[[Option Profile: Overberg High School|Overberg High School]]** — Caledon. English-medium public school. ~492 learners. Quintile 5 (fee-paying). 35 km from Greyton. The nearest English-medium public high school. Transport cost dominates the budget.
+**[[overberg-high|Overberg High School]]** — Caledon. English-medium public school. ~492 learners. Quintile 5 (fee-paying). 35 km from Greyton. The nearest English-medium public high school. Transport cost dominates the budget.
 
-**[[Option Profile: Hoërskool Overberg|Hoërskool Overberg]]** — Caledon. Afrikaans-medium public school with boarding facilities. Relevant for Afrikaans-speaking families and as the only confirmed boarding option in the immediate region.
+**[[hoerskool-overberg|Hoërskool Overberg]]** — Caledon. Afrikaans-medium public school with boarding facilities. Relevant for Afrikaans-speaking families and as the only confirmed boarding option in the immediate region.
 
 ## Remote and distributed options
 
-**[[Option Profile: Online Schooling|Online / Distance Schooling]]** — Child studies from home using an accredited digital platform. English-medium. CAPS via SACAI (most providers). No commute. No physical peer group. Ranges from self-directed materials (under R6,000/year) to structured live classes (~R36,000/year). Requires supervision, a study environment, and stable internet.
+**[[online-schooling|Online / Distance Schooling]]** — Child studies from home using an accredited digital platform. English-medium. CAPS via SACAI (most providers). No commute. No physical peer group. Ranges from self-directed materials (under R6,000/year) to structured live classes (~R36,000/year). Requires supervision, a study environment, and stable internet.
 
-**[[Option Profile: Boarding Schools|Boarding Schools (Further Afield)]]** — Independent boarding schools in Franschhoek, Stellenbosch, Somerset West, Paarl, or Cape Town. English-medium. IEB or Cambridge. Widest subject range. Strongest university preparation. R100,000 to R450,000+/year. The child lives away from home.
+**[[boarding-schools|Boarding Schools (Further Afield)]]** — Independent boarding schools in Franschhoek, Stellenbosch, Somerset West, Paarl, or Cape Town. English-medium. IEB or Cambridge. Widest subject range. Strongest university preparation. R100,000 to R450,000+/year. The child lives away from home.
 
 ## Comparison at a glance
 
@@ -64,4 +64,4 @@ If you have already worked through the [[content/variables/index|variable pages]
 
 ---
 
-*Return to [[content/index|Index]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*

@@ -1,5 +1,5 @@
 ---
-title: Valley of Grace High School Decision Tool
+title: Valley of Grace High School Decision Tool 2028
 date: 2026-09-14
 tags:
   - index
@@ -91,4 +91,7 @@ This planning resource was initiated by Michael Haupt, independent community coo
 
 The variable pages were drafted with AI assistance (Claude, Anthropic) using project documents, web research, and publicly available school and regulatory information. All AI-assisted content is tagged with evidence status and subject to the same verification standards as any other source.
 
+---
+
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. Also see the [[references|References page]].*
 

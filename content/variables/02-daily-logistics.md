@@ -17,7 +17,7 @@ This variable asks: how does your child physically get to school each day, and w
 
 ### Walking distance (in-valley schools)
 
-**Emil Weder Secondary, Genadendal.** Reachable on foot or by short drive from Greyton (~7 km) and walking distance from Genadendal itself. The only operational high school in the valley. Afrikaans-medium (see [[Variable 1: Language of Instruction]]).
+**Emil Weder Secondary, Genadendal.** Reachable on foot or by short drive from Greyton (~7 km) and walking distance from Genadendal itself. The only operational high school in the valley. Afrikaans-medium (see [[01-language-of-instruction|Variable 1: Language of Instruction]]).
 
 **Silverwood School (if constituted).** The BioHub Founding Brief places Silverwood at Genadendal as part of the Learning Hub. If it opens there, the logistics would be similar to Emil Weder. If it were located on the contested Erf 595 land in Greyton, it would be walking distance for Greyton children. The location question is unresolved and politically sensitive (the R100 land sale controversy documented in the Greyton Commonage Research Report). Parents should treat Silverwood's location as uncertain until a site is confirmed.
 
@@ -67,7 +67,7 @@ If the child enrols with an online school, the logistics question becomes a supe
 
 ## The compound calculation
 
-Most parents will combine this variable with cost ([[Variable 5: Cost]]) and language ([[Variable 1: Language of Instruction]]) before they get to curriculum or pedagogy questions. The honest version of the calculation is:
+Most parents will combine this variable with cost ([[05-cost|Variable 5: Cost]]) and language ([[01-language-of-instruction|Variable 1: Language of Instruction]]) before they get to curriculum or pedagogy questions. The honest version of the calculation is:
 
 - If English-medium is non-negotiable and the family cannot afford boarding, the realistic options are: daily transport to Overberg High School in Caledon, an online school, or Silverwood (if it opens).
 - If cost is the binding constraint, Emil Weder is the only option that costs close to nothing in fees and transport.
@@ -103,4 +103,4 @@ Most parents will combine this variable with cost ([[Variable 5: Cost]]) and lan
 
 ---
 
-*This page is part of the [[content/index]]. See also: [[Variable 1: Language of Instruction]], [[Variable 3: School Type and Registration Status]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. See also: [[01-language-of-instruction|Variable 1: Language of Instruction]], [[03-school-type-and-registration|Variable 3: School Type and Registration Status]].*

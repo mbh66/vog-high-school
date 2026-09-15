@@ -158,4 +158,4 @@ These are rough ranges. Every family's actual number will differ. The point is t
 
 ---
 
-*This page is part of the [[content/index]]. See also: [[Variable 4: Curriculum and Examination Body]], [[Variable 6: Pedagogy and Values]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. See also: [[04-curriculum-and-examination-body|Variable 4: Curriculum and Examination Body]], [[06-pedagogy-and-values|Variable 6: Pedagogy and Values]].*
