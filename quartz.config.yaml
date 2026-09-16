@@ -231,7 +231,7 @@ plugins:
     options:
       links:
         Valley of Grace: https://valleyofgrace.co.za/
-        Development Forum: https://bf.valleyofgrace.co.za/
+        TWK Ward 2 Development Forum: https://bf.valleyofgrace.co.za/
     layout:
       position: footer
       priority: 50
