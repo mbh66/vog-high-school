@@ -1,5 +1,5 @@
 ---
-title: Overberg High, Caledon
+title: Overberg High / Hoërskool Overberg, Caledon
 status: draft-v0.1
 date: 2026-09-14
 tags:
@@ -9,36 +9,36 @@ tags:
 ---
 
 
-English-medium public high school. Quintile 5 (fee-paying). Approximately 492 learners (2023).
+Dual-medium public high school (English and Afrikaans streams) with boarding facilities. Quintile 5 (fee-paying). Approximately 500 learners. 35 km from Greyton.
 
 ## Summary assessment
 
 | Variable | Assessment |
 |---|---|
-| 1. Language | English-medium. Meets the primary requirement for most Greyton families. |
-| 2. Logistics | 35 km from Greyton. Daily transport or boarding required. |
+| 1. Language | Dual-medium: parallel English and Afrikaans streams. Meets both language communities. |
+| 2. Logistics | 35 km from Greyton. Daily transport or boarding. Boarding eliminates the commute. |
 | 3. School type | Public school, WCED-registered. Full regulatory standing. |
 | 4. Curriculum | CAPS, DBE examination. Standard NSC. |
-| 5. Cost | Moderate fees (Quintile 5). Transport dominates the budget. |
+| 5. Cost | Moderate fees (Quintile 5). Day attendance: R19,000 to R86,000/year depending on transport. Boarding: R30,000 to R70,000/year. |
 | 6. Pedagogy | Standard academic instruction. |
 | 7. Subjects | Wider range than Emil Weder (larger school). TBV for specifics. |
-| 8. Post-school | Standard NSC. Full university and TVET eligibility. |
-| 9. Social | Caledon peer group. Child's social centre shifts out of the valley. |
+| 8. Post-school | Standard NSC. Full university and TVET eligibility. Boland TVET campus in same town. |
+| 9. Social | Caledon peer group. Day learners commute; boarders join the hostel community. |
 | 10. Silverwood | Not applicable. |
 
 ## Variable-by-variable assessment
 
 ### 1. Language of instruction
 
-English-medium. This is confirmed through the School Register SA profile (principal Ja Jacobs, ~492 learners). Overberg High School is distinct from Hoërskool Overberg, which is Afrikaans-medium. The two schools are separate institutions in the same town.
+Dual-medium, with parallel Afrikaans and English streams. This makes the school relevant to both language communities in the valley. English-speaking Greyton families have access to English-medium instruction; Afrikaans-speaking families from Genadendal, the Farm 39 communities, and Heuwelkroon have a natural linguistic fit.
 
-For English-speaking Greyton families, this is the nearest public school that meets the language requirement.
+This is the nearest public school that offers English-medium high school instruction.
 
 ### 2. Daily logistics
 
 Greyton to Caledon is approximately 35 km via the R406. Driving time is 35 to 40 minutes in good conditions. The road crosses the Houw Hoek area, which can be affected by winter weather.
 
-**Daily transport options and costs (detailed in [[Variable 2: Daily Logistics]]):**
+**Day attendance transport options and costs (detailed in [[Variable 2: Daily Logistics]]):**
 
 - Own car, solo driver: ~R44,000/year in fuel, plus ~300 hours of driving time.
 - Lift club (4 families): ~R11,000 to R15,000/year per family. Each parent drives one or two days per week.
@@ -46,7 +46,7 @@ Greyton to Caledon is approximately 35 km via the R406. Driving time is 35 to 40
 
 A lift club is the viable middle ground. Without one, the transport cost approaches or exceeds the school fees.
 
-**Boarding:** Whether Overberg High School offers boarding is TBV. Hoërskool Overberg (the Afrikaans school) has hostels. If boarding were available at Overberg High, it would eliminate the daily commute at a cost of roughly R20,000 to R40,000/year. This needs direct confirmation.
+**Boarding:** The school has hostels ("Koshuise") for boys and girls. Weekly boarding eliminates the daily commute. The child stays at the hostel Monday to Friday and comes home on weekends. This removes the lift club dependency and the daily road risk, at the cost of family separation during the week.
 
 ### 3. School type and registration
 
@@ -62,7 +62,7 @@ A school of ~492 learners has the scale to deliver CAPS effectively across a rea
 
 ### 5. Cost
 
-**Estimated annual cost for a Greyton family (day attendance):**
+**Day attendance (estimated annual cost for a Greyton family):**
 
 | Component | Low estimate | High estimate |
 |---|---|---|
@@ -73,13 +73,21 @@ A school of ~492 learners has the scale to deliver CAPS effectively across a rea
 | **Total (lift club)** | **R19,000** | **R51,000** |
 | **Total (own car, solo)** | **R49,000** | **R86,000** |
 
-**Five-year cost:** R95,000 to R255,000 (lift club); R245,000 to R430,000 (solo driver).
+**Boarding (estimated annual cost):**
 
-The school fees themselves are the smaller part of the budget. Transport is the controlling variable. The difference between solo driving and a functioning lift club is roughly R30,000 to R40,000 per year.
+School fees plus boarding fees. Government school hostels in rural Western Cape towns typically charge R20,000 to R40,000/year for boarding. Add school fees and incidentals:
+
+**Estimated annual boarding total:** R30,000 to R70,000.
+
+**Five-year cost:** R95,000 to R255,000 (day, lift club); R150,000 to R350,000 (boarding); R245,000 to R430,000 (day, solo driver).
+
+The school fees themselves are the smaller part of the budget for day learners. Transport is the controlling variable. The difference between solo driving and a functioning lift club is roughly R30,000 to R40,000 per year. Boarding falls between the two and carries a more predictable cost.
 
 ### 6. Pedagogy and values
 
 Standard academic instruction in a mid-size public high school. No distinctive pedagogical approach has been identified. Teaching quality, school culture, and leadership are the determining factors, and these require a school visit or conversations with current parents to assess.
+
+As a larger school than Emil Weder, it likely has more specialist teachers, better facilities, and a wider extracurricular programme. The school's Instagram shows active sport (rugby, netball, athletics) and cultural activities.
 
 The school is not connected to the Ward 2 Schools Program or the BioHub. There is no place-based curriculum linking learning to the valley's ecology or heritage.
 
@@ -97,11 +105,11 @@ The larger school size means more peers, more subject choices, and (likely) more
 
 ### 9. Social and community considerations
 
-The child's peer group shifts to Caledon. Daily friendships, after-school activities, and weekend socialising increasingly centre on the school rather than the valley. For a child who already has friends in Caledon, this is fine. For a child whose entire social world is in Greyton, the adjustment is real.
+**Day learners:** The child's peer group shifts to Caledon. Daily friendships, after-school activities, and weekend socialising increasingly centre on the school rather than the valley. For a child who already has friends in Caledon, this is fine. For a child whose entire social world is in Greyton, the adjustment is real. The child remains connected to the valley through home, weekends, and holidays, but the daily rhythm of their life moves to a different town.
 
-The social composition of Overberg High School reflects Caledon's broader demographics. As a Quintile 5 English-medium school in a rural town, the intake is likely mixed-income and racially diverse, though the specific composition has not been confirmed.
+**Boarders:** A boarding child joins the hostel community. This can be a strong social experience: close friendships, shared routines, mentoring by older learners. It can also be difficult, depending on the child's maturity and the hostel culture. The child's primary peer group becomes the school, not the valley. Weekend connections to Greyton or Genadendal persist but are compressed.
 
-The child remains connected to the valley through home, weekends, and holidays, but the daily rhythm of their life moves to a different town.
+The social composition of the school reflects Caledon's broader demographics. As a Quintile 5 dual-medium school in a rural town, the intake is likely mixed-income and racially diverse, though the specific composition has not been confirmed.
 
 ### 10. Silverwood-specific
 
@@ -109,20 +117,24 @@ Not applicable.
 
 ## Best fit
 
-Overberg High School suits families where: English-medium instruction is non-negotiable; the family can organise or join a lift club for the Greyton-Caledon route; the budget can sustain R20,000 to R50,000/year; the child is adaptable enough to build a social life in a new town; the child's subject needs are met by a mid-size public school.
+This school suits families where: the budget can sustain R20,000 to R70,000/year; the child's subject needs are met by a mid-size public school; and the family can organise transport or is open to boarding.
 
-It is a particularly strong option if: boarding is available (eliminating the daily commute); or if a dedicated Greyton-to-Caledon transport service can be established with enough committed families.
+**Day attendance** suits families who: can organise or join a lift club for the Greyton-Caledon route; have a child adaptable enough to build a social life in a new town.
 
-It is a poor fit where: the family cannot sustain daily transport costs or time; the child or family prioritises staying connected to the valley; the family wants a distinctive pedagogy (Waldorf, PBL, or place-based learning).
+**Boarding** suits families where: the child is mature enough for weekly separation from home; the family values the structure and social environment of boarding; or the family wants to avoid the daily commute and its costs.
+
+It is a poor fit where: the family cannot sustain daily transport costs or time and does not want boarding; the child or family prioritises staying connected to the valley; the family wants a distinctive pedagogy (Waldorf, PBL, or place-based learning).
 
 ## Key unknowns
 
 - Actual school fees for 2027/2028. **TBV** directly with the school.
+- Actual boarding fees. **TBV** directly.
 - FET subject list. **TBV** directly.
-- Whether the school offers boarding or only day attendance. **TBV** directly. This is a high-priority question: if boarding is available, it changes the logistics and cost calculation substantially.
+- Hostel capacity and availability for 2028 intake. **TBV**.
 - Recent matric pass rate and bachelor-pass rate. **TBV** via DBE annual results.
+- Hostel culture and pastoral care arrangements. Best assessed through a visit and conversations with current boarding parents.
 - Whether a Greyton-to-Caledon scholar transport service exists or could be established. **TBV** locally.
-- Current number of Greyton children already attending Overberg High. **TBV** through the school or parent networks. If several families are already making this commute, a lift club may already exist informally.
+- Current number of Greyton children already attending. **TBV** through the school or parent networks. If several families are already making this commute, a lift club may already exist informally.
 
 ---
 

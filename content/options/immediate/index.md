@@ -29,9 +29,8 @@ Where information is missing, the page says so and names the verification step. 
 
 ## Caledon options
 
-**[[overberg-high|Overberg High School]]** — Caledon. English-medium public school. ~492 learners. Quintile 5 (fee-paying). 35 km from Greyton. The nearest English-medium public high school. Transport cost dominates the budget.
+**[[overberg-high|Overberg High / Hoërskool Overberg]]** — Caledon. Dual-medium public school (English and Afrikaans streams) with boarding facilities. ~492 learners. Quintile 5. 35 km from Greyton. The nearest public high school with English-medium instruction. Transport or boarding required.
 
-**[[hoerskool-overberg|Hoërskool Overberg]]** — Caledon. Afrikaans-medium public school with boarding facilities. Relevant for Afrikaans-speaking families and as the only confirmed boarding option in the immediate region.
 
 ## Remote and distributed options
 
@@ -47,8 +46,7 @@ Where information is missing, the page says so and names the verification step. 
 | Silverwood (proposed) | English | In-valley | R55,000 to R100,000 | Independent | Valley (if enough enrol) |
 | Greyton House (Gr 8-9) | English | In-valley | TBV (fees not set) | Independent | Valley (Greyton) |
 | Microschool | English | In-valley | R40,000 to R95,000 | Home education | Small local group |
-| Overberg High | English | Caledon (35 km) | R19,000 to R86,000 | Public | Caledon |
-| Hoërskool Overberg | Afrikaans | Caledon (35 km) | R30,000 to R70,000 | Public (boarding) | Caledon (boarding) |
+| Overberg High / Hoërskool Overberg | English & Afrikaans | Caledon (35 km) | R19,000 to R86,000 (day); R30,000 to R70,000 (boarding) | Public (day & boarding) | Caledon |
 | Online schooling | English | Home | R25,000 to R55,000 | Distance provider | None (constructed) |
 | Boarding school | English | 90 to 150+ km | R100,000 to R450,000+ | Independent | School community |
 

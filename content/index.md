@@ -53,8 +53,7 @@ Each concrete option available to valley families has its own profile page, asse
 The current **immediate** options include:
 
 - [[emil-weder|Emil Weder Secondary (Genadendal)]] 
-- [[overberg-high|Overberg High School (Caledon)]]
-- [[hoerskool-overberg|Hoërskool Overberg (Caledon)]]
+- [[overberg-high|Overberg High / Hoërskool Overberg (Caledon)]]
 - [[online-schooling|Online/distance schooling]] (multiple providers)
 - [[silverwood-high|Silverwood School]] (proposed, if constituted)
 - [[microschool|Microschool or learning pod]] (parent-organised)

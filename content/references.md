@@ -12,11 +12,18 @@ URLs discovered during the research session that produced this decision tool (14
 
 ## Schools: Local and Regional
 
-**Overberg High School (Caledon)**
-- School Register SA profile: confirms English-medium, ~492 learners, Quintile 5, principal Ja Jacobs (2023 data). Referenced in Variables 1, 2, 5.
-- No direct URL retrieved; data came through search result metadata from School Register SA.
+**Greyton House (Greyton)**
+- Currently only operating as a primary school, but registered for Grades 8 and 9
+- https://www.isasaschoolfinder.co.za/listing/greyton-house-independent-village-school/
+- https://www.greytonhouse.co.za/
+
+**Emil Weder (Genadendal)**
+- https://www.emilweder.co.za/
+- https://www.facebook.com/emilwederHS/
 
 **Hoërskool Overberg (Caledon)**
+- https://hsoverberg.com
+- https://www.facebook.com/pages/Overberg%20High%20School%20Caledon/114880758522961/
 - Instagram: https://www.instagram.com/hoerskooloverberg/ — Afrikaans-language posts confirm Afrikaans-medium status. References to "Koshuise" (hostels) indicate boarding is available. Referenced in Variables 1, 2, 5.
 
 ## Waldorf Schools in South Africa
@@ -27,12 +34,12 @@ URLs discovered during the research session that produced this decision tool (14
 **Constantia Waldorf School**
 - https://www.doris.school/schools/south-africa/constantia-waldorf-school — Doris.school profile. 2024 matric: 100% bachelor pass, 74.9% class average, 71 subject distinctions across 26 pupils. Referenced in Variables 4, 6.
 
-**Michael Mount Waldorf School (Johannesburg)**
-- https://www.doris.school/schools/south-africa/michael-mount-waldorf-school — Doris.school profile. Day school, Bryanston. IEB NSC matric. Waldorf curriculum to Class 11, matric through IEB. Referenced in Variables 4, 6.
-
 **Michael Oak Waldorf School (Cape Town)**
 - https://www.michaeloak.org.za/wp-content/uploads/2026/02/Digital-High-School-Prospectus.pdf — Digital high school prospectus. 100% NSC pass rate, 99% bachelor endorsements. Class 13 matric year. Referenced in Variables 4, 6.
 - https://michaeloak.org.za/our-school/high-school — High school overview page. Waldorf pedagogy description. Referenced in Variable 6.
+
+**Michael Mount Waldorf School (Johannesburg)**
+- https://www.doris.school/schools/south-africa/michael-mount-waldorf-school — Doris.school profile. Day school, Bryanston. IEB NSC matric. Waldorf curriculum to Class 11, matric through IEB. Referenced in Variables 4, 6.
 
 **Roseway Waldorf School (KwaZulu-Natal)**
 - https://en.wikipedia.org/wiki/Roseway_Waldorf_School — Wikipedia entry. Creche through matric. Waldorf curriculum through Class 12, NSC in Class 13 following CAPS. Referenced in Variable 6.

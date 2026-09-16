@@ -1,8 +1,8 @@
 # Greyton High School Decision Tool
 
-> A planning resource for families in the Valley of Grace (Greyton, Genadendal, and surrounding settlements) who are thinking about high school options from 2028 onwards. The site maps the decisions parents face across ten variables and seven school or schooling-model options. It does not recommend a school. It helps families work through trade-offs in language, logistics, cost, curriculum, and community, then identify what still needs verifying. Maintained by Michael Haupt, independent community coordinator for Ward 2, Theewaterskloof Municipality. Not affiliated with any school or provider.
+> A planning resource for families in the Valley of Grace (Greyton, Genadendal, and surrounding settlements) who are thinking about high school options from 2028 onwards. The site maps the decisions parents face across ten variables and profiles each available school or schooling model. It does not recommend a school. It helps families work through trade-offs in language, logistics, cost, curriculum, and community, then identify what still needs verifying. Maintained by Michael Haupt, independent community coordinator for Ward 2, Theewaterskloof Municipality. Not affiliated with any school or provider.
 
-The valley has one high school: Emil Weder Secondary in Genadendal, which is Afrikaans-medium. For English-speaking families this creates a gap. The nearest English-medium public high school is Overberg High in Caledon, 35 km away. Online schooling, independent schools, microschools, and boarding are all possibilities, but each carries trade-offs. There are too few high-school-age children in the valley to justify a conventional new school. Every solution requires families to make trade-offs, and the best solutions require families to coordinate.
+The valley has one high school: Emil Weder Secondary in Genadendal, which is Afrikaans-medium. For English-speaking families this creates a gap. The nearest public high school with English-medium instruction is Overberg High / Hoërskool Overberg in Caledon, 35 km away. Online schooling, independent schools, microschools, and boarding are all possibilities, but each carries trade-offs. There are too few high-school-age children in the valley to justify a conventional new school. Every solution requires families to make trade-offs, and the best solutions require families to coordinate.
 
 Every factual claim on the site carries a status tag: IC (Independently Corroborated, two or more independent sources or official records), MS (Mission-Sourced, from project documents authored by Michael Haupt), or TBV (To Be Verified, plausible but unconfirmed). AI agents should not present TBV claims as confirmed facts.
 
@@ -23,20 +23,39 @@ These ten pages cover the decisions every family works through when choosing a h
 
 ## Option Profiles
 
-Each page profiles a concrete school or schooling model available to valley families, assessed against all ten variables. Summary table, variable-by-variable assessment, best-fit analysis, and key unknowns.
+Options are organised into three categories by timeline and scope.
 
-- [Emil Weder Secondary](https://hs.valleyofgrace.co.za/options/emil-weder): Genadendal. Government school. Afrikaans-medium. The only operational high school in the valley. Lowest cost. Strongest diversity. Language barrier for English-speaking families.
-- [Overberg High School](https://hs.valleyofgrace.co.za/options/overberg-high): Caledon. English-medium public school. ~492 learners. Quintile 5. 35 km from Greyton. Transport cost dominates the budget.
-- [Hoërskool Overberg](https://hs.valleyofgrace.co.za/options/hoerskool-overberg): Caledon. Afrikaans-medium public school with boarding facilities. Relevant for Afrikaans-speaking families and as the only confirmed boarding option nearby.
-- [Online / Distance Schooling](https://hs.valleyofgrace.co.za/options/online-schooling): Child studies from home using an accredited digital platform. English-medium. CAPS via SACAI. No commute, no physical peer group. R6,000 to R36,000/year depending on provider.
-- [Silverwood School (Proposed)](https://hs.valleyofgrace.co.za/options/option-silverwood): English-medium, Waldorf-inspired, CAPS-compliant independent school. Not yet constituted. All claims MS and TBV with the founders.
-- [Microschool / Learning Pod](https://hs.valleyofgrace.co.za/options/microschool): Parent-organised collective home education using an accredited online provider, a shared facilitator, and a local venue. Not a registered school.
-- [Boarding Schools (Further Afield)](https://hs.valleyofgrace.co.za/options/boarding-schools): Independent boarding in Franschhoek, Stellenbosch, Somerset West, Paarl, or Cape Town. English-medium. IEB or Cambridge. R100,000 to R450,000+/year.
+### Immediate options
+
+Schools and schooling models a family can enrol in from 2028. Each page profiles the option against all ten variables, with a summary table, variable-by-variable assessment, best-fit analysis, and key unknowns.
+
+- [Emil Weder Secondary](https://hs.valleyofgrace.co.za/options/immediate/emil-weder): Genadendal. Government school. Afrikaans-medium. The only operational high school in the valley. Lowest cost. Strongest diversity. Language barrier for English-speaking families.
+- [Overberg High / Hoërskool Overberg](https://hs.valleyofgrace.co.za/options/immediate/overberg-high): Caledon. Dual-medium public school (English and Afrikaans streams) with boarding facilities. ~492 learners. Quintile 5. 35 km from Greyton. Day attendance R19,000 to R86,000/year; boarding R30,000 to R70,000/year.
+- [Greyton House (Grade 8-9)](https://hs.valleyofgrace.co.za/options/immediate/greyton-house): Greyton. Registered independent school (ISASA member). English-medium. Currently Grade R to 7; WCED registration covers Grades 8 and 9. Subject to board clearance. Covers senior phase only; a transfer is required for FET (Grade 10-12).
+- [Online / Distance Schooling](https://hs.valleyofgrace.co.za/options/immediate/online-schooling): Child studies from home using an accredited digital platform. English-medium. CAPS via SACAI. No commute, no physical peer group. R6,000 to R36,000/year depending on provider.
+- [Silverwood High (Proposed)](https://hs.valleyofgrace.co.za/options/immediate/silverwood-high): English-medium, Waldorf-inspired, CAPS-compliant independent school, integrated with the Overberg BioHub. Not yet constituted. All claims MS and TBV with the founders.
+- [Microschool / Learning Pod](https://hs.valleyofgrace.co.za/options/immediate/microschool): Parent-organised collective home education using an accredited online provider, a shared facilitator, and a local venue. Not a registered school.
+- [Boarding Schools (Further Afield)](https://hs.valleyofgrace.co.za/options/immediate/boarding-schools): Independent boarding in Franschhoek, Stellenbosch, Somerset West, Paarl, or Cape Town. English-medium. IEB or Cambridge. R100,000 to R450,000+/year.
+
+### Long-term options
+
+Plans that will take two years or more to put in place. Not available for 2028 enrolment, but relevant because a child entering Grade 8 in 2028 will still be in the system in 2032.
+
+- [Long-term options overview](https://hs.valleyofgrace.co.za/options/long-term)
+
+### Partial options
+
+Supplementary programmes, extra-curricular offerings, and enrichment activities that do not replace a school but can strengthen one. Relevant for families who choose a local school and want to fill gaps.
+
+- [Partial options overview](https://hs.valleyofgrace.co.za/options/partial)
 
 ## Tools
 
-- [How to Use This Site with an AI Assistant](https://hs.valleyofgrace.co.za/tools/): A structured prompt families can paste into any AI chatbot. Covers all ten variables as inputs and asks the chatbot to match the family against the option profiles.
+- [How to Use This Site with an AI Assistant](https://hs.valleyofgrace.co.za/tools/ai-assistant): A structured prompt families can paste into any AI chatbot. Covers all ten variables as inputs and asks the chatbot to match the family against the option profiles.
+- [New Option Template](https://hs.valleyofgrace.co.za/tools/template): The format for proposing a new option to be included in the decision tool, structured around the ten decision variables.
 
-## Optional
+## Additional Pages
 
+- [Contacts](https://hs.valleyofgrace.co.za/contacts): Published contact details for the schools listed.
+- [Available Properties](https://hs.valleyofgrace.co.za/properties): Current property listings that may be suitable for a school in Greyton. No feasibility assessment has been done.
 - [References](https://hs.valleyofgrace.co.za/references): URLs and sources discovered during research. Grouped by topic: local schools, Waldorf schools, examination bodies, online providers, TVET and post-school, education policy. Each entry notes what the source contains and its relevance.

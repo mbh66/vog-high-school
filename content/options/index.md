@@ -15,7 +15,7 @@ The options available to valley families fall into three categories, separated b
 
 These are schools and schooling models a family can enrol in from 2028. They exist now (or, in Silverwood's case, are proposed for launch by then). A family reading this site in preparation for a Grade 8 decision can act on any of these.
 
-The immediate options include Emil Weder Secondary, Overberg High School, Hoërskool Overberg, online/distance schooling, boarding schools further afield, a parent-organised microschool, and the proposed Silverwood School. Each has a full profile page assessed against all ten decision variables.
+The immediate options include Emil Weder Secondary, Overberg High / Hoërskool Overberg (dual-medium, with boarding), Greyton House (Grade 8-9), online/distance schooling, boarding schools further afield, a parent-organised microschool, and the proposed Silverwood School. Each has a full profile page assessed against all ten decision variables.
 
 ## [[content/options/long-term/index|Long-term options]]
 
