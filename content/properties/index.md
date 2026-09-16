@@ -18,10 +18,10 @@ Here we provide current listings of properties that may be suitable for a school
 
 The feasibility of these properties is highly unlikely, but they are listed here purely to show what underutilised assets the valley currently offers.
 
-- **[Volmoed](https://www.volmoed.co.za)**, Hemel-en-Aarde Valley, Hermanus - could only be considered as part of a wider eco-education initiative
 - **Greyton Commonage** (erf 595) - could only be considered as part of a wider eco-education initiative; potentially earmarked for expansion of the Greyton Nature Reserve
 - **Hester Dorothea Conference Centre**, Genadendal - could only be considered as part of a wider eco-education initiative; would require significant renovation
 - **Kruishuis**, Heuwelkroon - would require significant renovation
+- **[Volmoed](https://www.volmoed.co.za)**, Hemel-en-Aarde Valley, Hermanus - could only be considered as part of a wider eco-education initiative
 
 ---
 
