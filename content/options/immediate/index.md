@@ -23,6 +23,8 @@ Where information is missing, the page says so and names the verification step. 
 
 **[[silverwood-high|Silverwood High]]** (proposed) — English-medium, Waldorf-inspired, CAPS-compliant independent school. Not yet constituted. All claims are MS (Mission-Sourced) and TBV with the founders.
 
+**[[greyton-house|Greyton House (Grade 8-9)]]** — Greyton. Registered independent school (ISASA member). English-medium. Currently Grade R to 7; WCED registration already covers Grades 8 and 9. Subject to board clearance and accommodation. Covers senior phase only (Grade 8-9); a transfer to another school is required for FET (Grade 10-12).
+
 **[[microschool|Microschool / Learning Pod]]** — Parent-organised collective home education using an accredited online provider, a shared facilitator, and a local venue. Not a registered school. The lowest-barrier collective solution that keeps children physically together in the valley.
 
 ## Caledon options
@@ -43,6 +45,7 @@ Where information is missing, the page says so and names the verification step. 
 |---|---|---|---|---|---|
 | Emil Weder | Afrikaans | In-valley | Under R5,000 | Public | Valley (Genadendal) |
 | Silverwood (proposed) | English | In-valley | R55,000 to R100,000 | Independent | Valley (if enough enrol) |
+| Greyton House (Gr 8-9) | English | In-valley | TBV (fees not set) | Independent | Valley (Greyton) |
 | Microschool | English | In-valley | R40,000 to R95,000 | Home education | Small local group |
 | Overberg High | English | Caledon (35 km) | R19,000 to R86,000 | Public | Caledon |
 | Hoërskool Overberg | Afrikaans | Caledon (35 km) | R30,000 to R70,000 | Public (boarding) | Caledon (boarding) |
