@@ -1,5 +1,5 @@
 ---
-title: Options - Immediate
+title: Immediate
 date: 2026-09-15
 tags:
   - index
