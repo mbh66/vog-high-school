@@ -1,3 +1,14 @@
+---
+title: Context
+date: 2026-09-16
+tags:
+  - index
+  - decision-tool
+  - high-school
+  - options
+---
+
+
 # Treverton College and Environmental Education Pioneering: A Research Brief
 
 ## Lessons for the Valley of Grace Learning Campus
@@ -182,3 +193,8 @@ The Treverton model is instructive but not directly transplantable. Three struct
 - [Treverton on Midlands Meander](https://midlandsmeander.co.za/item/treverton-schools/)
 - [EEASA at Rhodes University ELRC](https://www.ru.ac.za/elrc/researchprojects/eeasa/)
 - [About EEASA](https://eeasa.org.za/home/about-us/)
+
+
+---
+
+*This page is part of the [[index|Valley of Grace High School Decision Tool]].*
