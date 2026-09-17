@@ -43,7 +43,7 @@ The three components share a single site, a single legal entity (NPC), and, wher
 
 ### The high school
 
-A registered independent school, English-medium, CAPS-compliant, Grade 8 to 12. Small: 60 to 120 learners at maturity, starting with Grade 8 only and growing one year group at a time. Registered with the WCED under SASA Section 46. Examination body to be determined.
+A registered independent school, English-medium, CAPS-compliant, Grade 8 to 12. Small: 60 to 120 learners at maturity, starting with Grade 8 only and growing one or two year groups at a time. Registered with the WCED under SASA Section 46. Examination body to be determined.
 
 The school's curriculum is bioregionally grounded. Geography uses the Riviersonderend watershed. History uses Genadendal's mission heritage. Life Sciences uses fynbos ecology. Tourism, Agricultural Sciences, and Business Studies draw on the valley's actual economy. This orientation is shared with the other two components and is the school's organising principle.
 
@@ -51,7 +51,9 @@ The small-school subject menu problem (see [[variables/07-subject-availability|V
 
 ### The bioregional learning centre (BLC)
 
-A place-based education and research facility serving both the school and the wider community. It develops the bioregional curriculum modules, runs community education programmes (heritage walks, ecological literacy, food sovereignty workshops), hosts research (2038 founding of Genadendal tricentenary, leopard corridor mapping, bioprecipitation, BioConomy documentation), and operates heritage and ecological tours as a social enterprise.
+A place-based education and research facility serving both the school and the wider community. The centre is designed as a node within the Valley of Grace Nature Realm (~10,000 hectares), with defined learning corridors extending into the Greyton commonage, the Greyton Nature Reserve, and the Farm 39 TRANCRAA land. The centre is the base; the valley is the campus.
+
+It develops the bioregional curriculum modules based on what is already available internationally, runs community education programmes (heritage walks, ecological literacy, food sovereignty workshops), hosts research (2038 founding of Genadendal tricentenary, leopard corridor mapping, bioprecipitation, BioConomy documentation), and operates heritage and ecological tours as a social enterprise. Learners take stewardship responsibility for allocated restoration blocks within the Realm: wetland rehabilitation, alien clearing, erosion management, and species monitoring. The conservation area's condition becomes part of their learning record.
 
 The BLC is what makes the school distinctive and what makes the campus a tourism destination. It is not a museum and not a conservation NGO; it operates alongside the Genadendal Mission Museum and CapeNature, creating programming that draws on both.
 
@@ -76,13 +78,15 @@ Programmes mapped to W2DF priorities (Ward 2 Development Forum: Business & Commu
 
 Detailed variable-by-variable assessment will follow in subsequent pages. The key points against each variable are captured in the summary table above. The working document (separate from this Decision Tool page) contains the full analysis, including regulatory pathways, revenue model, phasing, and open questions.
 
+For the sequence of actions required to move from concept to operating institution, see [[learning-campus-actions|Learning Campus — Actions Required]].
+
 ## Timeline
 
 The campus does not launch all three components simultaneously. The phasing is designed to build institutional capacity and demonstrate demand before committing to the most complex component (the school).
 
 **Phase 0 (now to mid-2027):** Convene a working group through the W2DF. Engage the Transformasie Komitee. Conduct a feasibility study. Approach the Western Cape CET College, Elsenburg, and CATHSSETA about partnerships. Identify a site.
 
-**Phase 1 (2027-2028):** Launch the CET satellite and first SETA-funded skills programmes. Begin community education through the BLC. Generate revenue and track record.
+**Phase 1 (2027-2028):** Launch the CET satellite and first SETA-funded skills programmes. Begin community education through the BLC. Pursue WESSA Eco-School certification and EEASA affiliation for the campus. Generate revenue and track record.
 
 **Phase 2 (2028-2029):** Register the high school with the WCED. Open with Grade 8 only, growing one year group per year. First matric cohort writes in 2032 or 2033.
 
@@ -119,4 +123,4 @@ It does not suit families who need a school operating by 2028. It does not suit 
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]]. See also: [[options/immediate/index|Immediate Options]], [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[variables/09-social-and-community|Variable 9: Social and Community Considerations]].*
+*This page is part of the [[index|Valley of Grace High School Decision Tool]]. See also: [[learning-campus-actions|Actions Required]], [[options/immediate/index|Immediate Options]], [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[variables/09-social-and-community|Variable 9: Social and Community Considerations]].*
