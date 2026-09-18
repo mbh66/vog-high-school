@@ -64,4 +64,4 @@ The reverse is equally true. Afrikaans-speaking families in Genadendal who send 
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]]. See also: [[02-daily-logistics|Variable 2: Daily Logistics]], [[03-school-type-and-registration|Variable 3: School Type and Registration Status]].*
+*This page is part of the [[content/variables/index|Valley of Grace High School Decision Tool]]. See also: [[02-daily-logistics|Variable 2: Daily Logistics]], [[03-school-type-and-registration|Variable 3: School Type and Registration Status]].*

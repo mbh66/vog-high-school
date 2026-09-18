@@ -103,4 +103,4 @@ Most parents will combine this variable with cost ([[05-cost|Variable 5: Cost]])
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]]. See also: [[01-language-of-instruction|Variable 1: Language of Instruction]], [[03-school-type-and-registration|Variable 3: School Type and Registration Status]].*
+*This page is part of the [[content/variables/index|Valley of Grace High School Decision Tool]]. See also: [[01-language-of-instruction|Variable 1: Language of Instruction]], [[03-school-type-and-registration|Variable 3: School Type and Registration Status]].*

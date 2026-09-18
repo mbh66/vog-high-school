@@ -117,4 +117,4 @@ Children who complete this introduction at primary level arrive at the Learning 
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]]. See also: [[learning-campus|Learning Campus]], [[learning-campus-actions|Actions Required]], [[options/partial/cathsseta-tourist-guide|CATHSSETA Tourist Guide Training]], [[options/partial/elsenburg|Elsenburg Agricultural Qualifications]].*
+*This page is part of the [[content/options/long-term/index|Valley of Grace High School Decision Tool]]. See also: [[learning-campus|Learning Campus]], [[learning-campus-actions|Actions Required]], [[options/partial/cathsseta-tourist-guide|CATHSSETA Tourist Guide Training]], [[options/partial/elsenburg|Elsenburg Agricultural Qualifications]].*

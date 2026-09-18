@@ -32,6 +32,12 @@ Where information is missing, the page says so and names the verification step. 
 **[[overberg-high|Overberg High / Hoërskool Overberg]]** — Caledon. Dual-medium public school (English and Afrikaans streams) with boarding facilities. ~492 learners. Quintile 5. 35 km from Greyton. The nearest public high school with English-medium instruction. Transport or boarding required.
 
 
+## Hermanus and Elgin options
+
+**[[curro-hermanus|Curro Hermanus High School]]** — Sandbaai, Hermanus. Independent school (Curro Group). English and Afrikaans. IEB examination. Max 25 per class. ~80 km from Greyton, but school bus collects from Caledon (35 km). ~R88,000/year fees; ~R107,000 to R136,000/year total with lift club to Caledon.
+
+**[[applewood-grabouw|Applewood, Grabouw]]** — Grabouw (Elgin Valley). Independent school (est. 1998). English-medium. Currently primary only (Grade R to 7); high school announced for 2027. Inquiry-based, outdoor-oriented pedagogy in the Kogelberg Biosphere Reserve. ~80 km from Greyton. All high school details TBV.
+
 ## Remote and distributed options
 
 **[[online-schooling|Online / Distance Schooling]]** — Child studies from home using an accredited digital platform. English-medium. CAPS via SACAI (most providers). No commute. No physical peer group. Ranges from self-directed materials (under R6,000/year) to structured live classes (~R36,000/year). Requires supervision, a study environment, and stable internet.
@@ -47,6 +53,8 @@ Where information is missing, the page says so and names the verification step. 
 | Greyton House (Gr 8-9) | English | In-valley | TBV (fees not set) | Independent | Valley (Greyton) |
 | Microschool | English | In-valley | R40,000 to R95,000 | Home education | Small local group |
 | Overberg High / Hoërskool Overberg | English & Afrikaans | Caledon (35 km) | R19,000 to R86,000 (day); R30,000 to R70,000 (boarding) | Public (day & boarding) | Caledon |
+| Curro Hermanus | English & Afrikaans | Hermanus (~80 km; bus from Caledon) | R107,000 to R136,000 (lift club + bus) | Independent (IEB) | Hermanus |
+| Applewood, Grabouw | English | Grabouw (~80 km) | TBV (~R100,000 to R170,000 est.) | Independent (TBV) | Grabouw/Elgin |
 | Online schooling | English | Home | R25,000 to R55,000 | Distance provider | None (constructed) |
 | Boarding school | English | 90 to 150+ km | R100,000 to R450,000+ | Independent | School community |
 
@@ -65,4 +73,4 @@ If you have already worked through the [[content/variables/index|variable pages]
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[content/options/immediate/index|Valley of Grace High School Decision Tool]].*

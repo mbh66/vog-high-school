@@ -188,4 +188,4 @@ It does not suit learners who have not completed matric (they need to finish sch
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]]. See also: [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[options/long-term/learning-campus|Valley of Grace Learning Campus]], [[options/partial/elsenburg|Elsenburg Agricultural Occupational Qualifications]].*
+*This page is part of the [[content/options/partial/index|Valley of Grace High School Decision Tool]]. See also: [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[options/long-term/learning-campus|Valley of Grace Learning Campus]], [[options/partial/elsenburg|Elsenburg Agricultural Occupational Qualifications]].*

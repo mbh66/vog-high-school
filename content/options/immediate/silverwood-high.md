@@ -133,4 +133,4 @@ All 18 questions listed in [[10-silverwood-specific|Variable 10: Silverwood-Spec
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[content/options/immediate/index|Valley of Grace High School Decision Tool]].*

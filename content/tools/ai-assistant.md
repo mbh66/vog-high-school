@@ -97,4 +97,4 @@ Use the evidence status tags from the site (IC, MS, TBV) when citing facts. Do n
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[content/tools/index|Valley of Grace High School Decision Tool]].*

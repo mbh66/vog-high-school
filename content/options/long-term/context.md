@@ -197,4 +197,4 @@ The Treverton model is instructive but not directly transplantable. Three struct
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[content/options/long-term/index|Valley of Grace High School Decision Tool]].*

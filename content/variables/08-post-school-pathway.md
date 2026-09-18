@@ -90,4 +90,4 @@ The best position is a school that keeps multiple doors open through Grade 10 an
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]]. See also: [[07-subject-availability|Variable 7: Subject Availability]], [[09-social-and-community|Variable 9: Social and Community Considerations]].*
+*This page is part of the [[content/variables/index|Valley of Grace High School Decision Tool]]. See also: [[07-subject-availability|Variable 7: Subject Availability]], [[09-social-and-community|Variable 9: Social and Community Considerations]].*

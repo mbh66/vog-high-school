@@ -26,4 +26,4 @@ For additions or corrections to this tool, contact Michael Haupt:
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*

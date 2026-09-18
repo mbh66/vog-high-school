@@ -93,5 +93,5 @@ The variable pages were drafted with AI assistance (Claude, Anthropic) using pro
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]]. Also see the [[references|References page]].*
+*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. Also see the [[references|References page]].*
 

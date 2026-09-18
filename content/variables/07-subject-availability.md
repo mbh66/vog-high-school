@@ -97,4 +97,4 @@ Parents whose children have specific post-school ambitions (see [[08-post-school
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]]. See also: [[06-pedagogy-and-values|Variable 6: Pedagogy and Values]], [[08-post-school-pathway|Variable 8: Post-School Pathway]].*
+*This page is part of the [[content/variables/index|Valley of Grace High School Decision Tool]]. See also: [[06-pedagogy-and-values|Variable 6: Pedagogy and Values]], [[08-post-school-pathway|Variable 8: Post-School Pathway]].*

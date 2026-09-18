@@ -125,4 +125,4 @@ It is a weaker fit where: the family needs a single school through to matric; th
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[content/options/immediate/index|Valley of Grace High School Decision Tool]].*

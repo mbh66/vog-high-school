@@ -136,4 +136,4 @@ The WCED may take several months to process registration. A school that begins o
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]]. See also: [[01-language-of-instruction|Variable 1: Language of Instruction]], [[02-daily-logistics|Variable 2: Daily Logistics]].*
+*This page is part of the [[content/variables/index|Valley of Grace High School Decision Tool]]. See also: [[01-language-of-instruction|Variable 1: Language of Instruction]], [[02-daily-logistics|Variable 2: Daily Logistics]].*
