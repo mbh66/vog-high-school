@@ -56,9 +56,9 @@ The current **immediate** options include:
 
 - [[emil-weder|Emil Weder Secondary (Genadendal)]] 
 - [[overberg-high|Overberg High / Hoërskool Overberg (Caledon)]]
-- [[content/glossary/online-schooling|Online/distance schooling]] (multiple providers)
+- [[glossary/online-schooling|Online/distance schooling]] (multiple providers)
 - [[silverwood-high|Silverwood School]] (proposed, if constituted)
-- [[content/glossary/microschool|Microschool or learning pod]] (parent-organised)
+- [[glossary/microschool|Microschool or learning pod]] (parent-organised)
 - [[boarding-schools|Boarding schools]] (further afield)
 
 Under development is a wider adult education initiative that parallels the Silverwood option.
@@ -95,5 +95,5 @@ The variable pages were drafted with AI assistance (Claude, Anthropic) using pro
 
 ---
 
-*This page is part of the [[content/index|Valley of Grace High School Decision Tool]]. Also see the [[references|References page]].*
+*This page is part of the [[index|Valley of Grace High School Decision Tool]]. Also see the [[references|References page]].*
 

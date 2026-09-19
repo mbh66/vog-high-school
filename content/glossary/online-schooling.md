@@ -14,11 +14,11 @@ Providers range from high-structure ([[uct-online-high-school|UCT Online]], [[te
 
 ## See also
 
-- [[content/glossary/online-schooling|Online Schooling option profile]]
+- [[glossary/online-schooling|Online Schooling option profile]]
 - [[03-school-type-and-registration|Variable 3: School Type and Registration Status]]
 - [[sacai|SACAI]]
-- [[content/glossary/microschool|Microschool]]
+- [[glossary/microschool|Microschool]]
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

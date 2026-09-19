@@ -115,4 +115,4 @@ Emil Weder is a poor fit where: the child has no Afrikaans and the family is not
 
 ---
 
-*This page is part of the [[content/options/immediate/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[options/immediate/index|Valley of Grace High School Decision Tool]].*

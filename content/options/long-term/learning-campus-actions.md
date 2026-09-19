@@ -215,4 +215,4 @@ The critical path runs: W2BF champion (0.1) then working group (0.2) then Transf
 
 ---
 
-*This page is part of the [[content/options/long-term/index|Valley of Grace High School Decision Tool]]. See also: [[options/long-term/learning-campus|Valley of Grace Learning Campus]], [[options/partial/elsenburg|Elsenburg Agricultural Occupational Qualifications]], [[options/partial/cathsseta-tourist-guide|CATHSSETA Tourist Guide Training]].*
+*This page is part of the [[options/long-term/index|Valley of Grace High School Decision Tool]]. See also: [[options/long-term/learning-campus|Valley of Grace Learning Campus]], [[options/partial/elsenburg|Elsenburg Agricultural Occupational Qualifications]], [[options/partial/cathsseta-tourist-guide|CATHSSETA Tourist Guide Training]].*

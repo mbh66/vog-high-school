@@ -9,7 +9,7 @@ tags:
 ---
 
 
-A working glossary for the [[content/index|Valley of Grace High School Decision Tool]]. Every acronym, institution, and specialist term the tool uses is defined here in one place, with cross-links back into the variables, options, and research pages that put each term to work.
+A working glossary for the [[index|Valley of Grace High School Decision Tool]]. Every acronym, institution, and specialist term the tool uses is defined here in one place, with cross-links back into the variables, options, and research pages that put each term to work.
 
 The entries are grouped by function below. Follow any wikilink to read the full entry.
 
@@ -67,8 +67,8 @@ Evidence tags ([[ic|IC]], [[ms|MS]], [[tbv|TBV]]) are the first place to start i
 ## Schooling models
 
 - [[home-education|Home Education]]
-- [[content/glossary/microschool|Microschool / Learning Pod]]
-- [[content/glossary/online-schooling|Online / Distance Schooling]]
+- [[glossary/microschool|Microschool / Learning Pod]]
+- [[glossary/online-schooling|Online / Distance Schooling]]
 - [[npc|NPC: Non-Profit Company]]
 
 ## Vocational, occupational, and adult education
@@ -101,13 +101,13 @@ Evidence tags ([[ic|IC]], [[ms|MS]], [[tbv|TBV]]) are the first place to start i
 - [[overberg-high-school|Overberg High School]]
 - [[hoerskool-overberg|Hoërskool Overberg]]
 - [[silverwood-school|Silverwood School (proposed)]]
-- [[content/glossary/greyton-house|Greyton House]]
-- [[content/glossary/curro-hermanus|Curro Hermanus High School]]
+- [[glossary/greyton-house|Greyton House]]
+- [[glossary/curro-hermanus|Curro Hermanus High School]]
 - [[uct-online-high-school|UCT Online High School]]
 - [[teneo|Teneo Online School]]
 - [[cambrilearn|CambriLearn]]
-- [[content/glossary/elsenburg|Elsenburg Agricultural Training Institute]]
-- [[content/glossary/treverton-college|Treverton College]]
+- [[glossary/elsenburg|Elsenburg Agricultural Training Institute]]
+- [[glossary/treverton-college|Treverton College]]
 
 ## Valley geography and settlements
 
@@ -167,4 +167,4 @@ If a term in the Decision Tool is missing from the glossary, or an existing entr
 
 ---
 
-*This page is part of the [[content/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[index|Valley of Grace High School Decision Tool]].*

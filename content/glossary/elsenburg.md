@@ -14,10 +14,10 @@ The programme is free (registration, tuition, hostel, meals, stipend, protective
 
 ## See also
 
-- [[content/glossary/elsenburg|Elsenburg option profile]]
+- [[glossary/elsenburg|Elsenburg option profile]]
 - [[occupational-certificate|Occupational Certificate]]
 - [[agriseta|AgriSETA]]
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

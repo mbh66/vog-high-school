@@ -18,4 +18,4 @@ The national policy that governs how public schools accommodate the languages of
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

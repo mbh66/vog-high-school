@@ -17,4 +17,4 @@ Afrikaans-medium public high school in Caledon, with hostel accommodation ("Kosh
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

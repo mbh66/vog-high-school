@@ -25,4 +25,4 @@ The feasibility of these properties is highly unlikely, but they are listed here
 
 ---
 
-*This page is part of the [[content/properties/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[properties/index|Valley of Grace High School Decision Tool]].*

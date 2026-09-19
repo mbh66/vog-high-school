@@ -19,4 +19,4 @@ At public universities and [[tvet-college|TVET colleges]], NSFAS is the national
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

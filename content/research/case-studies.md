@@ -98,4 +98,4 @@ Common first-three-year failure points, from the Western Cape Provincial Parliam
 
 ---
 
-*This page is part of the [[content/tools/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[tools/index|Valley of Grace High School Decision Tool]].*

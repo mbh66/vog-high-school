@@ -10,13 +10,13 @@ tags:
 
 The legal arrangement under South African law by which a child of compulsory school age receives schooling at home. Each parent must register as the home educator with the provincial education department ([[wced|WCED]] in the Western Cape) and use a curriculum aligned to an accredited examination body (typically [[sacai|SACAI]]).
 
-Home education is the legal basis for a [[content/glossary/microschool|microschool]]: each family holds its own registration, and the shared facilitator and venue are support structures around the individual registrations.
+Home education is the legal basis for a [[glossary/microschool|microschool]]: each family holds its own registration, and the shared facilitator and venue are support structures around the individual registrations.
 
 ## See also
 
-- [[content/glossary/microschool|Microschool]]
-- [[content/glossary/online-schooling|Online / Distance Schooling]]
+- [[glossary/microschool|Microschool]]
+- [[glossary/online-schooling|Online / Distance Schooling]]
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

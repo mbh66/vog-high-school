@@ -21,4 +21,4 @@ Phenomenological teaching is slower than textbook delivery. It builds the cognit
 
 ---
 
-*This page is part of the [[content/Glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

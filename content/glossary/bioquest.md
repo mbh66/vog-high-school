@@ -17,4 +17,4 @@ A biannual (April and October) citizen-science cycle within the [[goe|GoE]] netw
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

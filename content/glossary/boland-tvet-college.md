@@ -19,4 +19,4 @@ A learner completing Grade 9 at any school in the valley can enter a Boland [[nc
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

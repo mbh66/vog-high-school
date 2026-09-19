@@ -8,7 +8,7 @@ tags:
 ---
 
 
-The Grade 9 equivalent qualification for adults, achieved on completion of [[aet|AET]] Level 4. GETC opens entry to occupational qualifications such as [[content/glossary/elsenburg|Elsenburg]]'s Livestock Farmer certificate ([[national-qualifications-framework|NQF]] Level 3) and to [[tvet-college|TVET]] NCV Level 2 programmes.
+The Grade 9 equivalent qualification for adults, achieved on completion of [[aet|AET]] Level 4. GETC opens entry to occupational qualifications such as [[glossary/elsenburg|Elsenburg]]'s Livestock Farmer certificate ([[national-qualifications-framework|NQF]] Level 3) and to [[tvet-college|TVET]] NCV Level 2 programmes.
 
 ## See also
 
@@ -17,4 +17,4 @@ The Grade 9 equivalent qualification for adults, achieved on completion of [[aet
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

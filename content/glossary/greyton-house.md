@@ -12,9 +12,9 @@ English-medium [[isasa|ISASA]]-member independent primary school in Greyton, cur
 
 ## See also
 
-- [[content/glossary/greyton-house|Greyton House option profile]]
+- [[glossary/greyton-house|Greyton House option profile]]
 - [[senior-phase|Senior Phase]]
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

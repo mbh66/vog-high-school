@@ -149,4 +149,4 @@ It does not suit learners who want a university pathway (the qualification is oc
 
 ---
 
-*This page is part of the [[content/options/partial/index|Valley of Grace High School Decision Tool]]. See also: [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[options/long-term/learning-campus|Valley of Grace Learning Campus]].*
+*This page is part of the [[options/partial/index|Valley of Grace High School Decision Tool]]. See also: [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[options/long-term/learning-campus|Valley of Grace Learning Campus]].*

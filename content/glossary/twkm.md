@@ -17,4 +17,4 @@ The local municipality within which [[ward-2|Ward 2]] and the [[valley-of-grace|
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

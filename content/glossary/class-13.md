@@ -19,4 +19,4 @@ Class 13 means the child is in school for 13 years, not 12. Some Waldorf schools
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

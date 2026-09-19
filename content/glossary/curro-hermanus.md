@@ -12,9 +12,9 @@ An independent high school in Sandbaai, Hermanus, roughly 80 km from Greyton. Pa
 
 ## See also
 
-- [[content/glossary/curro-hermanus|Curro Hermanus option profile]]
+- [[glossary/curro-hermanus|Curro Hermanus option profile]]
 - [[ieb|IEB]]
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

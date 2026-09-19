@@ -29,7 +29,7 @@ These variables determine what the child studies, how they are assessed, and wha
 
 **[[04-curriculum-and-examination-body|Variable 4: Curriculum and Examination Body]]** — CAPS or Cambridge. DBE, IEB, or SACAI examination. All three NSC examination bodies carry equal legal standing (confirmed by Umalusi). Switching between examination bodies during the FET phase (Grades 10 to 12) is difficult. The choice at Grade 8 sets the path.
 
-**[[05-cost|Variable 5: Cost]]** — The full annual cost, not the advertised fee. Includes transport, devices, data, uniforms, examination fees, and lost parent time. Five-year sustainability matters more than Year 1 affordability. The comparison table in the [[content/options/index|options index]] shows the range: under R5,000/year (Emil Weder) to over R450,000/year (elite boarding).
+**[[05-cost|Variable 5: Cost]]** — The full annual cost, not the advertised fee. Includes transport, devices, data, uniforms, examination fees, and lost parent time. Five-year sustainability matters more than Year 1 affordability. The comparison table in the [[options/index|options index]] shows the range: under R5,000/year (Emil Weder) to over R450,000/year (elite boarding).
 
 **[[06-pedagogy-and-values|Variable 6: Pedagogy and Values]]** — Standard academic, Waldorf, project-based, online self-directed, or faith-based. Two schools following the same curriculum can offer profoundly different daily experiences. This variable matters for families who have a choice; for families whose options are already narrowed by cost or logistics, it may be moot.
 
@@ -51,12 +51,12 @@ These variables ask what the high school is preparing the child for and what soc
 
 **If you know your constraints:** Go directly to the variable that interests you most. If your budget is R30,000, start with [[05-cost|Variable 5: Cost]]. If English is non-negotiable, start with [[01-language-of-instruction|Variable 1: Language of Instruction]]. Work outward from there.
 
-**If you are starting from scratch:** Read Variables 1 through 3 in order. They will eliminate several options. Then read the [[content/options/index|option profiles]] for whatever remains.
+**If you are starting from scratch:** Read Variables 1 through 3 in order. They will eliminate several options. Then read the [[options/index|option profiles]] for whatever remains.
 
-**If you want AI-assisted filtering:** Use the [[content/tools/index|AI prompt page]]. Fill in your inputs across all ten variables and let the chatbot match you against the option profiles.
+**If you want AI-assisted filtering:** Use the [[tools/index|AI prompt page]]. Fill in your inputs across all ten variables and let the chatbot match you against the option profiles.
 
 **If you want the collective picture:** Read [[09-social-and-community|Variable 9: Social and Community Considerations]]. The number of families making this decision together determines which collective solutions (lift club, microschool, new school) become viable.
 
 ---
 
-*This page is part of the [[content/variables/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[variables/index|Valley of Grace High School Decision Tool]].*

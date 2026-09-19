@@ -154,4 +154,4 @@ Nearly everything about the high school phase is unconfirmed. Priority items to 
 
 ---
 
-*This page is part of the [[content/options/immediate/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[options/immediate/index|Valley of Grace High School Decision Tool]].*

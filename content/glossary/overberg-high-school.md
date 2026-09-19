@@ -20,4 +20,4 @@ Access from Greyton depends on daily transport (lift club, solo drive, scholar s
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

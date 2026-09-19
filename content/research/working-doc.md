@@ -305,4 +305,4 @@ What it does is test whether the combination of three functions (high school, bi
 
 ---
 
-*This page is part of the [[content/tools/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[tools/index|Valley of Grace High School Decision Tool]].*

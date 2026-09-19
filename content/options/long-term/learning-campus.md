@@ -123,4 +123,4 @@ It does not suit families who need a school operating by 2028. It does not suit 
 
 ---
 
-*This page is part of the [[content/options/long-term/index|Valley of Grace High School Decision Tool]]. See also: [[learning-campus-actions|Actions Required]], [[options/immediate/index|Immediate Options]], [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[variables/09-social-and-community|Variable 9: Social and Community Considerations]].*
+*This page is part of the [[options/long-term/index|Valley of Grace High School Decision Tool]]. See also: [[learning-campus-actions|Actions Required]], [[options/immediate/index|Immediate Options]], [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[variables/09-social-and-community|Variable 9: Social and Community Considerations]].*

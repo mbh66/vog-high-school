@@ -28,4 +28,4 @@ Pedagogy matters most for families who have a choice. For families whose options
 
 ---
 
-*This page is part of the [[content/Glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

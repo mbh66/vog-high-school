@@ -16,8 +16,8 @@ The SACAI NSC carries identical legal standing to the DBE and IEB certificates. 
 
 - [[dbe|DBE]]
 - [[ieb|IEB]]
-- [[content/glossary/online-schooling|Online / Distance Schooling]]
+- [[glossary/online-schooling|Online / Distance Schooling]]
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

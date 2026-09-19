@@ -21,4 +21,4 @@ The Treverton research brief in the Decision Tool draws out seven transferable l
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

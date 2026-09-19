@@ -21,4 +21,4 @@ Variable 10 of the Decision Tool consolidates the 18 questions parents should as
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

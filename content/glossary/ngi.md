@@ -24,4 +24,4 @@ The caution named in the [[waldorf-caps|Waldorf and CAPS position paper]]: NGI i
 
 ---
 
-*This page is part of the [[content/Glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

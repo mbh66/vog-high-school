@@ -18,4 +18,4 @@ The [[goe|GoE]] platform's designation for the ~10,000-hectare bioregional area 
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

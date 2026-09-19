@@ -86,4 +86,4 @@ The planning session is the place to test that commitment. The tool's role is to
 
 ---
 
-*This page is part of the [[content/variables/index|Valley of Grace High School Decision Tool]]. See also: [[01-language-of-instruction|Variable 1: Language of Instruction]], [[03-school-type-and-registration|Variable 3: School Type and Registration Status]], [[05-cost|Variable 5: Cost]], [[09-social-and-community|Variable 9: Social and Community Considerations]].*
+*This page is part of the [[variables/index|Valley of Grace High School Decision Tool]]. See also: [[01-language-of-instruction|Variable 1: Language of Instruction]], [[03-school-type-and-registration|Variable 3: School Type and Registration Status]], [[05-cost|Variable 5: Cost]], [[09-social-and-community|Variable 9: Social and Community Considerations]].*

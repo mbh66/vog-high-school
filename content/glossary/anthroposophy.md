@@ -16,4 +16,4 @@ The spiritual-philosophical framework developed by Rudolf Steiner in the early 2
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

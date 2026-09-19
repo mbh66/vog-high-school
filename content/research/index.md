@@ -12,11 +12,11 @@ tags:
 Collates the research required to build this site:
 
 - [[case-studies|Case Studies]] - showing other community driven schools
-- [[content/research/treverton-college|Treverton College]] - because of the environmental links
+- [[research/treverton-college|Treverton College]] - because of the environmental links
 - [[top-schools|Top Schools]] in South Africa
 - [[working-doc|Working Document]] - contains the overall context of the valley
 
 
 ---
 
-*This page is part of the [[content/tools/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[tools/index|Valley of Grace High School Decision Tool]].*

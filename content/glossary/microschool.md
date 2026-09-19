@@ -14,10 +14,10 @@ In the valley context, a microschool is the lowest-barrier collective solution t
 
 ## See also
 
-- [[content/glossary/microschool|Microschool option profile]]
+- [[glossary/microschool|Microschool option profile]]
 - [[home-education|Home Education]]
-- [[content/glossary/online-schooling|Online / Distance Schooling]]
+- [[glossary/online-schooling|Online / Distance Schooling]]
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

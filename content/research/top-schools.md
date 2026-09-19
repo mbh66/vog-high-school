@@ -245,4 +245,4 @@ For comparison, the total annual boarding fees for the five WC schools (Bishops 
 
 ---
 
-*This page is part of the [[content/tools/index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[tools/index|Valley of Grace High School Decision Tool]].*

@@ -114,4 +114,4 @@ Pedagogy is a method. Values are broader. Some questions that sit in this space:
 
 ---
 
-*This page is part of the [[content/variables/index|Valley of Grace High School Decision Tool]]. See also: [[05-cost|Variable 5: Cost]], [[07-subject-availability|Variable 7: Subject Availability]].*
+*This page is part of the [[variables/index|Valley of Grace High School Decision Tool]]. See also: [[05-cost|Variable 5: Cost]], [[07-subject-availability|Variable 7: Subject Availability]].*

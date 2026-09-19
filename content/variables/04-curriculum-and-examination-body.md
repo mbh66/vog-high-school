@@ -95,4 +95,4 @@ Umalusi has stated directly that a university cannot differentiate which of the 
 
 ---
 
-*This page is part of the [[content/variables/index|Valley of Grace High School Decision Tool]]. See also: [[03-school-type-and-registration|Variable 3: School Type and Registration Status]], [[05-cost|Variable 5: Cost]].*
+*This page is part of the [[variables/index|Valley of Grace High School Decision Tool]]. See also: [[03-school-type-and-registration|Variable 3: School Type and Registration Status]], [[05-cost|Variable 5: Cost]].*

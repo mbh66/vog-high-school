@@ -17,4 +17,4 @@ The four-level programme covering basic adult education in literacy, numeracy, a
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

@@ -18,4 +18,4 @@ A biodiversity and ecological monitoring platform operated by the [[goe|GoE]] ne
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

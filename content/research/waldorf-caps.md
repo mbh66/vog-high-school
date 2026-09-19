@@ -1,4 +1,14 @@
-# Honoring Waldorf, Meeting CAPS
+---
+title: Honouring Waldorf, While Aligning With CAPS
+status: draft-v0.1
+date: 2026-09-15
+tags:
+  - guide
+  - decision-tool
+  - high-school
+  - prompt
+---
+
 ## A Position Paper and Accreditation Pathway for a Grades 8 to 12 Waldorf High School in South Africa, with Application to the [[valley-of-grace|Valley of Grace]]
 
 ## How to read this document
@@ -386,3 +396,9 @@ The hardest unresolved problem is financial and demographic, not pedagogical. A 
 - Greyton House: ISASA independent, English-medium, age two to Grade 7, senior-phase extension to be verified.
 
 **A note on interpretation.** Regulatory conclusions in this paper are interpretations of published policy plus the demonstrated practice of existing Waldorf high schools, and should be confirmed with Umalusi and the WCED on the school's actual submission. Valley of Grace figures drawn from project documents are founder-sourced and should be independently verified before use.
+
+
+---
+
+*This page is part of the [[tools/index|Valley of Grace High School Decision Tool]].*
+

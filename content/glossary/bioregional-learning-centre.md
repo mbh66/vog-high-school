@@ -16,9 +16,9 @@ International reference points include the Schumacher College Small School (UK),
 
 - [[valley-of-grace-learning-campus|Valley of Grace Learning Campus]]
 - [[place-based-education|Place-based education]]
-- [[content/glossary/treverton-college|Treverton College]]
+- [[glossary/treverton-college|Treverton College]]
 - [[nature-realm|Nature Realm]]
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*

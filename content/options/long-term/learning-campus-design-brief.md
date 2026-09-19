@@ -293,4 +293,4 @@ The campus model rests on five structural conditions. If any is absent, the mode
 
 ---
 
-*This page is part of the [[content/options/long-term/index|Valley of Grace High School Decision Tool]]. See also: [[learning-campus|Learning Campus]], [[learning-campus-actions|Actions Required]], [[learning-campus-economics|Economics Module]], [[context|Treverton Research Brief]].*
+*This page is part of the [[options/long-term/index|Valley of Grace High School Decision Tool]]. See also: [[learning-campus|Learning Campus]], [[learning-campus-actions|Actions Required]], [[learning-campus-economics|Economics Module]], [[context|Treverton Research Brief]].*

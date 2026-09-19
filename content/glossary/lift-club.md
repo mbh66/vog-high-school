@@ -19,4 +19,4 @@ The arrangement requires reliability, coordination, and fallback plans for days 
 
 ---
 
-*This page is part of the [[content/glossary/index|Valley of Grace High School Decision Tool Glossary]].*
+*This page is part of the [[glossary/index|Valley of Grace High School Decision Tool Glossary]].*
