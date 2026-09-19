@@ -1,0 +1,76 @@
+---
+title: Immediate
+date: 2026-09-15
+tags:
+  - index
+  - decision-tool
+  - high-school
+  - options
+  - short-term
+---
+
+
+Options that exist now (or, in Silverwood's case, are proposed for launch by 2028). A family reading this site in preparation for a Grade 8 decision can act on any of these now.
+# Option Profiles
+
+Each page below profiles a concrete school or schooling model available to valley families, assessed against all ten [[content/variables/index|variables]]. The summary table at the top of each page gives a quick read. The variable-by-variable assessment underneath gives the detail. The "Best fit" section at the bottom states plainly who the option suits and who it doesn't.
+
+Where information is missing, the page says so and names the verification step. No option is presented as better or worse than any other. Each carries a different set of trade-offs, and the right choice depends on the family.
+
+## In-valley options
+
+**[[emil-weder|Emil Weder Secondary]]** — Genadendal. Government school. Afrikaans-medium. The only operational high school in the valley. Lowest cost. Strongest diversity. Language barrier for English-speaking families.
+
+**[[silverwood-high|Silverwood High]]** (proposed) — English-medium, Waldorf-inspired, CAPS-compliant independent school. Not yet constituted. All claims are MS (Mission-Sourced) and TBV with the founders.
+
+**[[greyton-house|Greyton House (Grade 8-9)]]** — Greyton. Registered independent school (ISASA member). English-medium. Currently Grade R to 7; WCED registration already covers Grades 8 and 9. Subject to board clearance and accommodation. Covers senior phase only (Grade 8-9); a transfer to another school is required for FET (Grade 10-12).
+
+**[[microschool|Microschool / Learning Pod]]** — Parent-organised collective home education using an accredited online provider, a shared facilitator, and a local venue. Not a registered school. The lowest-barrier collective solution that keeps children physically together in the valley.
+
+## Caledon options
+
+**[[overberg-high|Overberg High / Hoërskool Overberg]]** — Caledon. Dual-medium public school (English and Afrikaans streams) with boarding facilities. ~492 learners. Quintile 5. 35 km from Greyton. The nearest public high school with English-medium instruction. Transport or boarding required.
+
+
+## Hermanus and Elgin options
+
+**[[curro-hermanus|Curro Hermanus High School]]** — Sandbaai, Hermanus. Independent school (Curro Group). English and Afrikaans. IEB examination. Max 25 per class. ~80 km from Greyton, but school bus collects from Caledon (35 km). ~R88,000/year fees; ~R107,000 to R136,000/year total with lift club to Caledon.
+
+**[[applewood-grabouw|Applewood, Grabouw]]** — Grabouw (Elgin Valley). Independent school (est. 1998). English-medium. Currently primary only (Grade R to 7); high school announced for 2027. Inquiry-based, outdoor-oriented pedagogy in the Kogelberg Biosphere Reserve. ~80 km from Greyton. All high school details TBV.
+
+## Remote and distributed options
+
+**[[online-schooling|Online / Distance Schooling]]** — Child studies from home using an accredited digital platform. English-medium. CAPS via SACAI (most providers). No commute. No physical peer group. Ranges from self-directed materials (under R6,000/year) to structured live classes (~R36,000/year). Requires supervision, a study environment, and stable internet.
+
+**[[boarding-schools|Boarding Schools (Further Afield)]]** — Independent boarding schools in Franschhoek, Stellenbosch, Somerset West, Paarl, or Cape Town. English-medium. IEB or Cambridge. Widest subject range. Strongest university preparation. R100,000 to R450,000+/year. The child lives away from home.
+
+## Comparison at a glance
+
+| Option | Language | Location | Annual cost (est.) | School type | Peer group |
+|---|---|---|---|---|---|
+| Emil Weder | Afrikaans | In-valley | Under R5,000 | Public | Valley (Genadendal) |
+| Silverwood (proposed) | English | In-valley | R55,000 to R100,000 | Independent | Valley (if enough enrol) |
+| Greyton House (Gr 8-9) | English | In-valley | TBV (fees not set) | Independent | Valley (Greyton) |
+| Microschool | English | In-valley | R40,000 to R95,000 | Home education | Small local group |
+| Overberg High / Hoërskool Overberg | English & Afrikaans | Caledon (35 km) | R19,000 to R86,000 (day); R30,000 to R70,000 (boarding) | Public (day & boarding) | Caledon |
+| Curro Hermanus | English & Afrikaans | Hermanus (~80 km; bus from Caledon) | R107,000 to R136,000 (lift club + bus) | Independent (IEB) | Hermanus |
+| Applewood, Grabouw | English | Grabouw (~80 km) | TBV (~R100,000 to R170,000 est.) | Independent (TBV) | Grabouw/Elgin |
+| Online schooling | English | Home | R25,000 to R55,000 | Distance provider | None (constructed) |
+| Boarding school | English | 90 to 150+ km | R100,000 to R450,000+ | Independent | School community |
+
+Cost estimates include transport, devices, and incidentals where applicable. Ranges reflect variation in transport arrangements (lift club vs solo driving), provider choice (budget vs premium online), and school tier (mid-range vs elite boarding). See each option profile for the breakdown.
+
+## How to read these profiles
+
+Each profile follows the same structure:
+
+1. **Summary table** — one-line assessment against each of the ten variables.
+2. **Variable-by-variable assessment** — the detail behind each line in the summary.
+3. **Best fit** — who this option suits and who it does not.
+4. **Key unknowns** — the TBV items that matter most for this option.
+
+If you have already worked through the [[content/variables/index|variable pages]] or used the [[content/tools/ai-assistant|AI prompt]], you know your priorities. Use the comparison table above to eliminate options that clearly don't fit, then read the remaining profiles in full.
+
+---
+
+*This page is part of the [[content/options/immediate/index|Valley of Grace High School Decision Tool]].*
