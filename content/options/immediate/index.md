@@ -23,9 +23,9 @@ Where information is missing, the page says so and names the verification step. 
 
 **[[silverwood-high|Silverwood High]]** (proposed) — English-medium, Waldorf-inspired, CAPS-compliant independent school. Not yet constituted. All claims are MS (Mission-Sourced) and TBV with the founders.
 
-**[[greyton-house|Greyton House (Grade 8-9)]]** — Greyton. Registered independent school (ISASA member). English-medium. Currently Grade R to 7; WCED registration already covers Grades 8 and 9. Subject to board clearance and accommodation. Covers senior phase only (Grade 8-9); a transfer to another school is required for FET (Grade 10-12).
+**[[content/options/immediate/greyton-house|Greyton House (Grade 8-9)]]** — Greyton. Registered independent school (ISASA member). English-medium. Currently Grade R to 7; WCED registration already covers Grades 8 and 9. Subject to board clearance and accommodation. Covers senior phase only (Grade 8-9); a transfer to another school is required for FET (Grade 10-12).
 
-**[[microschool|Microschool / Learning Pod]]** — Parent-organised collective home education using an accredited online provider, a shared facilitator, and a local venue. Not a registered school. The lowest-barrier collective solution that keeps children physically together in the valley.
+**[[content/options/immediate/microschool|Microschool / Learning Pod]]** — Parent-organised collective home education using an accredited online provider, a shared facilitator, and a local venue. Not a registered school. The lowest-barrier collective solution that keeps children physically together in the valley.
 
 ## Caledon options
 
@@ -34,13 +34,13 @@ Where information is missing, the page says so and names the verification step. 
 
 ## Hermanus and Elgin options
 
-**[[curro-hermanus|Curro Hermanus High School]]** — Sandbaai, Hermanus. Independent school (Curro Group). English and Afrikaans. IEB examination. Max 25 per class. ~80 km from Greyton, but school bus collects from Caledon (35 km). ~R88,000/year fees; ~R107,000 to R136,000/year total with lift club to Caledon.
+**[[content/options/immediate/curro-hermanus|Curro Hermanus High School]]** — Sandbaai, Hermanus. Independent school (Curro Group). English and Afrikaans. IEB examination. Max 25 per class. ~80 km from Greyton, but school bus collects from Caledon (35 km). ~R88,000/year fees; ~R107,000 to R136,000/year total with lift club to Caledon.
 
 **[[applewood-grabouw|Applewood, Grabouw]]** — Grabouw (Elgin Valley). Independent school (est. 1998). English-medium. Currently primary only (Grade R to 7); high school announced for 2027. Inquiry-based, outdoor-oriented pedagogy in the Kogelberg Biosphere Reserve. ~80 km from Greyton. All high school details TBV.
 
 ## Remote and distributed options
 
-**[[online-schooling|Online / Distance Schooling]]** — Child studies from home using an accredited digital platform. English-medium. CAPS via SACAI (most providers). No commute. No physical peer group. Ranges from self-directed materials (under R6,000/year) to structured live classes (~R36,000/year). Requires supervision, a study environment, and stable internet.
+**[[content/options/immediate/online-schooling|Online / Distance Schooling]]** — Child studies from home using an accredited digital platform. English-medium. CAPS via SACAI (most providers). No commute. No physical peer group. Ranges from self-directed materials (under R6,000/year) to structured live classes (~R36,000/year). Requires supervision, a study environment, and stable internet.
 
 **[[boarding-schools|Boarding Schools (Further Afield)]]** — Independent boarding schools in Franschhoek, Stellenbosch, Somerset West, Paarl, or Cape Town. English-medium. IEB or Cambridge. Widest subject range. Strongest university preparation. R100,000 to R450,000+/year. The child lives away from home.
 

@@ -9,9 +9,10 @@ tags:
   - prompt
 ---
 
-Collates the research behind these pages:
+Collates the research required to build this site:
 
 - [[case-studies|Case Studies]] - showing other community driven schools
+- [[content/research/treverton-college|Treverton College]] - because of the environmental links
 - [[top-schools|Top Schools]] in South Africa
 - [[working-doc|Working Document]] - contains the overall context of the valley
 

@@ -54,9 +54,9 @@ The current **immediate** options include:
 
 - [[emil-weder|Emil Weder Secondary (Genadendal)]] 
 - [[overberg-high|Overberg High / Hoërskool Overberg (Caledon)]]
-- [[online-schooling|Online/distance schooling]] (multiple providers)
+- [[content/glossary/online-schooling|Online/distance schooling]] (multiple providers)
 - [[silverwood-high|Silverwood School]] (proposed, if constituted)
-- [[microschool|Microschool or learning pod]] (parent-organised)
+- [[content/glossary/microschool|Microschool or learning pod]] (parent-organised)
 - [[boarding-schools|Boarding schools]] (further afield)
 
 Under development is a wider adult education initiative that parallels the Silverwood option.
