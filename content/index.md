@@ -10,6 +10,8 @@ tags:
 
 A planning resource for families living in, or considering a move to, the Valley of Grace (Greyton and Genadendal), Western Cape, and who are thinking about high school options from 2028 onwards.
 
+> **This site is predominantly AI-generated, in the interests of getting something useful up and running quickly. Everything has been human-checked and verified, so there is no hallucination. The machine-generated language is not what we want at all, so we are working through each page to humanise it as quickly as possible. Please bear with us.** 
+
 ## The problem
 
 There is one high school in the valley: Emil Weder Secondary in Genadendal, which is Afrikaans-medium. For English-speaking families, this creates a gap. The nearest English-medium public high school is Overberg High School in Caledon, 35 km away. Online schooling, independent schools, and boarding are all possibilities, but each carries trade-offs in cost, logistics, and social consequence.
