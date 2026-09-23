@@ -118,6 +118,24 @@ URLs discovered during the research session that produced this decision tool (14
 **WCED: Western Cape School Placements 2026**
 - https://allafrica.com/stories/202601160057.html — AllAfrica, January 2026. 97,000 Grade 8 learners starting high school in the Western Cape. Nine new schools opened. Referenced for context on provincial scale.
 
+## Learning Campus: Bonnievale Precedent and Collaboration Schools
+
+Added 23 September 2026, when the [[options/long-term/learning-campus|Learning Campus]] profile was revised to include the anchor-tenant model and lessons from Bonnievale.
+
+**Jakes Gerwel Technical School and Bonnievale 418 (Bonnievale)**
+- https://ipa-sa.org.za/wp-content/uploads/2023/11/IPASA-Collaboration-Case-Study_Jakes-Gerwel-Technical-School-and-Bonnievale-418_November-2023.pdf. IPASA collaboration case study, November 2023. Founded 2016 by community leaders. No-fee public school under the Western Cape Collaboration Schools model; the trust holds 50% of governing body seats. WCED contributed R54m to construction; community raised about R100m in cash and kind over three and a half years. Nearly 700 learners. Mainstream academic and School of Skills curriculum on one campus. Trust raises about R1.8m a year. Bonnievale 418 (2021) extends into ECD, foster care, housing, and youth employment, targeting zero youth unemployment by 2030. Referenced in the Learning Campus profile and actions (0.15, 0.17, 1.8).
+- https://sa3.co.za/social_projects/jakes-gerwel-tegniese-hoerskool-bonnievale/. SA3 project page. Confirms 2016 founding and the public-private partnership; most Grade 7 learners previously had to leave Bonnievale for high school. Curriculum blends academics with technical trades. Referenced in the Learning Campus profile.
+- https://aslafoundation.org.za/skills-development-and-training-jakes-gerwel-school-of-skills-bonnievale/. ASLA Foundation. Construction industry support for technical training: donated surveying equipment, site exposure, vacation work, and potential civil engineering bursaries. Referenced in the Learning Campus profile.
+- https://aslafoundation.org.za/the-jakes-gerwel-school-of-skills-bonnievale-kruispad-huise/. ASLA Foundation. Kruispad Een (boys) and Kruispad Twee (girls): renovated residences providing safe homes for vulnerable learners at the school. Referenced in the Learning Campus profile (boarding for vulnerable learners).
+- https://bonnievale418.co.za/about-us/. Bonnievale 418 website. Could not be retrieved during research (connection timeout). TBV.
+- https://www.facebook.com/JGTSkool/. School Facebook page. Not reviewed.
+
+**Western Cape Collaboration Schools and Donor-funded Schools**
+- https://www.georgeherald.com/Schools/Article/Academic/sca-backs-western-cape-collaboration-schools-model-202609070302. George Herald, 7 September 2026. The Supreme Court of Appeal dismissed an appeal by Equal Education and SADTU and upheld the Collaboration Schools and Donor-funded Schools provisions of the Western Cape Provincial School Education Amendment Act (2018). Non-profit operating partners hold 50% of SGB seats; parents retain the deciding role in deadlocks; SGBs must agree to become Collaboration Schools. Referenced in the Learning Campus profile and action 0.17.
+- https://www.saflii.org/za/cases/ZAWCHC/2023/166.html. Equal Education v Provincial Minister for Education, Western Cape High Court, 17 July 2023: the judgment the SCA appeal concerned. Not reviewed.
+- https://eelawcentre.org.za/portfolio-posts/wcps-aa/. Equal Education Law Centre page on the Amendment Act. Not reviewed.
+- https://www.globalschoolsforum.org/wp-content/uploads/western_cape_collaboration_schools_south_africa_casestudy.pdf. Global Schools Forum case study of the Collaboration Schools model. Not reviewed.
+
 ## Sources Not Yet Retrieved
 
 The following sources are referenced in the variable pages but their URLs were not retrieved during this session. Parents or contributors are encouraged to locate and add them.

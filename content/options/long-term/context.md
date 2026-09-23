@@ -159,7 +159,11 @@ Treverton's environmental identity took 40 years to build: from the 1982 EEASA c
 
 The Treverton model is instructive but not directly transplantable. Three structural differences shape how the lessons apply.
 
-**Private vs. public schools.** Treverton is a private boarding school serving approximately 400 students from families that pay fees. The Valley of Grace schools are public institutions in a community where youth unemployment exceeds 44 percent. The economic models are fundamentally different. Treverton's Trust-based funding cannot be replicated, but the BCU/Realm treasury model offers an alternative funding architecture that does not depend on school fees.
+**Private vs. public schools.** Treverton is a private boarding school serving approximately 400 students from families that pay fees. The valley's existing schools are public institutions in a community where youth unemployment exceeds 44 percent.
+
+*Updated 23 September 2026.* The revised [[learning-campus|Learning Campus]] model closes part of this gap. An English-medium boarding school, run by an operator as anchor tenant, would bring Treverton-style fee income onto the campus. Its rent and per-learner levy would fund a community trust that holds the land and buildings, which is the valley's version of Treverton's Trust-based governance (feature 5 above). The public parts of the campus (a school of skills, the vocational training centre, and the Bioregional Learning Centre) serve the valley's no-fee constituency, and Emil Weder remains the valley's Afrikaans public high school. The difference from Treverton that remains: here the fee-paying school is a tenant of a community institution, and does not own it. The BCU/Realm treasury model remains a possible second funding stream alongside the anchor (MS).
+
+A second precedent now sits alongside Treverton: Jakes Gerwel Technical School in Bonnievale, a no-fee public Collaboration School that runs academic and School of Skills streams on one campus, with a community trust holding half the governing body seats. See [[learning-campus#Lessons from Bonnievale|Lessons from Bonnievale]].
 
 **Single campus vs. distributed valley.** Treverton's programmes work because everything is on one 270-hectare estate with a single governance structure. The Valley of Grace spans 10,000 hectares across multiple tenures, multiple settlements, and multiple schools. The Bioregional Learning Centre must function as a hub for a distributed network, not as a self-contained campus. This is a harder coordination problem.
 
@@ -193,6 +197,7 @@ The Treverton model is instructive but not directly transplantable. Three struct
 - [Treverton on Midlands Meander](https://midlandsmeander.co.za/item/treverton-schools/)
 - [EEASA at Rhodes University ELRC](https://www.ru.ac.za/elrc/researchprojects/eeasa/)
 - [About EEASA](https://eeasa.org.za/home/about-us/)
+- [IPASA Collaboration Case Study: Jakes Gerwel Technical School and Bonnievale 418 (November 2023)](https://ipa-sa.org.za/wp-content/uploads/2023/11/IPASA-Collaboration-Case-Study_Jakes-Gerwel-Technical-School-and-Bonnievale-418_November-2023.pdf)
 
 
 ---
