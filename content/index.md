@@ -6,9 +6,9 @@ tags:
   - decision-tool
   - high-school
 ---
+>[!quote] "... a trend of institutional learning is becoming evident as schools and universities increasingly open themselves to a degree of reformative self-examination—driven by rising awareness of the human and planetary predicament, and, importantly, by intensifying demands by students keenly aware of threats to their life chances." - [**Stephen Sterling**](https://gtcampaign.org/contributor/stephen-sterling/),  Emeritus Professor of Sustainability Education at University of Plymouth and Distinguished Fellow of the Schumacher Institute.
 
-
-A planning resource for families living in, or considering a move to, the Valley of Grace (Greyton and Genadendal), Western Cape, and who are thinking about high school options from 2028 onwards.
+Welcome to a planning resource for families living in, or considering a move to, the Valley of Grace (Greyton and Genadendal), Western Cape, and who are thinking about reformative or transformative high school options from 2028 onwards.
 
 > **This site is predominantly AI-generated, in the interests of getting something useful up and running quickly. Everything has been human-checked and verified, so there is no hallucination. The machine-generated language is not what we want at all, so we are working through each page to humanise it as quickly as possible. Please bear with us.** 
 

@@ -153,7 +153,7 @@ Seven lessons from the Treverton research brief, applied to the programme design
 
 ### Applying the Bonnievale lessons
 
-Jakes Gerwel Technical School in Bonnievale (opened 2016) is a no-fee public Collaboration School with academic and School of Skills streams on one campus and a community trust holding half the governing body seats (IC). Six lessons carry over (full detail on the [[learning-campus#Lessons from Bonnievale|Learning Campus]] page):
+Jakes Gerwel Technical School in Bonnievale runs academic and School of Skills streams on one campus, and community leaders began planning it in 2016 (IC). It is a no-fee public Collaboration School whose non-profit operating partner holds half the governing body seats (single source, TBV). Its opening year is TBV. Six lessons carry over (full detail on the [[learning-campus#Lessons from Bonnievale|Learning Campus]] page):
 
 1. **One campus for both paths.** Addressed above: the school of skills shares facilities with the boarding school, and mixing is designed in.
 2. **A formal community stake in governance.** Addressed in Part 3: the campus trust holds the land and governs the campus, and no tenant holds a controlling vote.
@@ -348,7 +348,9 @@ The campus model rests on seven structural conditions. If any is absent, the mod
 | Demand for high-end boarding in the valley | TBV | Requires feasibility study |
 | Operator willingness on the trust's terms | TBV | Requires operator approaches (Action 0.16) |
 | WCED willingness to establish a school of skills | TBV | Requires direct approach (Action 0.17) |
-| Jakes Gerwel Technical School: 2016 founding, Collaboration School, trust holds 50% of SGB seats | IC | IPASA case study; SA3; George Herald |
+| Jakes Gerwel Technical School: planning began in 2016; academic and School of Skills streams on one campus | IC | IPASA case study; SA3 |
+| Jakes Gerwel Technical School: opening year | TBV | Not stated in the IPASA case study or SA3 |
+| Jakes Gerwel Technical School: no-fee Collaboration School; non-profit operating partner holds 50% of SGB seats | TBV | IPASA case study only |
 | Bonnievale capital figures (R54m WCED, ~R100m community) and ~700 learners | TBV | IPASA case study only |
 | SCA upheld Collaboration and Donor-funded School models (7 September 2026) | TBV | George Herald report; judgment not yet reviewed |
 | University partnerships for BLC tertiary programmes | TBV | Requires direct approach |

@@ -231,6 +231,7 @@ plugins:
     options:
       links:
         Valley of Grace: https://valleyofgrace.co.za/
+        Ward 2 Dev Forum: https://df.valleyofgrace.co.za/concepts/valley-of-grace-learning-campus
     layout:
       position: footer
       priority: 50

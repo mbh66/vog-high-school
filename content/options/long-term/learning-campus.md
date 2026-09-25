@@ -60,7 +60,7 @@ The parts share one site and one governing trust. Each registers separately with
 
 A trust or non-profit company representing the whole ward holds the land and buildings and governs the campus. Its board includes Genadendal and Greyton representatives, and a Transformasie Komitee nominee if community land is involved. The boarding school operator is a tenant. It may hold a seat on the board, but never a controlling vote (MS).
 
-This follows two things. At Bonnievale, a community trust holds half the seats on the school's governing body, and that stake is what gives the community ownership (see *Lessons from Bonnievale*). And under the design rules below, the boarding school's economic weight must not become governing power over the campus.
+This follows two things. At Bonnievale, the school's non-profit operating partner holds half the seats on the governing body, and that stake is what gives the community ownership (see *Lessons from Bonnievale*). And under the design rules below, the boarding school's economic weight must not become governing power over the campus.
 
 ### The English-medium boarding school (anchor tenant)
 
@@ -150,14 +150,14 @@ The Ward 2 Development Forum sorts the valley's life into three spheres, each wi
 
 ## Lessons from Bonnievale
 
-Jakes Gerwel Technical School in Bonnievale opened in 2016 after community leaders found that most Grade 7 learners in the town had to leave for high school (IC). It is a no-fee public school under the Western Cape's Collaboration Schools model, with a community trust holding half the governing body seats (IC). According to the IPASA case study (2023), the WCED put R54 million into construction, the community raised about R100 million in cash and kind over three and a half years, and nearly 700 learners are enrolled. The case study describes it as the only school in the country offering mainstream academic subjects and the School of Skills curriculum on one campus. The trust raises about R1.8 million a year to cover the school's budget gap. Bonnievale 418, a non-profit set up in 2021, extends the work into early childhood development, foster care, housing, and youth employment, with a target of zero youth unemployment by 2030. These figures are single-source (TBV). The ASLA Foundation supports technical training at the school and has renovated two residences, Kruispad Huise, as safe homes for vulnerable learners.
+Community leaders in Bonnievale began planning Jakes Gerwel Technical School in 2016, because the town had too few high school places and many learners left school or the town after Grade 7 (IC). The year the school opened has not been confirmed (TBV). It is a no-fee public school under the Western Cape's Collaboration Schools model, and its non-profit operating partner holds half the seats on the governing body (single source, TBV). According to the IPASA case study (2023), the WCED put R54 million into construction, the community raised about R100 million in cash and kind over three and a half years, and nearly 700 learners are enrolled. The case study describes it as the only school in the country offering mainstream academic subjects and the School of Skills curriculum on one campus. The trust raises about R1.8 million a year to cover the school's budget gap. Bonnievale 418, a non-profit set up in 2021, extends the work into early childhood development, foster care, housing, and youth employment, with a target of zero youth unemployment by 2030. These figures are single-source (TBV). The ASLA Foundation supports technical training at the school and has renovated two residences, Kruispad Huise, as safe homes for vulnerable learners.
 
 Two valley residents have been developing the school of skills and vocational training concept with early support from the team that set up the Jakes Gerwel school. They will be named here once they agree (MS).
 
 Six lessons carry over to the Learning Campus:
 
 1. **One campus for both paths.** Put the practical path on the same campus as academic learning, sharing facilities, so neither is seen as the lesser option.
-2. **A formal community stake in governance.** Bonnievale's trust holds half the governing body seats. Here, the campus trust holds the land and governs the campus.
+2. **A formal community stake in governance.** Bonnievale's non-profit operating partner holds half the governing body seats. Here, the campus trust holds the land and governs the campus.
 3. **A partnership with the state for the public parts.** The Collaboration Schools model lets the WCED pay teachers while a non-profit partner raises the rest.
 4. **Community-wide fundraising.** Bonnievale's campaign drew small gifts from across the town. The breadth of giving built ownership as much as the money did.
 5. **A wraparound body with one measurable target.** Bonnievale 418 aims for zero youth unemployment by 2030. The Learning Campus equivalent: every school leaver in Ward 2 in work, study, or training within a year of leaving school, by 2038.
