@@ -129,7 +129,7 @@ Social life must be actively constructed:
 - GoE BioQuest cycles (April and October)
 - Arts and music activities in the valley
 - Play dates and peer groups organised by parents
-- A microschool arrangement (see [[Option Profile: Microschool]]) that adds a physical peer component
+- A microschool arrangement (see [[options/immediate/microschool|Option Profile: Microschool]]) that adds a physical peer component
 
 For a self-motivated, socially resilient child with an active family and a rich out-of-school life, this can work well. For a child who needs the social scaffold of a school, the absence is keenly felt.
 

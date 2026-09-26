@@ -38,7 +38,7 @@ This is the nearest public school that offers English-medium high school instruc
 
 Greyton to Caledon is approximately 35 km via the R406. Driving time is 35 to 40 minutes in good conditions. The road crosses the Houw Hoek area, which can be affected by winter weather.
 
-**Day attendance transport options and costs (detailed in [[Variable 2: Daily Logistics]]):**
+**Day attendance transport options and costs (detailed in [[variables/02-daily-logistics|Variable 2: Daily Logistics]]):**
 
 - Own car, solo driver: ~R44,000/year in fuel, plus ~300 hours of driving time.
 - Lift club (4 families): ~R11,000 to R15,000/year per family. Each parent drives one or two days per week.

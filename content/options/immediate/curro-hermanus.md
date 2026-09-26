@@ -38,7 +38,7 @@ Greyton to Sandbaai, Hermanus is approximately 80 km via the N2 and R43. Driving
 
 This changes the logistics for a Greyton family. The commute splits into two legs: Greyton to Caledon (35 km, ~35 minutes by car) and Caledon to Sandbaai (by school bus). The first leg is identical to the Overberg High commute and can be handled the same way: own car, lift club, or scholar transport.
 
-**Transport options and costs (Greyton to Caledon leg, detailed in [[Variable 2: Daily Logistics]]):**
+**Transport options and costs (Greyton to Caledon leg, detailed in [[variables/02-daily-logistics|Variable 2: Daily Logistics]]):**
 
 - Own car, solo driver: ~R44,000/year in fuel, plus ~300 hours of driving time.
 - Lift club (4 families): ~R11,000 to R15,000/year per family.

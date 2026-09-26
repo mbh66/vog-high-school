@@ -89,7 +89,7 @@ The risk is the opposite of a school's risk: with full parental control comes th
 
 ### 7. Subject availability
 
-Constrained by the online provider's subject list (see [[Option Profile: Online Schooling]]) plus whatever the facilitator can teach. If the facilitator is qualified in Physical Sciences, the group gains supervised practicals. If not, practical subjects remain limited to the online provider's arrangements.
+Constrained by the online provider's subject list (see [[options/immediate/online-schooling|Option Profile: Online Schooling]]) plus whatever the facilitator can teach. If the facilitator is qualified in Physical Sciences, the group gains supervised practicals. If not, practical subjects remain limited to the online provider's arrangements.
 
 A group that deliberately recruits a facilitator with science qualifications expands its subject range. A group that hires a generalist has a narrower academic offering but may gain in pastoral care and general support.
 
