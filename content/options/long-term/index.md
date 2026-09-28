@@ -17,6 +17,8 @@ The thinking behind these proposals is informed by two precedents. The first is 
 
 **[[learning-campus|Valley of Grace Learning Campus]]** (proposed): An integrated campus with four parts on shared ground: an English-medium boarding school as anchor tenant, whose rent and levy fund much of the development; a public school of skills; a vocational training centre focused on tourism and conservation; and a Bioregional Learning Centre for post-school study and research. A community trust representing the whole ward holds the land and governs the campus. Emil Weder remains the valley's Afrikaans public high school and is invited to use the campus as a partner. Draws on the Treverton precedent and on Jakes Gerwel Technical School in Bonnievale. The vocational training centre and adult education could begin in 2027 to 2028; high school enrolment earliest 2030. All claims MS or TBV. See also [[learning-campus-actions|Actions Required]].
 
+**[[options/long-term/learning-campus-pathways|Learning Campus: Post-School Pathways]]**: Where a valley school leaver can go today, and the study, training and bioregional work the campus could open in the best case. All campus claims MS or TBV.
+
 ## How to read these profiles
 
 Every profile in all three categories follows the same [[tools/template|template]], structured around the ten decision variables. The summary table at the top gives a quick read. The variable-by-variable assessment gives the detail. The "Best fit" section states who the option suits. The "Key unknowns" section lists what still needs verifying.

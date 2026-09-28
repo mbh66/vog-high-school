@@ -227,4 +227,4 @@ See [[references|References]] for the full list.
 
 ---
 
-*This page is part of the [[options/long-term/index|Valley of Grace High School Decision Tool]]. See also: [[learning-campus-actions|Actions Required]], [[context|Treverton research brief]], [[options/immediate/index|Immediate Options]], [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[variables/09-social-and-community|Variable 9: Social and Community Considerations]].*
+*This page is part of the [[options/long-term/index|Valley of Grace High School Decision Tool]]. See also: [[learning-campus-actions|Actions Required]], [[options/long-term/learning-campus-pathways|Post-School Pathways]], [[context|Treverton research brief]], [[options/immediate/index|Immediate Options]], [[variables/08-post-school-pathway|Variable 8: Post-School Pathway]], [[variables/09-social-and-community|Variable 9: Social and Community Considerations]].*
