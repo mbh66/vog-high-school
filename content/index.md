@@ -1,6 +1,8 @@
 ---
 title: Valley of Grace High School Decision Tool 2028
+description: "A planning resource for Valley of Grace families choosing a high school from 2028. It maps ten decision variables and profiles each school or schooling model open to them. It does not recommend a school."
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - index
   - decision-tool
@@ -14,7 +16,7 @@ Welcome to a planning resource for families living in, or considering a move to,
 
 ## The problem
 
-There is one high school in the valley: Emil Weder Secondary in Genadendal, which is Afrikaans-medium. For English-speaking families, this creates a gap. The nearest English-medium public high school is Overberg High School in Caledon, 35 km away. Online schooling, independent schools, and boarding are all possibilities, but each carries trade-offs in cost, logistics, and social consequence.
+There is one high school in the valley: Emil Weder Secondary in Genadendal, which is Afrikaans-medium. For English-speaking families, this creates a gap. The nearest public high school with English-medium classes is Overberg High School (Hoërskool Overberg), a dual-medium school in Caledon, 35 km away. Online schooling, independent schools, and boarding are all possibilities, but each carries trade-offs in cost, logistics, and social consequence.
 
 The deeper problem is structural. There are too few high-school-age children in the valley to justify a conventional new school. Every solution requires families to make trade-offs, and the best solutions require families to coordinate.
 

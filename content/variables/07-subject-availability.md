@@ -1,7 +1,9 @@
 ---
 title: "Variable 07: Subject Availability"
-status: draft-v0.1
+description: "Which Grade 10 to 12 subjects each option offers, why small schools have short subject lists, and which subject choices keep university programmes open."
+status: draft-v0.2
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - variable
   - decision-tool
@@ -29,7 +31,7 @@ The Ward 2 Schools Program proposal identifies History, Geography, Life Sciences
 
 ### Overberg High School / Hoërskool Overberg (Caledon)
 
-Both Caledon schools are larger than Emil Weder (Overberg High has ~492 learners; Hoërskool Overberg is larger again). A school of this size typically offers 10 to 15 FET electives. Hoërskool Overberg's website references "Vakkeuses" (subject choices), but the specific list has not been confirmed. **TBV** directly.
+Overberg High School (Hoërskool Overberg) is one dual-medium school with about 492 learners [IC: School Register SA, 2023]. A school of this size typically offers 10 to 15 FET electives. Its Afrikaans website references "Vakkeuses" (subject choices), but the specific list has not been confirmed. Nor has whether every elective runs in the English stream. **TBV** directly.
 
 For parents whose children need Physical Sciences, Information Technology, or other subjects that require specialist teachers and facilities, a Caledon school is more likely to offer them than a small valley school.
 
@@ -90,7 +92,7 @@ Parents whose children have specific post-school ambitions (see [[08-post-school
 ## Gaps
 
 - Emil Weder's FET subject list. **TBV** directly.
-- Overberg High School and Hoërskool Overberg FET subject lists. **TBV** directly.
+- Overberg High School FET subject list, including which electives run in the English stream. **TBV** directly.
 - Silverwood's intended FET subject offering. **TBV** with founders.
 - Specific subject lists for each online provider (available on their websites but not compiled here). Parents should download the relevant prospectus.
 - Nearest SACAI examination centre for practical subject assessments. **TBV**.

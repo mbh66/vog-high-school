@@ -1,6 +1,8 @@
 ---
 title: Decision Variables
+description: "The ten decisions families work through when choosing a high school, in the order most families meet them, with guidance on where to start."
 date: 2026-09-15
+updated: 2026-09-29
 tags:
   - index
   - decision-tool
@@ -17,7 +19,7 @@ Each page explains the variable, sets out the options within it, presents the ev
 
 Most families start here. These three variables eliminate options before anything else comes into play.
 
-**[[01-language-of-instruction|Variable 1: Language of Instruction]]** — English, Afrikaans, or dual-medium. Emil Weder and Hoërskool Overberg are Afrikaans. Overberg High School, most online providers, and Silverwood (if constituted) are English. The language decision is effectively a five-year commitment.
+**[[01-language-of-instruction|Variable 1: Language of Instruction]]** — English, Afrikaans, or dual-medium. Emil Weder is Afrikaans. Overberg High School in Caledon (Hoërskool Overberg in Afrikaans) is dual-medium. Most online providers and Silverwood (if constituted) are English. The language decision is effectively a five-year commitment.
 
 **[[02-daily-logistics|Variable 2: Daily Logistics]]** — How the child gets to school. Walking distance (Emil Weder, Silverwood), daily transport to Caledon (35 km, lift club or solo), weekly boarding, full boarding, or staying home for online learning. Every option outside the valley carries a transport cost in money, time, or family separation.
 

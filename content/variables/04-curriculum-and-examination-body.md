@@ -1,7 +1,9 @@
 ---
 title: "Variable 04: Curriculum and Examination Body"
-status: draft-v0.1
+description: "CAPS, Cambridge or Waldorf with a CAPS matric, and whether the NSC is examined by the DBE, IEB or SACAI. What each choice means for your child's qualification."
+status: draft-v0.2
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - variable
   - decision-tool
@@ -43,7 +45,7 @@ Three bodies administer the NSC in South Africa. All three are accredited by Uma
 
 ### DBE (Department of Basic Education)
 
-Sets and administers the NSC for all public schools and some independent schools. This is the default. If your child attends Emil Weder, Overberg High School, or Hoërskool Overberg, they write the DBE papers.
+Sets and administers the NSC for all public schools and some independent schools. This is the default. If your child attends Emil Weder or Overberg High School (Hoërskool Overberg), they write the DBE papers.
 
 ### IEB (Independent Examinations Board)
 

@@ -1,7 +1,9 @@
 ---
 title: "Variable 05: Cost"
-status: draft-v0.1
+description: "The full annual cost of each option, including transport, devices and lost parent time, and what it adds up to over five years."
+status: draft-v0.2
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - variable
   - decision-tool
@@ -57,8 +59,8 @@ Overberg High School is Quintile 5 (fee-paying). The fee amount is set by the SG
 
 The transport cost dominates. A lift club cuts the total roughly in half. A functioning lift club is the difference between this option being affordable and being prohibitive for middle-income families.
 
-**If weekly boarding at Hoërskool Overberg is available:**
-Boarding fees at government school hostels in rural Western Cape towns typically run R20,000 to R40,000 per year. Add school fees and incidentals, and the total sits in the R30,000 to R70,000 range. This may be comparable to, or cheaper than, daily transport by car. Whether Overberg High School (as opposed to Hoërskool Overberg) offers boarding is **TBV**.
+**If weekly boarding is available:**
+Boarding fees at government school hostels in rural Western Cape towns typically run R20,000 to R40,000 per year. Add school fees and incidentals, and the total sits in the R30,000 to R70,000 range. This may be comparable to, or cheaper than, daily transport by car. Overberg High School has hostels [MS]. Whether English-stream learners can board, and at what fee, is **TBV**.
 
 ### Online school
 
@@ -148,8 +150,8 @@ These are rough ranges. Every family's actual number will differ. The point is t
 
 ## Gaps
 
-- Actual school fees at Overberg High School and Hoërskool Overberg. **TBV** directly.
-- Actual boarding fees at Hoërskool Overberg. **TBV** directly.
+- Actual school fees at Overberg High School (Hoërskool Overberg). **TBV** directly.
+- Actual boarding fees at Overberg High School. **TBV** directly.
 - Emil Weder's quintile classification and fee status. **TBV** with WCED or the school.
 - Silverwood's intended fee structure. **TBV** with founders.
 - Whether any online provider offers fee reductions or bursaries for rural learners or learners in specific income brackets.

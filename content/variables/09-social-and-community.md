@@ -1,7 +1,9 @@
 ---
 title: "Variable 09: Social and Community Considerations"
-status: draft-v0.1
+description: "Peer groups, diversity and connection to the valley under each option, and why twenty families coordinating can open options that families deciding alone cannot."
+status: draft-v0.2
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - variable
   - decision-tool
@@ -32,7 +34,7 @@ Each schooling option produces a different social composition:
 - **Emil Weder** draws primarily from the Genadendal community. A Greyton child attending Emil Weder would experience a level of racial, linguistic, and economic diversity that no other option on this list provides. For some families, this is precisely the experience they want for their child. For others, the language barrier makes it impractical regardless of the social value.
 - **A Greyton-based independent school** would likely draw from English-speaking families with the means to pay fees. The social composition would be narrower. This is a structural feature of independent schools in South Africa, not a criticism of any particular school's intentions. The expensive schools research in the project documents traces this pattern across the country.
 - **Online schooling** has no local social composition at all. The child's peers are whoever else is on the platform, distributed nationally.
-- **Caledon schools** serve a wider catchment than the valley alone. The social mix depends on the school: Overberg High School's Quintile 5 status suggests a fee-paying, mixed-income intake; Hoërskool Overberg's composition would differ again.
+- **Overberg High School (Caledon)** serves a wider catchment than the valley alone. Its Quintile 5 status suggests a fee-paying, mixed-income intake. How the English and Afrikaans streams differ in composition is not known.
 
 Parents who value diversity as an educational experience should recognise that the most diverse option (Emil Weder) is also the one with the highest language barrier for English-speaking families. The tool does not resolve this tension. It names it.
 

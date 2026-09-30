@@ -1,7 +1,9 @@
 ---
 title: "Variable 03: School Type and Registration Status"
-status: draft-v0.1
+description: "The difference between public schools, registered independent schools, online providers and microschools: who registers them, who sets the fees, and what recourse parents have."
+status: draft-v0.2
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - variable
   - decision-tool
@@ -31,7 +33,7 @@ For valley parents, this variable matters because several of the available optio
 
 **Accountability.** The WCED oversees the school through circuit managers. The SGB is accountable to the parent body. The school must comply with the South African Schools Act, the Employment of Educators Act, and provincial regulations. Parents have recourse to the WCED, the MEC for Education, and ultimately the courts if governance fails.
 
-**Local examples.** Emil Weder Secondary (Genadendal). Overberg High School and Hoërskool Overberg (Caledon).
+**Local examples.** Emil Weder Secondary (Genadendal). Overberg High School, also known as Hoërskool Overberg (Caledon).
 
 ### Registered independent school
 

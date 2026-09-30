@@ -1,7 +1,9 @@
 ---
 title: "Variable 02: Daily Logistics"
-status: draft-v0.1
+description: "How your child gets to school each day: walking distance, daily transport to Caledon, weekly or full boarding, or studying at home, with the cost of each in money, time and family capacity."
+status: draft-v0.2
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - variable
   - decision-tool
@@ -27,7 +29,7 @@ This variable asks: how does your child physically get to school each day, and w
 
 ### Daily transport to Caledon (~35 km each way)
 
-Two public high schools operate in Caledon: Hoërskool Overberg (Afrikaans-medium) and Overberg High School (English-medium, ~492 learners). The drive from Greyton is roughly 35 to 40 minutes via the R406.
+The Caledon public high school on this site is Overberg High School (Hoërskool Overberg in Afrikaans): one dual-medium school with English and Afrikaans streams [MS] and about 492 learners [IC: School Register SA, 2023]. The drive from Greyton is roughly 35 to 40 minutes via the R406.
 
 **What this costs:**
 
@@ -43,9 +45,9 @@ Two public high schools operate in Caledon: Hoërskool Overberg (Afrikaans-mediu
 
 ### Weekly boarding
 
-Some schools in the broader region offer weekly boarding: the child stays at the school hostel from Monday to Friday and comes home on weekends. Hoërskool Overberg has hostels (referenced on the school's website). Whether Overberg High School offers boarding is **TBV**.
+Some schools in the broader region offer weekly boarding: the child stays at the school hostel from Monday to Friday and comes home on weekends. Overberg High School has hostels, listed as "Koshuise" on its Afrikaans website [MS]. Whether English-stream learners can board, and how many hostel places are open for 2028, is **TBV**.
 
-**What this costs:** Boarding fees vary widely. A government school hostel in a rural town typically charges between R20,000 and R40,000 per year. This is a rough range; the actual figure for Hoërskool Overberg or Overberg High School needs to be confirmed directly with the schools.
+**What this costs:** Boarding fees vary widely. A government school hostel in a rural town typically charges between R20,000 and R40,000 per year. This is a rough range; the actual figure for Overberg High School needs to be confirmed directly with the school.
 
 **What this requires:** The child lives away from home during the week. For a 13-year-old entering Grade 8, this is a significant transition. Some children thrive in a boarding environment. Others do not. The parent's assessment of their own child's readiness matters more than any general rule.
 
@@ -87,7 +89,8 @@ Most parents will combine this variable with cost ([[05-cost|Variable 5: Cost]])
 |---|---|
 | Emil Weder is ~7 km from Greyton | IC (mapping) |
 | Greyton to Caledon is ~35 km | IC (mapping) |
-| Hoërskool Overberg has hostels | MS (school website reference to "Koshuise") |
+| Overberg High School and Hoërskool Overberg are one school | MS (confirmed to the site maintainer, September 2026) |
+| Overberg High School has hostels | MS (school website reference to "Koshuise") |
 | Overberg High School has ~492 learners, principal Ja Jacobs | IC (School Register SA, 2023 data) |
 | Online school fees range R500 to R3,000+/month | IC (provider websites, 2026) |
 | Fuel cost estimate ~R220/day for 70 km round trip | Structural inference from current fuel prices; will vary by vehicle |
@@ -95,9 +98,9 @@ Most parents will combine this variable with cost ([[05-cost|Variable 5: Cost]])
 
 ## Gaps
 
-- Whether a Greyton-to-Caledon scholar transport service currently operates. **TBV** with local operators or the Caledon schools.
-- Actual boarding fees at Hoërskool Overberg. **TBV** directly.
-- Whether Overberg High School offers boarding or only day attendance. **TBV**.
+- Whether a Greyton-to-Caledon scholar transport service currently operates. **TBV** with local operators or Overberg High School.
+- Actual boarding fees at Overberg High School. **TBV** directly.
+- Whether English-stream learners can board, and how many hostel places are open for 2028. **TBV**.
 - The number of Greyton families currently transporting children to Caledon for high school. This figure would establish the baseline for collective transport solutions.
 - Road condition and safety record for the R406 Greyton-Caledon route in winter.
 

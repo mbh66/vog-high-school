@@ -1,6 +1,8 @@
 ---
 title: Hoërskool Overberg
+description: "Hoërskool Overberg is the Afrikaans name of Overberg High School, the dual-medium public high school in Caledon."
 date: 2026-09-19
+updated: 2026-09-29
 tags:
   - glossary
   - decision-tool
@@ -8,7 +10,7 @@ tags:
 ---
 
 
-Afrikaans-medium public high school in Caledon, with hostel accommodation ("Koshuise"). Distinct from [[overberg-high-school|Overberg High School]], which is English-medium and also based in Caledon. The two are separate institutions sharing a town, and the distinction matters when parents refer casually to "the school in Caledon."
+The Afrikaans name of [[overberg-high-school|Overberg High School]], the dual-medium public high school in Caledon, with English and Afrikaans streams and hostel accommodation ("Koshuise") [MS]. The two names refer to one school [MS].
 
 ## See also
 

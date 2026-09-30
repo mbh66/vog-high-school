@@ -1,28 +1,32 @@
 ---
 title: Overberg High / Hoërskool Overberg, Caledon
-status: draft-v0.1
+description: "Overberg High School (Hoërskool Overberg) in Caledon: one dual-medium public school with English and Afrikaans streams and hostels, 35 km from Greyton, assessed against the ten variables."
+status: draft-v0.2
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - option
+  - immediate
   - decision-tool
   - high-school
 ---
 
+## Overberg High School / Hoërskool Overberg
 
-Dual-medium public high school (English and Afrikaans streams) with boarding facilities. Quintile 5 (fee-paying). Approximately 500 learners. 35 km from Greyton.
+A dual-medium public high school in Caledon, 35 km from Greyton, with English and Afrikaans streams and hostels [MS]. It is the nearest public high school where a child can be taught in English [MS]. Overberg High School and Hoërskool Overberg are the English and Afrikaans names of this one school [MS]; earlier versions of this site treated them as two schools.
 
 ## Summary assessment
 
 | Variable | Assessment |
 |---|---|
-| 1. Language | Dual-medium: parallel English and Afrikaans streams. Meets both language communities. |
-| 2. Logistics | 35 km from Greyton. Daily transport or boarding. Boarding eliminates the commute. |
-| 3. School type | Public school, WCED-registered. Full regulatory standing. |
-| 4. Curriculum | CAPS, DBE examination. Standard NSC. |
-| 5. Cost | Moderate fees (Quintile 5). Day attendance: R19,000 to R86,000/year depending on transport. Boarding: R30,000 to R70,000/year. |
-| 6. Pedagogy | Standard academic instruction. |
-| 7. Subjects | Wider range than Emil Weder (larger school). TBV for specifics. |
-| 8. Post-school | Standard NSC. Full university and TVET eligibility. Boland TVET campus in same town. |
+| 1. Language | Dual-medium, with parallel English and Afrikaans streams [MS]. Serves both language communities in the valley. |
+| 2. Logistics | 35 km from Greyton. Daily transport or weekly boarding. |
+| 3. School type | Public school, WCED-registered, governed by an elected SGB [IC]. |
+| 4. Curriculum | CAPS, DBE examination. Standard NSC [IC]. |
+| 5. Cost | Quintile 5, fee-paying [IC]. Day attendance R19,000 to R86,000 a year depending on transport; boarding R30,000 to R70,000 a year [TBV: estimates]. Transport dominates for day learners. |
+| 6. Pedagogy | Standard academic instruction [TBV]. |
+| 7. Subjects | About 492 learners, so likely 10 to 15 FET electives. The list, and which subjects run in English, is TBV. |
+| 8. Post-school | Standard NSC. Full university and TVET eligibility. Boland TVET College has a campus in Caledon [IC]. |
 | 9. Social | Caledon peer group. Day learners commute; boarders join the hostel community. |
 | 10. Silverwood | Not applicable. |
 
@@ -30,86 +34,86 @@ Dual-medium public high school (English and Afrikaans streams) with boarding fac
 
 ### 1. Language of instruction
 
-Dual-medium, with parallel Afrikaans and English streams. This makes the school relevant to both language communities in the valley. English-speaking Greyton families have access to English-medium instruction; Afrikaans-speaking families from Genadendal, the Farm 39 communities, and Heuwelkroon have a natural linguistic fit.
+The school runs parallel English and Afrikaans streams [MS]. An English-speaking Greyton family can have its child taught in English. Afrikaans-speaking families from Genadendal, Farm 39 and Heuwelkroon have a stream in their home language.
 
-This is the nearest public school that offers English-medium high school instruction.
+It is the nearest public school offering English-medium high school instruction [MS].
+
+The school's governing body sets its language policy [IC: South African Schools Act, section 6]. How places in each stream are allocated, and whether the English stream runs in every grade and every subject, is **TBV** with the school. The school's website is in Afrikaans only [MS], so English-speaking families should ask the school directly for information in English.
 
 ### 2. Daily logistics
 
-Greyton to Caledon is approximately 35 km via the R406. Driving time is 35 to 40 minutes in good conditions. The road crosses the Houw Hoek area, which can be affected by winter weather.
+Greyton to Caledon is approximately 35 km via the R406 [IC: mapping]. Driving time is 35 to 40 minutes in good conditions [IC: mapping].
 
 **Day attendance transport options and costs (detailed in [[variables/02-daily-logistics|Variable 2: Daily Logistics]]):**
 
-- Own car, solo driver: ~R44,000/year in fuel, plus ~300 hours of driving time.
-- Lift club (4 families): ~R11,000 to R15,000/year per family. Each parent drives one or two days per week.
-- Scholar transport service: ~R15,000 to R30,000/year per child (no operator confirmed for this route; TBV).
+- Own car, solo driver: about R44,000 a year in fuel, plus about 300 hours of driving time [TBV: estimate from fuel price and consumption].
+- Lift club (4 families): about R10,000 to R15,000 a year per family, with each parent driving one or two days a week [TBV: estimate].
+- Scholar transport service: about R15,000 to R30,000 a year per child [TBV: no operator confirmed for this route].
 
-A lift club is the viable middle ground. Without one, the transport cost approaches or exceeds the school fees.
+A lift club is the workable middle ground. Without one, the transport cost approaches or exceeds the school fees.
 
-**Boarding:** The school has hostels ("Koshuise") for boys and girls. Weekly boarding eliminates the daily commute. The child stays at the hostel Monday to Friday and comes home on weekends. This removes the lift club dependency and the daily road risk, at the cost of family separation during the week.
+**Boarding:** The school has hostels ("Koshuise") for boys and girls [MS: school website]. With weekly boarding the child stays at the hostel from Monday to Friday and comes home at weekends. This removes the daily commute and the dependence on a lift club, at the cost of family separation during the week. Whether English-stream learners can board, and how many hostel places are open for 2028, is **TBV** with the school.
 
 ### 3. School type and registration
 
-Public school, WCED-registered. SGB-governed. Same institutional framework as Emil Weder: full SASA protections, WCED oversight, parent governance rights.
+Public school, registered with the WCED and governed by an elected school governing body (SGB) [IC]. The institutional framework is the same as at Emil Weder: the protections of the South African Schools Act, WCED oversight, and parent governance rights through the SGB [IC].
 
-Quintile 5 classification means the school charges fees, but these are set by the SGB and approved by the parent body. Fee exemptions are available for qualifying families.
+Quintile 5 classification [IC: School Register SA] means the school charges fees. The SGB sets them, and the parent body approves them at the annual budget meeting [IC: South African Schools Act]. Families who cannot afford the fees can apply for exemption [IC: South African Schools Act].
 
 ### 4. Curriculum and examination body
 
-CAPS curriculum, DBE examination. Standard NSC. No ambiguity.
-
-A school of ~492 learners has the scale to deliver CAPS effectively across a reasonable subject range, with enough learners per class to sustain specialist teaching.
+CAPS curriculum, examined by the DBE [IC]. Learners write the standard National Senior Certificate.
 
 ### 5. Cost
 
-**Day attendance (estimated annual cost for a Greyton family):**
+**Estimated annual cost for a Greyton family, day attendance:**
 
 | Component | Low estimate | High estimate |
 |---|---|---|
 | School fees (Quintile 5 public) | R5,000 | R25,000 |
 | Transport (lift club, 4 families) | R10,000 | R15,000 |
+| Devices / data | TBV | TBV |
 | Uniforms, stationery | R3,000 | R6,000 |
-| Sport/extracurricular levies | R1,000 | R5,000 |
+| Sport / extracurricular | R1,000 | R5,000 |
+| Examination fees | R0 | R0 |
 | **Total (lift club)** | **R19,000** | **R51,000** |
 | **Total (own car, solo)** | **R49,000** | **R86,000** |
 
-**Boarding (estimated annual cost):**
+Every figure in this table is an estimate [TBV]. School fees use the typical range for Quintile 5 public schools in the Western Cape; the school's own fee for 2027 and 2028 has not been sighted. The totals exclude devices and data, because the school's device requirements are not known. No examination fee is expected for a learner writing the NSC at a public school [TBV].
 
-School fees plus boarding fees. Government school hostels in rural Western Cape towns typically charge R20,000 to R40,000/year for boarding. Add school fees and incidentals:
+**Boarding:** Government school hostels in rural Western Cape towns typically charge R20,000 to R40,000 a year [TBV]. With school fees and incidentals, the estimated annual boarding total is R30,000 to R70,000 [TBV].
 
-**Estimated annual boarding total:** R30,000 to R70,000.
+**Five-year cost:** R95,000 to R255,000 (day, lift club); R150,000 to R350,000 (boarding); R245,000 to R430,000 (day, solo driver) [TBV: estimates].
 
-**Five-year cost:** R95,000 to R255,000 (day, lift club); R150,000 to R350,000 (boarding); R245,000 to R430,000 (day, solo driver).
-
-The school fees themselves are the smaller part of the budget for day learners. Transport is the controlling variable. The difference between solo driving and a functioning lift club is roughly R30,000 to R40,000 per year. Boarding falls between the two and carries a more predictable cost.
+For day learners the school fees are the smaller part of the budget. Transport is the controlling variable: the difference between solo driving and a functioning lift club is roughly R30,000 to R40,000 a year. Boarding falls between the two and carries a more predictable cost.
 
 ### 6. Pedagogy and values
 
-Standard academic instruction in a mid-size public high school. No distinctive pedagogical approach has been identified. Teaching quality, school culture, and leadership are the determining factors, and these require a school visit or conversations with current parents to assess.
+Standard academic instruction in a mid-size public high school. No distinctive teaching approach has been identified [TBV]. Teaching quality, school culture and leadership decide the experience, and a visit and conversations with current parents are the way to assess them.
 
-As a larger school than Emil Weder, it likely has more specialist teachers, better facilities, and a wider extracurricular programme. The school's Instagram shows active sport (rugby, netball, athletics) and cultural activities.
+The school's Instagram shows sport, including rugby, netball and athletics, and cultural activities [MS]. The full extracurricular programme and its cost are TBV.
 
-The school is not connected to the Ward 2 Schools Program or the BioHub. There is no place-based curriculum linking learning to the valley's ecology or heritage.
+The school is not part of the Ward 2 Schools Program or the BioHub [MS]. No place-based curriculum links its teaching to the valley's ecology or heritage [TBV].
 
 ### 7. Subject availability
 
-A school of ~492 learners should offer 10 to 15 FET electives. The specific subject list has not been confirmed. A school of this size is more likely than Emil Weder to offer Physical Sciences, Accounting, Business Studies, and other subjects requiring specialist teachers.
+A school of about 492 learners [IC: School Register SA, 2023] typically offers 10 to 15 FET electives [TBV]. The school's website refers to "Vakkeuses" (subject choices) without listing them [MS].
 
-Parents with specific subject requirements should confirm directly before enrolling.
+Before enrolling, families with specific subject needs should confirm two things with the school: that it offers the subjects, and that they run in the English stream. Physical Sciences, Mathematics and Accounting are the subjects that most often decide which university programmes stay open (see [[variables/07-subject-availability|Variable 7: Subject Availability]]).
 
 ### 8. Post-school pathway
 
-Standard NSC. Full eligibility for all post-school pathways. Boland TVET Caledon campus is in the same town, which is convenient if the child transitions to TVET after Grade 9 or Grade 12.
+Standard NSC, with full eligibility for university, TVET and employment [IC]. Boland TVET College has a campus in Caledon [IC: college website], which is convenient for a learner who moves to TVET after Grade 9 or Grade 12.
 
-The larger school size means more peers, more subject choices, and (likely) more structured career guidance and university application support than a small valley school.
+Whether the school offers structured career guidance and help with university applications is **TBV** with the school.
 
 ### 9. Social and community considerations
 
-**Day learners:** The child's peer group shifts to Caledon. Daily friendships, after-school activities, and weekend socialising increasingly centre on the school rather than the valley. For a child who already has friends in Caledon, this is fine. For a child whose entire social world is in Greyton, the adjustment is real. The child remains connected to the valley through home, weekends, and holidays, but the daily rhythm of their life moves to a different town.
+**Day learners:** The child's peer group shifts to Caledon. Daily friendships, after-school activities and weekend socialising increasingly centre on Caledon. For a child who already has friends there, this is fine. For a child whose whole social world is in Greyton, the adjustment is real. The child stays connected to the valley through home, weekends and holidays, while the daily rhythm of their life moves to another town.
 
-**Boarders:** A boarding child joins the hostel community. This can be a strong social experience: close friendships, shared routines, mentoring by older learners. It can also be difficult, depending on the child's maturity and the hostel culture. The child's primary peer group becomes the school, not the valley. Weekend connections to Greyton or Genadendal persist but are compressed.
+**Boarders:** A boarding child joins the hostel community. This can be a strong social experience, with close friendships and mentoring by older learners. It can also be hard, depending on the child's maturity and the hostel culture. The child's main peer group moves to the school. Weekend connections to Greyton or Genadendal continue in compressed form.
 
-The social composition of the school reflects Caledon's broader demographics. As a Quintile 5 dual-medium school in a rural town, the intake is likely mixed-income and racially diverse, though the specific composition has not been confirmed.
+As a Quintile 5 dual-medium school in a rural town, the school likely has a mixed-income and racially diverse intake [TBV]. How the English and Afrikaans streams differ in composition is not known.
 
 ### 10. Silverwood-specific
 
@@ -117,24 +121,17 @@ Not applicable.
 
 ## Best fit
 
-This school suits families where: the budget can sustain R20,000 to R70,000/year; the child's subject needs are met by a mid-size public school; and the family can organise transport or is open to boarding.
-
-**Day attendance** suits families who: can organise or join a lift club for the Greyton-Caledon route; have a child adaptable enough to build a social life in a new town.
-
-**Boarding** suits families where: the child is mature enough for weekly separation from home; the family values the structure and social environment of boarding; or the family wants to avoid the daily commute and its costs.
-
-It is a poor fit where: the family cannot sustain daily transport costs or time and does not want boarding; the child or family prioritises staying connected to the valley; the family wants a distinctive pedagogy (Waldorf, PBL, or place-based learning).
+Day attendance suits a family that can join or organise a lift club on the Greyton to Caledon route, with a child ready to build a social life in another town. Boarding suits a family whose child is ready for weekly separation from home, or a family that wants to avoid the daily commute and its cost. Either way, the family needs a budget of roughly R20,000 to R70,000 a year, and an English-speaking child needs the school to offer the right subjects in the English stream. The school is a poor fit for a family that can manage neither daily transport nor boarding, that wants the child's school life to stay in the valley, or that wants a Waldorf, project-based or place-based approach.
 
 ## Key unknowns
 
-- Actual school fees for 2027/2028. **TBV** directly with the school.
-- Actual boarding fees. **TBV** directly.
-- FET subject list. **TBV** directly.
-- Hostel capacity and availability for 2028 intake. **TBV**.
-- Recent matric pass rate and bachelor-pass rate. **TBV** via DBE annual results.
-- Hostel culture and pastoral care arrangements. Best assessed through a visit and conversations with current boarding parents.
-- Whether a Greyton-to-Caledon scholar transport service exists or could be established. **TBV** locally.
-- Current number of Greyton children already attending. **TBV** through the school or parent networks. If several families are already making this commute, a lift club may already exist informally.
+- Which FET electives run in the English stream, and whether the English stream runs in every grade. This decides whether the school meets an English-speaking child's subject needs. **TBV** with the school.
+- School fees for 2027 and 2028. **TBV** with the school.
+- Whether English-stream learners can board, the hostel fees, and hostel places for the 2028 intake. **TBV** with the school.
+- Whether a Greyton to Caledon scholar transport service exists or could be set up, and how many Greyton children already attend. An informal lift club may already exist. **TBV** locally through parent networks, and with the school.
+- Recent matric pass rate and bachelor-pass rate. **TBV** from the DBE's annual NSC school performance report.
+- Hostel culture and pastoral care. Best assessed on a visit and in conversations with current boarding parents.
+- Whether the school offers career guidance and university application support. **TBV** with the school.
 
 ---
 

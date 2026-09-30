@@ -1,7 +1,9 @@
 ---
 title: "Variable 06: Pedagogy and Values"
-status: draft-v0.1
+description: "How each option teaches and what it believes school is for: standard academic, Waldorf, project-based, online self-directed and faith-based approaches."
+status: draft-v0.2
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - variable
   - decision-tool
@@ -27,7 +29,7 @@ This is what most South African public and independent schools do. The teacher l
 
 **Limitations:** Can be passive for learners who need active or experiential engagement. Content-heavy with limited room for inquiry or creativity. The relationship between what is studied and the learner's own world is often weak.
 
-**Available at:** Emil Weder, Overberg High School, Hoërskool Overberg, most online providers.
+**Available at:** Emil Weder, Overberg High School (Hoërskool Overberg), most online providers.
 
 ### Waldorf/Steiner education
 

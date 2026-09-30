@@ -1,7 +1,9 @@
 ---
 title: "Variable 01: Language of Instruction"
-status: draft-v0.1
+description: "Whether your child is taught in English, Afrikaans or both. Which valley and nearby schools teach in each language, who sets a school's language policy, and why the choice at Grade 8 lasts five years."
+status: draft-v0.2
 date: 2026-09-14
+updated: 2026-09-29
 tags:
   - variable
   - decision-tool
@@ -21,9 +23,9 @@ The reverse is equally true. Afrikaans-speaking families in Genadendal who send 
 
 **English medium.** The child is taught all subjects in English. English is the home language or first additional language paper. This is what most Greyton parents mean when they say they want an English school.
 
-**Afrikaans medium.** All subjects taught in Afrikaans. Emil Weder Secondary in Genadendal operates on this basis. Hoërskool Overberg in Caledon is also Afrikaans-medium.
+**Afrikaans medium.** All subjects taught in Afrikaans. Emil Weder Secondary in Genadendal operates on this basis.
 
-**Dual medium.** Some schools run parallel English and Afrikaans classes within the same institution. Overberg High School in Caledon (a separate school from Hoërskool Overberg) is an English-medium public school in the same town. The distinction between these two Caledon schools matters: parents asking about "the school in Caledon" need to specify which one.
+**Dual medium.** Some schools run parallel English and Afrikaans classes within the same institution. Overberg High School in Caledon works this way, with an English stream and an Afrikaans stream [MS]. Its Afrikaans name is Hoërskool Overberg. The two names refer to one school [MS]; earlier versions of this page listed them as two.
 
 **Online providers.** Most accredited online schools offer English-medium instruction. Some (Impaq, Syllabis) also offer Afrikaans. The language question is simpler here because the child works from home and the platform delivers in the chosen language.
 
@@ -48,8 +50,9 @@ The reverse is equally true. Afrikaans-speaking families in Genadendal who send 
 | Claim | Status |
 |---|---|
 | Emil Weder is Afrikaans-medium | IC (project documents, WCED records) |
-| Hoërskool Overberg is Afrikaans-medium | IC (school website, Instagram presence in Afrikaans) |
-| Overberg High School is English-medium, 492 learners | IC (School Register SA, 2023 data) |
+| Overberg High School and Hoërskool Overberg are one school | MS (confirmed to the site maintainer, September 2026) |
+| Overberg High School teaches in English and Afrikaans | MS (School Register SA lists English; the school's website and Instagram are in Afrikaans) |
+| Overberg High School has about 492 learners | IC (School Register SA, 2023 data) |
 | SGB determines language policy (Mikro precedent) | IC (SCA judgment) |
 | 40-learner threshold in Language in Education Policy | IC (national policy, WCED circular) |
 | Silverwood constitution not yet confirmed | MS (Ward 2 Schools Program proposal, July 2026) |
@@ -59,8 +62,7 @@ The reverse is equally true. Afrikaans-speaking families in Genadendal who send 
 
 - Emil Weder's current SGB language policy document has not been sighted. The Afrikaans-medium status is assumed from general knowledge and project documents. **TBV** directly with the school.
 - Whether Emil Weder has ever received a formal request from 40+ learners for English instruction is unknown.
-- Hoërskool Overberg's language policy and whether it offers any English accommodation: **TBV**.
-- The distinction between Hoërskool Overberg and Overberg High School needs confirmation from parents. These appear to be two separate institutions in Caledon, one Afrikaans-medium and one English-medium. If correct, this changes the Caledon picture significantly.
+- Overberg High School's language policy: how places in the English and Afrikaans streams are allocated, and whether the English stream runs in every grade and subject. **TBV** directly with the school.
 
 ---
 
