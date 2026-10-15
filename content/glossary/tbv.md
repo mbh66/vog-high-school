@@ -8,7 +8,7 @@ tags:
 ---
 
 
-An evidence tag used throughout the [[index|Decision Tool]]. A claim marked **TBV** is plausible but has not been confirmed. Each TBV item names the verification step (a call to the school, a query to [[sacai|SACAI]], a check with the [[wced|WCED]]) so that parents can fill the gap and contribute what they learn.
+An evidence tag used throughout the [[school/glossary/index|Decision Tool]]. A claim marked **TBV** is plausible but has not been confirmed. Each TBV item names the verification step (a call to the school, a query to [[sacai|SACAI]], a check with the [[wced|WCED]]) so that parents can fill the gap and contribute what they learn.
 
 ## See also
 

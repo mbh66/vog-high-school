@@ -9,7 +9,7 @@ tags:
 ---
 
 
-A working glossary for the [[index|Valley of Grace High School Decision Tool]]. Every acronym, institution, and specialist term the tool uses is defined here in one place, with cross-links back into the variables, options, and research pages that put each term to work.
+A working glossary for the [[school/glossary/index|Valley of Grace High School Decision Tool]]. Every acronym, institution, and specialist term the tool uses is defined here in one place, with cross-links back into the variables, options, and research pages that put each term to work.
 
 The entries are grouped by function below. Follow any wikilink to read the full entry.
 
@@ -134,7 +134,7 @@ Evidence tags ([[ic|IC]], [[ms|MS]], [[tbv|TBV]]) are the first place to start i
 
 ## Environment and conservation
 
-- [[capenature|CapeNature]]
+- [[school/glossary/capenature|CapeNature]]
 - [[pamp|PAMP: Protected Area Management Plan]]
 - [[wessa|WESSA]]
 - [[eeasa|EEASA]]
@@ -167,4 +167,4 @@ If a term in the Decision Tool is missing from the glossary, or an existing entr
 
 ---
 
-*This page is part of the [[index|Valley of Grace High School Decision Tool]].*
+*This page is part of the [[school/glossary/index|Valley of Grace High School Decision Tool]].*

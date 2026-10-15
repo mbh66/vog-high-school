@@ -12,7 +12,7 @@ The bioregion covering [[greyton|Greyton]], [[genadendal|Genadendal]], [[bereavi
 
 ## See also
 
-- [[index|Valley of Grace High School Decision Tool]]
+- [[school/glossary/index|Valley of Grace High School Decision Tool]]
 - [[greyton|Greyton]]
 - [[genadendal|Genadendal]]
 - [[ward-2|Ward 2]]

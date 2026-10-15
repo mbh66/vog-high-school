@@ -8,7 +8,7 @@ tags:
 ---
 
 
-An evidence tag used throughout the [[index|Decision Tool]]. A claim marked **MS** comes from project documents authored by Michael Haupt or prepared under his coordination, including the [[ward-2-schools-program|Ward 2 Schools Program]] proposal, the Overberg [[biohub|BioHub]] Founding Brief, and the VoG TGF Project Outline. MS statements accurately describe intention. They are not independent verification of outcomes.
+An evidence tag used throughout the [[school/glossary/index|Decision Tool]]. A claim marked **MS** comes from project documents authored by Michael Haupt or prepared under his coordination, including the [[ward-2-schools-program|Ward 2 Schools Program]] proposal, the Overberg [[biohub|BioHub]] Founding Brief, and the VoG TGF Project Outline. MS statements accurately describe intention. They are not independent verification of outcomes.
 
 ## See also
 

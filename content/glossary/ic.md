@@ -8,7 +8,7 @@ tags:
 ---
 
 
-An evidence tag used throughout the [[index|Decision Tool]]. A claim marked **IC** has been confirmed through two or more independent sources, or through official records such as legislation, [[wced|WCED]] data, published school websites, or peer-reviewed research. IC is the strongest evidence grade in the tool.
+An evidence tag used throughout the [[school/glossary/index|Decision Tool]]. A claim marked **IC** has been confirmed through two or more independent sources, or through official records such as legislation, [[wced|WCED]] data, published school websites, or peer-reviewed research. IC is the strongest evidence grade in the tool.
 
 ## See also
 
