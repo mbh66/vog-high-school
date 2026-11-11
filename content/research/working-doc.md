@@ -22,7 +22,7 @@ The valley has no English-medium high school. The nearest is in Caledon, 35 km a
 
 A standalone English-medium high school is not economically viable. The catchment area produces too few learners to sustain conventional staffing, infrastructure, and fee levels. Every model in the Decision Tool's immediate options involves trade-offs that most families find unacceptable in at least one dimension.
 
-At the same time, the Ward 2 Business and Community Development Forum (inaugural meeting, 16 September 2026) identified five development priorities, four of which have an education or training component that the valley currently cannot deliver locally:
+At the same time, the Ward 2 Development Forum (inaugural meeting, 16 September 2026) identified five development priorities, four of which have an education or training component that the valley currently cannot deliver locally:
 
 1. Tourism: no trained guides, no accredited training, no tourism office.
 2. Skills/education: skills gap in agriculture (mechanical, technical, computer), Elsenburg occupational qualifications unknown and underused, no local skills centre.

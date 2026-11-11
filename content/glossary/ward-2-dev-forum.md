@@ -1,5 +1,7 @@
 ---
-title: Ward 2 Business and Community Development Forum (W2DF)
+title: Ward 2 Development Forum (W2DF)
+aliases:
+  - Ward 2 Business and Community Development Forum
 date: 2026-09-19
 tags:
   - glossary

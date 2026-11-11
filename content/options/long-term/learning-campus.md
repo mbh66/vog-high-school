@@ -13,7 +13,7 @@ tags:
 
 An integrated learning campus for Ward 2 with four parts on shared ground: an English-medium independent boarding school as anchor tenant, a public school of skills, a vocational training centre, and a Bioregional Learning Centre for post-school study and research. Emil Weder Secondary remains the valley's Afrikaans-medium public high school and is invited to use the campus as a partner. Not yet constituted. Earliest high school enrolment: 2030 (TBV). The vocational training centre and adult education could begin earlier.
 
-**This profile is based on a feasibility exploration (MS) arising from the inaugural Ward 2 Business and Community Development Forum meeting (16 September 2026). It was revised on 23 September 2026 to add the anchor-tenant model and lessons from the Jakes Gerwel Technical School in Bonnievale. No formal proposal, registration, or funding application has been made. All claims about the campus are MS or TBV.**
+**This profile is based on a feasibility exploration (MS) arising from the inaugural Ward 2 Development Forum meeting (16 September 2026). It was revised on 23 September 2026 to add the anchor-tenant model and lessons from the Jakes Gerwel Technical School in Bonnievale. No formal proposal, registration, or funding application has been made. All claims about the campus are MS or TBV.**
 
 ## Objective
 
@@ -31,7 +31,7 @@ First, a standalone English-medium day school is not viable. The valley has too 
 
 Second, a boarding school changes the numbers. It recruits from across South Africa and beyond, so its size does not depend on how many children live in the valley. If it leases its site from a community trust and pays a levy for each learner, its fees can fund much of the campus's development, including the parts that serve valley residents who could never pay those fees (MS).
 
-The campus shares land, buildings, staff, and revenue across its parts, and serves the whole ward. It responds directly to the five development priorities of the Ward 2 Business and Community Development Forum: tourism, education and skills, agriculture and food sovereignty, conservation, and business development. See https://df.valleyofgrace.co.za/priorities/
+The campus shares land, buildings, staff, and revenue across its parts, and serves the whole ward. It responds directly to the five development priorities of the Ward 2 Development Forum: tourism, education and skills, agriculture and food sovereignty, conservation, and business development. See https://df.valleyofgrace.co.za/priorities/
 
 Four of the five have an education or training component the valley currently cannot deliver locally. The boarding school also touches all five as an employer and buyer: parents visiting bring tourism, the kitchen buys valley food, the Bioregional Learning Centre works in the conservation estate, and supply contracts go to local businesses first (MS).
 

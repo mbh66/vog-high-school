@@ -128,7 +128,7 @@ Evidence tags ([[ic|IC]], [[ms|MS]], [[tbv|TBV]]) are the first place to start i
 - [[transformasie-komitee|Transformasie Komitee]]
 - [[trancraa|TRANCRAA]]
 - [[communal-property-association|CPA: Communal Property Association]]
-- [[ward-2-dev-forum|Ward 2 Business and Community Development Forum]]
+- [[ward-2-dev-forum|Ward 2 Development Forum]]
 - [[moravian-mission|Moravian mission]]
 - [[khoi-sanctuary|Khoi sanctuary]]
 

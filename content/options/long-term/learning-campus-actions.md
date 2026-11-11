@@ -16,7 +16,7 @@ What has to happen, in what order, for the Valley of Grace Learning Campus to mo
 
 The actions are grouped by phase (see the [[learning-campus|main profile]] for the phasing rationale). Within each phase they are roughly ordered by dependency: things that gate other things come first. Some actions span phases. Calendar dates assume a November 2026 start; they shift if the start slips.
 
-This is a working list for planning purposes. It is not a project plan agreed with the community. Several of these actions (particularly those involving governance, site, and Genadendal engagement) cannot be taken by any one person. The body handling the coordination is the Ward 2 Business and Community Development Forum (W2DF), convened on 16 September 2026.
+This is a working list for planning purposes. It is not a project plan agreed with the community. Several of these actions (particularly those involving governance, site, and Genadendal engagement) cannot be taken by any one person. The body handling the coordination is the Ward 2 Development Forum (W2DF), convened on 16 September 2026.
 
 **Revised 23 September 2026.** The campus now has four parts: an English-medium boarding school as anchor tenant, a public school of skills, a vocational training centre, and a Bioregional Learning Centre as its tertiary layer. Emil Weder remains the valley's Afrikaans public high school and a partner. The revision adds actions for the operator search, the school of skills, the campus trust, and lessons from Bonnievale. New actions are numbered from 0.15.
 

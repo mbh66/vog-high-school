@@ -12,7 +12,7 @@ tags:
 
 Fully funded one-year occupational qualifications in agriculture, offered by Elsenburg Agricultural Training Institute (Western Cape Department of Agriculture). Available to school leavers from Grade 9 upwards and to working adults with farm experience. Not a school and not a replacement for one, but a post-school or parallel pathway that connects directly to the valley's agricultural economy.
 
-This profile was prompted by information shared at the inaugural Ward 2 Business and Community Development Forum meeting (16 September 2026), where a Department of Agriculture representative briefed the forum on the programme. Most valley residents, including commercial farmers who could serve as host farms, were unaware of it.
+This profile was prompted by information shared at the inaugural Ward 2 Development Forum meeting (16 September 2026), where a Department of Agriculture representative briefed the forum on the programme. Most valley residents, including commercial farmers who could serve as host farms, were unaware of it.
 
 ## Summary assessment
 

@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: en-GB
   baseUrl: hs.valleyofgrace.co.za
   ignorePatterns:
     - private
@@ -233,7 +233,7 @@ plugins:
   - source: "./plugins/custom-footer"
     enabled: true
     options:
-      copyrightHolder: null
+      copyrightHolder: Michael Haupt & Associates
       licence: null
       links:
         Valley of Grace: https://valleyofgrace.co.za/
